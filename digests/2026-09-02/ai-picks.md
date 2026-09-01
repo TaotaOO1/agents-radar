@@ -6,7 +6,7 @@
 
 ### 1. [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
-**推荐分：82/100** · HN 142 points · 147 条评论
+**推荐分：82/100** · HN 145 points · 151 条评论
 
 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。
 
@@ -14,7 +14,7 @@
 
 ### 2. [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
 
-**推荐分：76/100** · HN 119 points · 123 条评论
+**推荐分：76/100** · HN 120 points · 126 条评论
 
 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 31/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。
 
@@ -38,7 +38,7 @@
 
 ### 5. [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 
-**推荐分：68/100** · HN 473 points · 547 条评论
+**推荐分：68/100** · HN 475 points · 553 条评论
 
 推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 5/20 组成。
 
@@ -48,18 +48,18 @@
 
 | 排名 | 推荐分 | 标题 | HN 热度 | 评论 |
 | ---: | ---: | --- | ---: | ---: |
-| 1 | 82 | [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype) | 142 | 147 |
-| 2 | 76 | [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too) | 119 | 123 |
+| 1 | 82 | [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype) | 145 | 151 |
+| 2 | 76 | [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too) | 120 | 126 |
 | 3 | 72 | [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html) | 142 | 194 |
 | 4 | 70 | [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) | 132 | 48 |
-| 5 | 68 | [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) | 473 | 547 |
-| 6 | 68 | [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) | 384 | 117 |
-| 7 | 68 | [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) | 339 | 192 |
+| 5 | 68 | [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) | 475 | 553 |
+| 6 | 68 | [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) | 387 | 117 |
+| 7 | 68 | [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) | 339 | 193 |
 | 8 | 68 | [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/) | 231 | 57 |
-| 9 | 67 | [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) | 265 | 190 |
+| 9 | 67 | [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) | 265 | 191 |
 | 10 | 67 | [Agent memory as a file format](https://calpaterson.com/memoryfields.html) | 184 | 92 |
-| 11 | 66 | [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/) | 60 | 43 |
-| 12 | 65 | [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally) | 147 | 173 |
+| 11 | 66 | [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/) | 60 | 45 |
+| 12 | 65 | [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally) | 147 | 172 |
 | 13 | 62 | [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) | 646 | 435 |
 | 14 | 62 | [Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/) | 261 | 78 |
 | 15 | 62 | [How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) | 178 | 20 |
@@ -68,12 +68,12 @@
 | 18 | 59 | [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) | 56 | 47 |
 | 19 | 51 | [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/) | 12 | 7 |
 | 20 | 48 | [What We Tell AI](https://www.whatwetellai.com/) | 53 | 17 |
-| 21 | 46 | [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) | 3 | 3 |
-| 22 | 43 | [Claude × retrocomputing: emulating a QIC-117 tape drive](https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive) | 28 | 15 |
-| 23 | 43 | [Stanisław Lem foretold the current LLM mania in 1964](https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html) | 16 | 0 |
-| 24 | 42 | [Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case](https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case) | 30 | 0 |
-| 25 | 42 | [Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude](https://fellowgeek.github.io/mcp-speak/) | 9 | 5 |
-| 26 | 35 | [A video editor built for your codex/Claude Code](https://www.usekinara.com/) | 3 | 2 |
+| 21 | 47 | [Keenable SELECT: an agent that searches the web in SQL](https://keenableai.github.io/select-showcase/) | 13 | 0 |
+| 22 | 46 | [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) | 3 | 3 |
+| 23 | 43 | [Claude × retrocomputing: emulating a QIC-117 tape drive](https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive) | 28 | 15 |
+| 24 | 43 | [Stanisław Lem foretold the current LLM mania in 1964](https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html) | 16 | 0 |
+| 25 | 42 | [Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case](https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case) | 30 | 0 |
+| 26 | 42 | [Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude](https://fellowgeek.github.io/mcp-speak/) | 9 | 5 |
 | 27 | 34 | [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/) | 8 | 0 |
 | 28 | 33 | [I built a forgetting curve for an agent with one user](https://eris-system.dev/blog/forgetting-curve) | 16 | 4 |
 | 29 | 32 | [AI ruined some of my most precious accessibility tools](https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/) | 9 | 1 |
