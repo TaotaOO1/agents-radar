@@ -1,22 +1,13 @@
-name: Daily Agents Radar
+name: Daily Free Information Radar
 
 on:
   schedule:
-    # 22:37 UTC daily = 06:37 CST (UTC+8) the next day. A ~20 min run started
-    # then lands the digest around 07:00 CST, which is when it is expected.
-    #
-    # The minute is deliberately off the hour. GitHub queues scheduled runs and
-    # drops them under load, and the :00 slot is the most contended one. At
-    # "0 23 * * *" this workflow degraded badly in August 2026: the 08-26 run
-    # was dispatched 5h07m late and the 08-27 run was never created at all.
-    # qwen-flash has flat pricing, so moving the slot costs nothing (it would
-    # have, under DeepSeek's peak/off-peak scheme).
+    # 22:37 UTC = 06:37 CST. The off-hour slot reduces GitHub scheduler delays.
     - cron: "37 22 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  issues: write
 
 # A late scheduled run must not overlap a manual catch-up run: both would build
 # the same CST day's digest and open a duplicate set of issues (as happened on
@@ -46,8 +37,8 @@ jobs:
           fi
           # CST date, matching the digests/YYYY-MM-DD/ folder produced by toCstDateStr
           DATE=$(TZ=Asia/Shanghai date +%Y-%m-%d)
-          if gh api "repos/${{ github.repository }}/contents/digests/$DATE" --silent 2>/dev/null; then
-            echo "digests/$DATE is already committed — a manual run covered today. Skipping."
+          if gh api "repos/${{ github.repository }}/contents/digests/$DATE/ai-picks.md" --silent 2>/dev/null; then
+            echo "Today's free radar is already committed. Skipping."
             echo "should_run=false" >> "$GITHUB_OUTPUT"
           else
             echo "No digests/$DATE yet — proceeding."
@@ -58,9 +49,7 @@ jobs:
     needs: guard
     if: needs.guard.outputs.should_run == 'true'
     runs-on: ubuntu-latest
-    # Web content fetching adds ~60-120 s of HTTP requests on incremental runs;
-    # the first-ever run (fetching 50 articles) may need up to 20 min.
-    timeout-minutes: 40
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
@@ -78,14 +67,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Run daily digest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LLM_PROVIDER: qwen
-          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
-          PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
-          DIGEST_REPO: ${{ github.repository }}
-        run: pnpm start
+      - name: Fetch 30 links and generate 5 recommendations
+        run: pnpm free-radar
 
       - name: Commit digest files
         run: |
@@ -103,6 +86,8 @@ jobs:
           fi
 
       - name: Update web manifest
+        env:
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/agents-radar
         run: pnpm manifest
 
       - name: Commit manifest and feed
@@ -113,23 +98,3 @@ jobs:
             git pull --rebase
             git push
           fi
-
-      - name: Send Telegram notification
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '@agents_radar' }}
-          PAGES_URL: https://duanyytop.github.io/agents-radar
-        run: pnpm notify
-
-      - name: Send Feishu notification
-        env:
-          FEISHU_WEBHOOK_URLS: ${{ secrets.FEISHU_WEBHOOK_URLS }}
-          PAGES_URL: https://duanyytop.github.io/agents-radar
-        run: pnpm notify:feishu
-
-      - name: Close stale issues
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DIGEST_REPO: ${{ github.repository }}
-        run: pnpm close-stale
-

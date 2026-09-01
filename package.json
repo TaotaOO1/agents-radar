@@ -5,6 +5,7 @@
   "packageManager": "pnpm@9.15.9",
   "scripts": {
     "start": "tsx src/index.ts",
+    "free-radar": "tsx src/free-radar.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
