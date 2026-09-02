@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 16:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:43:53 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-03</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-03/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-03/ai-picks</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-03 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Gemini 3.8 Flash and 3.8 Flash Cyber 推荐分：85/100 · HN 749 points · 449 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. Muse Spark 1.3 推荐分：85/100 · HN 286 points · 197 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Six curl CVEs after OpenAI and Anthropic came back with zero 推荐分：82/100 · HN 148 points · 51 条评论 推荐理由：社区热度高、讨论充分、发...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-03</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 749 points · 449 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49537553">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.3</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 286 points · 197 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49541256">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero">Six curl CVEs after OpenAI and Anthropic came back with zero</a></h3>
+<p><strong>推荐分：82/100</strong> · HN 148 points · 51 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49536114">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 348 points · 151 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49535284">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">Three sites made 215,128 “best software” pages for AI. Perplexity cites them</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 265 points · 121 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49536375">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">85</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></td>
+<td align="right">749</td>
+<td align="right">449</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.3</a></td>
+<td align="right">286</td>
+<td align="right">197</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">82</td>
+<td><a href="https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero">Six curl CVEs after OpenAI and Anthropic came back with zero</a></td>
+<td align="right">148</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">80</td>
+<td><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></td>
+<td align="right">348</td>
+<td align="right">151</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">80</td>
+<td><a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">Three sites made 215,128 “best software” pages for AI. Perplexity cites them</a></td>
+<td align="right">265</td>
+<td align="right">121</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">80</td>
+<td><a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html">Mamdani Bans AI in NYC Schools</a></td>
+<td align="right">96</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">78</td>
+<td><a href="https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/">AI Agents and the Refactoring That Never Happens</a></td>
+<td align="right">39</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">77</td>
+<td><a href="https://claude.com/check-content">Check if a file was made with Claude</a></td>
+<td align="right">143</td>
+<td align="right">106</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">77</td>
+<td><a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">The Post-AI Internet Doesn&#39;t Look Great</a></td>
+<td align="right">67</td>
+<td align="right">75</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">73</td>
+<td><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Claude Fable 5.1 and Claude Mythos 5.1</a></td>
+<td align="right">1373</td>
+<td align="right">1328</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">73</td>
+<td><a href="https://mvakde.github.io/blog/44-on-arc-1/">I trained a small transformer in 1.5hrs and it beats many LLMs</a></td>
+<td align="right">650</td>
+<td align="right">161</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">73</td>
+<td><a href="https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model">Quasar 438B: Europe&#39;s Leading AI Model</a></td>
+<td align="right">156</td>
+<td align="right">101</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">73</td>
+<td><a href="https://github.com/mlc-ai/web-llm">WebLLM: high-performance in-browser LLM inference engine</a></td>
+<td align="right">79</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">71</td>
+<td><a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">The efficient frontier of LLM inference</a></td>
+<td align="right">147</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">70</td>
+<td><a href="https://arxiv.org/abs/2608.29530">The Emergent Symbolic Structure of Artificial Neural Networks</a></td>
+<td align="right">269</td>
+<td align="right">97</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">70</td>
+<td><a href="https://openteams.com/intelligence-vs-cost/">LLMs: Intelligence vs. Cost</a></td>
+<td align="right">67</td>
+<td align="right">38</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">68</td>
+<td><a href="https://danluu.com/zitron/">How accurate have Ed Zitron&#39;s AI skeptic predictions been?</a></td>
+<td align="right">836</td>
+<td align="right">987</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">68</td>
+<td><a href="https://www.worldlabs.ai/blog/atlas">Atlas: A World Model for Spatial Intelligence</a></td>
+<td align="right">256</td>
+<td align="right">59</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">68</td>
+<td><a href="https://marius.blog/firefox-155-ai-kill-switch-retest/">Firefox&#39;s AI Switch Is Off. Telemetry Isn&#39;t</a></td>
+<td align="right">30</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">67</td>
+<td><a href="https://masteranza.github.io/weedout/">Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</a></td>
+<td align="right">175</td>
+<td align="right">75</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">66</td>
+<td><a href="https://openai.com/index/path-to-astra/">Path to Astra: critical capabilities and frontier safeguards</a></td>
+<td align="right">171</td>
+<td align="right">96</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">60</td>
+<td><a href="https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/">No AI until high school:NYC schools announce major classroom technology overhaul</a></td>
+<td align="right">17</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">59</td>
+<td><a href="https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/">You Know Who Hates AI? Insurance Claims Adjusters</a></td>
+<td align="right">133</td>
+<td align="right">132</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">55</td>
+<td><a href="https://github.com/zvec-ai/zvec-grep">Z: Local-first search layer for humans and agents</a></td>
+<td align="right">8</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">54</td>
+<td><a href="https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/">AI is stopping startups from completing puberty</a></td>
+<td align="right">20</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">51</td>
+<td><a href="https://tangleml.com/">Tangle – Visual ML Pipeline Editor</a></td>
+<td align="right">21</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">50</td>
+<td><a href="https://github.com/mezmo/aura">Show HN: Aura – a Rust agent that investigates and fixes production incidents</a></td>
+<td align="right">17</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://adamgreenough.net/blog/this-fence-has-no-farmer/">This Fence Has No Farmer (Chesterton&#39;s Fence and AI-Generated Code)</a></td>
+<td align="right">6</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">42</td>
+<td><a href="https://www.fastcompany.com/91563020/aspire-rocket-design-spacex">AI, ex-Soviet engineers, and the Holy Grail of rocketry</a></td>
+<td align="right">36</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">34</td>
+<td><a href="https://blog.val.town/aeo">A docs page is a search query to find AI agents and route them to your company</a></td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-02</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-02/ai-picks</link>
@@ -15607,142 +15872,6 @@
 </ol>
 <hr>
 <p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Product Hunt AI 产品日报 2026-08-31</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-ph</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-ph</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Product Hunt AI 产品日报 2026-08-31 数据来源: Product Hunt | 共 9 个产品 | 生成时间: 2026-08-31 00:48 UTC 今日亮点 今日 Product Hunt 上的 AI 产品格局由那些弥合技术能力与实际应用之间差距的工具主导。最引人注目的发布是 1752vc Pitch Deck Analyzer，它利用 AI 在路演幻灯片发送前模拟投资人反馈——为创始人提供了前所未有的预判验证能力。与此同时，腾讯开源的 Hy4 预览版（770B 模型） 表明大规模、长时序推理类 AI 模型正加速发展，开发者关注度持续走高。在并行方向上，Cohere Parse 5 通过从复杂输入（如表格和图像）中提取结构化数据，推动文档智能进步——这对企业知识管道至关重要。值得注意的是，多个产品将 AI 与特定领域工作流结合，从职业辅导（Democruit）到卫星数据模拟（God’s Eye View），显示出向情境化、高影响力 AI 应用转型的趋势。 热门产品 🤖 AI 代理与助手 产品 票数 评论 摘要 Staats · 网站 80 10 一个能...</description>
-      <content:encoded><![CDATA[<h1>Product Hunt AI 产品日报 2026-08-31</h1>
-<blockquote>
-<p>数据来源: <a href="https://www.producthunt.com/">Product Hunt</a> | 共 9 个产品 | 生成时间: 2026-08-31 00:48 UTC</p>
-</blockquote>
-<hr>
-<h3><strong>今日亮点</strong></h3>
-<p>今日 Product Hunt 上的 AI 产品格局由那些弥合技术能力与实际应用之间差距的工具主导。最引人注目的发布是 <strong>1752vc Pitch Deck Analyzer</strong>，它利用 AI 在路演幻灯片发送前模拟投资人反馈——为创始人提供了前所未有的预判验证能力。与此同时，腾讯开源的 <strong>Hy4 预览版（770B 模型）</strong> 表明大规模、长时序推理类 AI 模型正加速发展，开发者关注度持续走高。在并行方向上，<strong>Cohere Parse 5</strong> 通过从复杂输入（如表格和图像）中提取结构化数据，推动文档智能进步——这对企业知识管道至关重要。值得注意的是，多个产品将 AI 与特定领域工作流结合，从职业辅导（<strong>Democruit</strong>）到卫星数据模拟（<strong>God’s Eye View</strong>），显示出向情境化、高影响力 AI 应用转型的趋势。</p>
-<hr>
-<h3><strong>热门产品</strong></h3>
-<h4>🤖 AI 代理与助手</h4>
-<table>
-<thead>
-<tr>
-<th align="left">产品</th>
-<th align="right">票数</th>
-<th align="right">评论</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.producthunt.com/products/staats-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Staats · <a href="https://www.producthunt.com/r/5TF6TUVXTV72WX">网站</a></a></td>
-<td align="right">80</td>
-<td align="right">10</td>
-<td align="left">一个能监控网站性能并回答站点健康问题的 AI 代理——将数据分析转化为对话式洞察。其与实时 SaaS 指标集成，使其成为主动式的数字协作者。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.producthunt.com/products/democruit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Democruit · <a href="https://www.producthunt.com/r/ZLEF4CFHZL47L7">网站</a></a></td>
-<td align="right">34</td>
-<td align="right">19</td>
-<td align="left">以候选人为核心的 AI 职业伙伴，协助用户从简历到入职 offer 的全过程。基于行为数据与市场趋势个性化求职路径，非常适合初入职场的专业人士。</td>
-</tr>
-</tbody></table>
-<h4>🛠️ 开发者工具</h4>
-<table>
-<thead>
-<tr>
-<th align="left">产品</th>
-<th align="right">票数</th>
-<th align="right">评论</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.producthunt.com/products/seendiff?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">seendiff · <a href="https://www.producthunt.com/r/22PJM2KITAJVVG">网站</a></a></td>
-<td align="right">143</td>
-<td align="right">7</td>
-<td align="left">基于浏览器的代码差异查看器，支持进度追踪，专为优化 Pull Request 审查流程而设计。轻量级、实时交互体验提升了协作效率，且无冗余干扰。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Cohere Parse 5 · <a href="https://www.producthunt.com/r/LFCJ26EGCCWVWE">网站</a></a></td>
-<td align="right">203</td>
-<td align="right">4</td>
-<td align="left">通过高级解析技术，将非结构化文档、表格和图像转换为可被 AI 使用的数据。适用于需要可靠输入以支撑下游 LLM 工作流的企业场景。</td>
-</tr>
-</tbody></table>
-<h4>📊 AI 应用</h4>
-<table>
-<thead>
-<tr>
-<th align="left">产品</th>
-<th align="right">票数</th>
-<th align="right">评论</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.producthunt.com/products/1752vc-pitch-deck-analysis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">1752vc Pitch Deck Analyzer · <a href="https://www.producthunt.com/r/DU4BZJ5GYQ4Z44">网站</a></a></td>
-<td align="right">337</td>
-<td align="right">88</td>
-<td align="left">在提交前预测投资人对路演幻灯片的反应——为初创企业在融资中赢得竞争优势。其对情感与结构的关注使其具备独特可操作性。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.producthunt.com/products/thrivestack-citedby?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">ThriveStack citedby · <a href="https://www.producthunt.com/r/NLRRTIZWHI55QH">网站</a></a></td>
-<td align="right">20</td>
-<td align="right">1</td>
-<td align="left">通过 AI 驱动的 SEO 与内容可见性分析，衡量、修复并归因收入影响。针对增长团队，填补了多数工具在归因清晰度上的空白。</td>
-</tr>
-</tbody></table>
-<h4>🎨 创意与内容</h4>
-<table>
-<thead>
-<tr>
-<th align="left">产品</th>
-<th align="right">票数</th>
-<th align="right">评论</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.producthunt.com/products/neo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Neo · <a href="https://www.producthunt.com/r/DTBFLEA2UBAF7S">网站</a></a></td>
-<td align="right">140</td>
-<td align="right">7</td>
-<td align="left">由《Silo》作者打造的小说写作工具，融合叙事智能与 AI 辅助撰写功能。吸引寻求创意与结构双重指导的写作者。</td>
-</tr>
-</tbody></table>
-<h4>🔧 基础设施与模型</h4>
-<table>
-<thead>
-<tr>
-<th align="left">产品</th>
-<th align="right">票数</th>
-<th align="right">评论</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.producthunt.com/products/hunyuan-a13b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Hy4 预览版 · <a href="https://www.producthunt.com/r/MO6FCOZWR6JECM">网站</a></a></td>
-<td align="right">207</td>
-<td align="right">3</td>
-<td align="left">腾讯推出的 7700 亿参数开源模型，专为长时序推理任务优化。为研究者与开发者提供强大、可扩展的基础模型，具备出色的多语言支持能力。</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>市场信号</strong></h3>
-<p>今日 Product Hunt 上的 AI 发布揭示了一个日益成熟的生态系统：创新重心正从通用模型转向专业化、工作流集成的工具。<strong>AI 代理与助手</strong> 和 <strong>开发者工具</strong> 类别尤为拥挤，反映出对智能自动化及无缝融入现有工程管线的需求。显著趋势包括<strong>上下文感知代理</strong>（如 Staats 监控站点健康）和<strong>领域特定解析</strong>（Cohere Parse 5），表明行业正超越通用聊天机器人，迈向专用智能。  </p>
-<p>开源仍主导基础设施类发布——尤其以腾讯的 <strong>Hy4 预览版</strong> 为代表，彰显中国在人工智能领域的全球雄心。这与 1752vc Pitch Deck Analyzer 等闭源应用形成对比，后者更注重用户体验与商业化。这种平衡暗示出一种分化趋势：开源模型赋能开发者，而闭源 AI 应用则面向终端用户，提供即开即用的解决方案。像 <strong>God’s Eye View</strong> 这样的独特用例——一款基于真实地理空间数据的浏览器端间谍卫星模拟器——凸显了 AI 正被应用于小众但高保真领域，模糊了仿真、数据科学与公众参与之间的界限。</p>
-<hr>
-<h3><strong>值得尝试</strong></h3>
-<ol>
-<li><p><strong><a href="https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Cohere Parse 5</a></strong> – 对于构建 AI 管道的开发者而言，这是从混乱的真实世界输入中提取结构化数据最强大的方式之一——对于训练精准的 LLM 或驱动知识库至关重要。</p>
-</li>
-<li><p><strong><a href="https://www.producthunt.com/products/hunyuan-a13b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Hy4 预览版（770B）</a></strong> – 开源爱好者与研究人员应探索这一超大规模模型在长上下文推理中的表现，特别是若你正在处理多语言或复杂推理任务。</p>
-</li>
-<li><p><strong><a href="https://www.producthunt.com/products/neo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+radar+%28ID%3A+279857%29">Neo</a></strong> – 对关注 AI 辅助叙事创作的写作者与创作者而言，其叙事连贯性引擎与直观界面极具吸引力，由畅销系列小说作者亲自打造。</p>
-</li>
-</ol>
-<hr>
-<p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
     </item>
   </channel>
