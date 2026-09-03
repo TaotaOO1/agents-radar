@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 02 Sep 2026 22:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:41:17 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-04</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-04/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-04/ai-picks</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-04 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. OpenAI begins rolling out GPT-6 Astra 推荐分：90/100 · HN 233 points · 221 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. GPT-6 Astra 推荐分：85/100 · HN 1044 points · 761 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Qwen 3.8 27B available on Cerebras at 1500 tokens/s 推荐分：85/100 · HN 382 points · 118 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-04</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html">OpenAI begins rolling out GPT-6 Astra</a></h3>
+<p><strong>推荐分：90/100</strong> · HN 233 points · 221 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49554273">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 1044 points · 761 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49554643">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://inference-docs.cerebras.ai/models/overview">Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 382 points · 118 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49554520">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://news.ycombinator.com/item?id=49551096">Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 306 points · 508 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49551096">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://arcprize.org/blog/astra">OpenAI&#39;s GPT-6 Astra on ARC-AGI-3</a></h3>
+<p><strong>推荐分：82/100</strong> · HN 127 points · 69 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49555691">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">90</td>
+<td><a href="https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html">OpenAI begins rolling out GPT-6 Astra</a></td>
+<td align="right">233</td>
+<td align="right">221</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></td>
+<td align="right">1044</td>
+<td align="right">761</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">85</td>
+<td><a href="https://inference-docs.cerebras.ai/models/overview">Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></td>
+<td align="right">382</td>
+<td align="right">118</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">85</td>
+<td><a href="https://news.ycombinator.com/item?id=49551096">Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</a></td>
+<td align="right">306</td>
+<td align="right">508</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">82</td>
+<td><a href="https://arcprize.org/blog/astra">OpenAI&#39;s GPT-6 Astra on ARC-AGI-3</a></td>
+<td align="right">127</td>
+<td align="right">69</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">80</td>
+<td><a href="https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html">Nvidia to acquire Hugging Face</a></td>
+<td align="right">292</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">80</td>
+<td><a href="https://ifm.ai/blog/k2/">K2 Horizon: A connected fleet of six open models</a></td>
+<td align="right">231</td>
+<td align="right">76</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">78</td>
+<td><a href="https://status.x.ai/">Grok outage</a></td>
+<td align="right">156</td>
+<td align="right">152</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">77</td>
+<td><a href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/">Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</a></td>
+<td align="right">146</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">73</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></td>
+<td align="right">1143</td>
+<td align="right">651</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">71</td>
+<td><a href="https://claude.com/blog/claude-for-commerce-agents">Claude for Commerce Agents</a></td>
+<td align="right">55</td>
+<td align="right">59</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">70</td>
+<td><a href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007">Go grandmaster Shin defeats AI KataGo with a two-stone handicap</a></td>
+<td align="right">143</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">70</td>
+<td><a href="https://armature.tech/blog/which-tools-coding-agents-install">Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</a></td>
+<td align="right">35</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.3</a></td>
+<td align="right">678</td>
+<td align="right">437</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">68</td>
+<td><a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">Three sites made 215,128 “best software” pages for AI. Perplexity cites them</a></td>
+<td align="right">503</td>
+<td align="right">245</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">68</td>
+<td><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></td>
+<td align="right">486</td>
+<td align="right">241</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Claude Fable 5.1 and Claude Mythos 5.1</a></td>
+<td align="right">1404</td>
+<td align="right">1370</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">67</td>
+<td><a href="https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model">Quasar 438B: Europe&#39;s Leading AI Model</a></td>
+<td align="right">188</td>
+<td align="right">128</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">67</td>
+<td><a href="https://github.com/openai/PrimeGaps186">Prime Gaps at Most 186</a></td>
+<td align="right">44</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">66</td>
+<td><a href="https://github.com/mlc-ai/web-llm">WebLLM: high-performance in-browser LLM inference engine</a></td>
+<td align="right">142</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">66</td>
+<td><a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra">GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</a></td>
+<td align="right">19</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">65</td>
+<td><a href="https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c">The Double Matthew Walker Knot by Fable 5.1</a></td>
+<td align="right">15</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">64</td>
+<td><a href="https://secondthoughts.ai/p/14-reasons-robotics-is-hard">Reasons robotics is hard</a></td>
+<td align="right">120</td>
+<td align="right">72</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">62</td>
+<td><a href="https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/">Yes, no (built-in) AI is now a feature – LibreOffice blog</a></td>
+<td align="right">28</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">61</td>
+<td><a href="https://scottaaronson.blog/?p=10046">LLMs and self-referentiality</a></td>
+<td align="right">70</td>
+<td align="right">74</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">59</td>
+<td><a href="https://news.ycombinator.com/item?id=49552616">Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents</a></td>
+<td align="right">26</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">55</td>
+<td><a href="https://deploymentsafety.openai.com/gpt-6-astra">GPT-6 Astra System Card</a></td>
+<td align="right">24</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">52</td>
+<td><a href="https://sander.ai/2024/02/28/paradox.html">The paradox of diffusion distillation (2024)</a></td>
+<td align="right">15</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">52</td>
+<td><a href="https://three-llm.ben3d.ca">Three-LLM: Three.js-based WebGPU LLM inference engine</a></td>
+<td align="right">10</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">49</td>
+<td><a href="https://zed.dev/blog/agentic-xanadu">Xanadu was waiting for agents</a></td>
+<td align="right">54</td>
+<td align="right">24</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-03</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-03/ai-picks</link>
@@ -15750,128 +16015,6 @@
 </ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hacker News AI Community Digest 2026-08-31</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-hn-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-hn-en</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Hacker News AI Community Digest 2026-08-31 Source: Hacker News | 30 stories | Generated: 2026-08-31 00:48 UTC Today&amp;#39;s Highlights The AI community on Hacker News is buzzing around the convergence of powerful new models, ethical concerns in real-world AI deployment, and growing skepticism about AI’s impact on human agency. High-scoring threads like “Judge rules Trump administration’s blacklisting of Anthropic was illegal” and “CEO fired developers to make room for AI. Developers create open so...</description>
-      <content:encoded><![CDATA[<h1>Hacker News AI Community Digest 2026-08-31</h1>
-<blockquote>
-<p>Source: <a href="https://news.ycombinator.com/">Hacker News</a> | 30 stories | Generated: 2026-08-31 00:48 UTC</p>
-</blockquote>
-<hr>
-<hr>
-<h3><strong>Today&#39;s Highlights</strong></h3>
-<p>The AI community on Hacker News is buzzing around the convergence of powerful new models, ethical concerns in real-world AI deployment, and growing skepticism about AI’s impact on human agency. High-scoring threads like <em>“Judge rules Trump administration’s blacklisting of Anthropic was illegal”</em> and <em>“CEO fired developers to make room for AI. Developers create open source AI CEO”</em> reflect deep unease over regulatory overreach and corporate AI displacement. Meanwhile, technical discussions around model reliability—such as Claude Code being tricked by simple website summaries—highlight ongoing trust issues in production-grade AI tools. The sentiment leans critical yet curious: while innovation accelerates, the community demands transparency, accountability, and human-centered design.</p>
-<hr>
-<h3><strong>Top News &amp; Discussions</strong></h3>
-<h4>🔬 Models &amp; Research</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://arxiv.org/abs/2608.23691">Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</a> · <a href="https://news.ycombinator.com/item?id=49481455">HN</a></td>
-<td align="right">120</td>
-<td align="right">40</td>
-<td align="left">A breakthrough paper demonstrating LLM agents solving open mathematical problems autonomously—sparking debate on whether this signals early steps toward artificial general intelligence.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a> · <a href="https://news.ycombinator.com/item?id=49449507">HN</a></td>
-<td align="right">1129</td>
-<td align="right">575</td>
-<td align="left">One of the fastest inference-optimized models yet released, drawing attention for performance on edge devices; users are testing its trade-offs between speed and accuracy.</td>
-</tr>
-</tbody></table>
-<h4>🛠️ Tools &amp; Engineering</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/stemdeckapp/stemdeck">StemDeck, a free, open-source and local AI stem separator</a> · <a href="https://news.ycombinator.com/item?id=49486081">HN</a></td>
-<td align="right">239</td>
-<td align="right">63</td>
-<td align="left">A privacy-first audio tool enabling local music stem separation without cloud dependency—celebrated for democratizing access to AI-powered audio processing.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://pwning.systems/posts/llm-memory-program-analysis/">I accidentally turned LLM memory into program analysis</a> · <a href="https://news.ycombinator.com/item?id=49485416">HN</a></td>
-<td align="right">300</td>
-<td align="right">83</td>
-<td align="left">A deep dive into how LLM memory can reveal hidden code patterns—raising both security concerns and potential for novel static analysis techniques.</td>
-</tr>
-</tbody></table>
-<h4>🏢 Industry News</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">Apple introduces M6 and M5 Ultra</a> · <a href="https://news.ycombinator.com/item?id=49433292">HN</a></td>
-<td align="right">1310</td>
-<td align="right">1296</td>
-<td align="left">Apple’s new silicon chips mark a major leap in on-device AI compute—fueling excitement about future native AI experiences on Mac and iOS.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html">Judge rules Trump administration’s blacklisting of Anthropic was illegal</a> · <a href="https://news.ycombinator.com/item?id=49473522">HN</a></td>
-<td align="right">629</td>
-<td align="right">431</td>
-<td align="left">A landmark legal victory against government overreach in AI regulation—widely seen as a win for innovation and free-market principles in tech.</td>
-</tr>
-</tbody></table>
-<h4>💬 Opinions &amp; Debates</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://noaifridays.com/">No AI Fridays</a> · <a href="https://news.ycombinator.com/item?id=49498095">HN</a></td>
-<td align="right">261</td>
-<td align="right">185</td>
-<td align="left">A growing movement advocating for deliberate breaks from AI tools—reflecting rising fatigue with constant augmentation and a call for digital mindfulness.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">Good Culture Is the Biggest Productivity Hack, Not AI</a> · <a href="https://news.ycombinator.com/item?id=49491568">HN</a></td>
-<td align="right">445</td>
-<td align="right">113</td>
-<td align="left">A compelling argument that sustainable productivity stems from team dynamics, not AI tools—resonating strongly amid widespread burnout narratives.</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>Community Sentiment Signal</strong></h3>
-<p>Today’s HN AI discourse is dominated by high-engagement, high-impact topics: Apple’s M6/M5 Ultra chip launch (1310 score), the illegal blacklisting ruling (629 score), and the viral “AI CEO” project (1027 score) all signal intense interest in infrastructure, regulation, and human-AI power dynamics. The most active threads combine technical depth with social implications—especially around trust, ethics, and work culture. Controversy centers on AI’s reliability (e.g., Claude Code being tricked) and its role in job displacement, with strong consensus that current systems lack robustness and accountability. Compared to last cycle, there’s a noticeable shift from pure model hype to deeper scrutiny of <em>real-world integration</em>, <em>legal boundaries</em>, and <em>human resilience</em>. The mood is less celebratory, more cautious—prioritizing guardrails, openness, and intentional use over unchecked acceleration.</p>
-<hr>
-<h3><strong>Worth Deep Reading</strong></h3>
-<ol>
-<li><strong><a href="https://arxiv.org/abs/2608.23691">Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</a></strong> – This paper pushes the envelope on agent autonomy; it’s essential reading for researchers exploring AGI pathways and multi-agent collaboration.  </li>
-<li><strong><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">Apple introduces M6 and M5 Ultra</a></strong> – For engineers and product builders, this marks a pivotal moment in on-device AI; understanding its architecture will shape future app development.  </li>
-<li><strong><a href="https://noaifridays.com/">No AI Fridays</a></strong> – More than a meme, this movement reflects a cultural reckoning with cognitive overload; worth exploring for teams aiming to build sustainable, human-first workflows.</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
