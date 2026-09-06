@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 22:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:41:55 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-07</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-07/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-07/ai-picks</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-07 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. A/I shuts down – Stay human 推荐分：80/100 · HN 470 points · 329 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. An Alien Mind 推荐分：80/100 · HN 280 points · 226 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. GPT-6 Astra on robot arms 推荐分：75/100 · HN 229 points · 180 条评论 推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。 ...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-07</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down – Stay human</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 470 points · 329 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49586898">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://openai.com/index/an-alien-mind/">An Alien Mind</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 280 points · 226 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49588080">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://openai.robocurve.org/gpt-6-astra/">GPT-6 Astra on robot arms</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 229 points · 180 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49582582">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://openai.com/index/research-acceleration-view-inside-openai">Research acceleration: The view inside OpenAI</a></h3>
+<p><strong>推荐分：74/100</strong> · HN 89 points · 65 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49587217">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">How we monitor internal coding agents for misalignment</a></h3>
+<p><strong>推荐分：74/100</strong> · HN 45 points · 44 条评论</p>
+<p>推荐理由：讨论充分、发布时间新、与 AI 主题高度相关。评分由热度 25/35、讨论 19/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49588214">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down – Stay human</a></td>
+<td align="right">470</td>
+<td align="right">329</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://openai.com/index/an-alien-mind/">An Alien Mind</a></td>
+<td align="right">280</td>
+<td align="right">226</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">75</td>
+<td><a href="https://openai.robocurve.org/gpt-6-astra/">GPT-6 Astra on robot arms</a></td>
+<td align="right">229</td>
+<td align="right">180</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">74</td>
+<td><a href="https://openai.com/index/research-acceleration-view-inside-openai">Research acceleration: The view inside OpenAI</a></td>
+<td align="right">89</td>
+<td align="right">65</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">74</td>
+<td><a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">How we monitor internal coding agents for misalignment</a></td>
+<td align="right">45</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">72</td>
+<td><a href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation">AI, Tools and Transformation</a></td>
+<td align="right">140</td>
+<td align="right">63</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">68</td>
+<td><a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">AI handles incidents, engineers lose touch with their systems</a></td>
+<td align="right">400</td>
+<td align="right">338</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">68</td>
+<td><a href="https://arxiv.org/abs/2609.03344">LLMs as a Cognitive Virus</a></td>
+<td align="right">371</td>
+<td align="right">243</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">68</td>
+<td><a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">Portal by Spotify cut my Claude Code token usage by 90%</a></td>
+<td align="right">267</td>
+<td align="right">171</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">67</td>
+<td><a href="https://collusion.wiki/">Discovery of a new OpenAI agent message board</a></td>
+<td align="right">2262</td>
+<td align="right">1577</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Claude Fable 5.1 and Claude Mythos 5.1</a></td>
+<td align="right">1415</td>
+<td align="right">1392</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">67</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></td>
+<td align="right">1157</td>
+<td align="right">665</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">67</td>
+<td><a href="https://openrouter.ai/openai/gpt-6-astra">GPT-6 Astra on OpenRouter</a></td>
+<td align="right">316</td>
+<td align="right">231</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">66</td>
+<td><a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">Artificial Analysis Intelligence Index v4.2</a></td>
+<td align="right">156</td>
+<td align="right">65</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">62</td>
+<td><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></td>
+<td align="right">2246</td>
+<td align="right">2055</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">62</td>
+<td><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">Formalizing Fermat&#39;s Last Theorem</a></td>
+<td align="right">763</td>
+<td align="right">497</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://inference-docs.cerebras.ai/models/overview">Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></td>
+<td align="right">688</td>
+<td align="right">226</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007">Go grandmaster Shin defeats AI KataGo with a two-stone handicap</a></td>
+<td align="right">467</td>
+<td align="right">186</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">62</td>
+<td><a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">Can AI design circuit boards yet?</a></td>
+<td align="right">414</td>
+<td align="right">228</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">62</td>
+<td><a href="https://github.com/okf-memory/okf-agent-memory">OKF Agent Memory – Git-native persistent memory for AI coding agents</a></td>
+<td align="right">75</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">61</td>
+<td><a href="https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md">Show HN: TERMy – A fast terminal assistant that does not use LLMs</a></td>
+<td align="right">209</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">60</td>
+<td><a href="https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html">“Next-token predictor” is the wrong mental model for LLMs</a></td>
+<td align="right">159</td>
+<td align="right">310</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">60</td>
+<td><a href="https://zed.dev/blog/agentic-xanadu">Xanadu was waiting for agents</a></td>
+<td align="right">156</td>
+<td align="right">62</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">58</td>
+<td><a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/">Project HydraFusion: Frontier quality via multi-model orchestration</a></td>
+<td align="right">78</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">57</td>
+<td><a href="https://www.effort.news/revelation">Anthropic &amp; friends caught paying religious NGO&#39;s 3.3M for propaganda</a></td>
+<td align="right">59</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">49</td>
+<td><a href="https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad">What is Nueralese and Why is it Bad</a></td>
+<td align="right">64</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">49</td>
+<td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email">AI Slop</a></td>
+<td align="right">12</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">45</td>
+<td><a href="https://www.youtube.com/watch?v=nTqCVJFr7XM">Cory Doctorow on the Big AI Lie [video]</a></td>
+<td align="right">9</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">45</td>
+<td><a href="https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/">AI Is Making Us Less Human</a></td>
+<td align="right">6</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">41</td>
+<td><a href="https://twitter.com/RTomMcCoy/status/2094870131939684488">LLM representations have implicit symbolic structure</a></td>
+<td align="right">10</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-06</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-06/ai-picks</link>
@@ -16004,216 +16269,6 @@
 
 <hr>
 <p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 开源趋势日报 2026-08-31</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-trending</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-trending</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 开源趋势日报 2026-08-31 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-31 00:48 UTC AI 开源趋势报告 – 2026-08-31 1. 今日亮点 当前，人工智能开源生态正迎来以“智能体”为核心的创新浪潮，多智能体系统与自主工作流成为最活跃的发展方向。值得注意的是，K-Dense-AI/scientific-agent-skills 和 THU-MAIC/OpenMAIC 正引领科学推理与课堂级 AI 协作的民主化进程，两者在不到 24 小时内均新增超过 1,000 颗星。与此同时，archify 与 vphone-cli 反映出对可视化及交互式智能体工具日益增长的需求——尤其在建筑设计与语音界面原型开发领域。freellmapi 的爆发式增长（通过单一接口提供 34 个免费大语言模型服务）则体现了开发者对低门槛、自托管推理访问的强烈渴求。这些趋势共同指向一个核心转变：即向实用、可组合的智能体演进，使其能无缝集成至开发与科研工作流中。 2. 按类别排名的顶级项目 🤖 AI 智能体 / 工...</description>
-      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-08-31</h1>
-<blockquote>
-<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-31 00:48 UTC</p>
-</blockquote>
-<hr>
-<h1><strong>AI 开源趋势报告 – 2026-08-31</strong></h1>
-<hr>
-<h2><strong>1. 今日亮点</strong></h2>
-<p>当前，人工智能开源生态正迎来以“智能体”为核心的创新浪潮，多智能体系统与自主工作流成为最活跃的发展方向。值得注意的是，<strong>K-Dense-AI/scientific-agent-skills</strong> 和 <strong>THU-MAIC/OpenMAIC</strong> 正引领科学推理与课堂级 AI 协作的民主化进程，两者在不到 24 小时内均新增超过 1,000 颗星。与此同时，<strong>archify</strong> 与 <strong>vphone-cli</strong> 反映出对可视化及交互式智能体工具日益增长的需求——尤其在建筑设计与语音界面原型开发领域。<strong>freellmapi</strong> 的爆发式增长（通过单一接口提供 34 个免费大语言模型服务）则体现了开发者对低门槛、自托管推理访问的强烈渴求。这些趋势共同指向一个核心转变：即向<strong>实用、可组合的智能体</strong>演进，使其能无缝集成至开发与科研工作流中。</p>
-<hr>
-<h2><strong>2. 按类别排名的顶级项目</strong></h2>
-<h3>🤖 AI 智能体 / 工作流</h3>
-<table>
-<thead>
-<tr>
-<th align="left">项目</th>
-<th align="left">语言</th>
-<th align="right">星标数（总计 / 今日）</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/K-Dense-AI/scientific-agent-skills">K-Dense-AI/scientific-agent-skills</a></td>
-<td align="left">Python</td>
-<td align="right">0 (+1,114)</td>
-<td align="left">覆盖生物、化学与药物研发领域的 165 个经验证的 AI 技能库——已被超过 19 万名科学家使用。支持 Cursor、Claude Code 以及开源智能体技能标准。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a></td>
-<td align="left">TypeScript</td>
-<td align="right">0 (+1,370)</td>
-<td align="left">开源多智能体互动式课堂平台，支持一键部署，实现沉浸式、实时协作学习体验。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/p-e-w/heretic">p-e-w/heretic</a></td>
-<td align="left">Python</td>
-<td align="right">0 (+369)</td>
-<td align="left">全自动语言模型内容过滤移除工具——允许生成无限制的 AI 输出，引发伦理与监管争议。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/livekit/agents">livekit/agents</a></td>
-<td align="left">Python</td>
-<td align="right">0 (+132)</td>
-<td align="left">支持实时音视频与语音处理的语音智能体框架——适用于虚拟助手与远程存在类应用。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/mvanhorn/last30days-skill">mvanhorn/last30days-skill</a></td>
-<td align="left">Python</td>
-<td align="right">0 (+230)</td>
-<td align="left">AI 智能体技能，可聚合并合成来自 Reddit、X、YouTube、HN 与 Polymarket 的内容，生成有依据的摘要——极适合趋势分析。</td>
-</tr>
-</tbody></table>
-<h3>🔍 RAG / 知识增强</h3>
-<table>
-<thead>
-<tr>
-<th align="left">项目</th>
-<th align="left">语言</th>
-<th align="right">星标数（总计 / 今日）</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a></td>
-<td align="left">Python</td>
-<td align="right">112,656</td>
-<td align="left">利用本地 AST 解析将代码库、文档与配置转化为可查询的知识图谱——无需向量数据库。是 Claude Code 与 Cursor 的“graphify”技能。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/thedotmack/claude-mem">thedotmack/claude-mem</a></td>
-<td align="left">JavaScript</td>
-<td align="right">92,664</td>
-<td align="left">智能体的持久化上下文层：通过 AI 压缩会话历史，并注入未来交互的相关上下文。兼容 Claude Code、Copilot 等。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/infiniflow/ragflow">infiniflow/ragflow</a></td>
-<td align="left">Go</td>
-<td align="right">89,668</td>
-<td align="left">领先的开源 RAG 引擎，融合检索、智能体逻辑与工作流编排——专为高性能、可扩展的知识应用设计。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/headroomlabs-ai/headroom">headroomlabs-ai/headroom</a></td>
-<td align="left">Python</td>
-<td align="right">68,111</td>
-<td align="left">在 LLM 输入前压缩日志、文件与 RAG 分块——可降低 60–95% 的 token 使用量，同时保持精度。提供库、代理或 MCP 服务器形式。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/topoteretes/cognee">Cognee</a></td>
-<td align="left">Python</td>
-<td align="right">30,359</td>
-<td align="left">自托管 AI 记忆平台，通过知识图谱引擎实现跨会话的持久长期记忆——非常适合多会话智能体连续性。</td>
-</tr>
-</tbody></table>
-<h3>🧠 大语言模型 / 训练</h3>
-<table>
-<thead>
-<tr>
-<th align="left">项目</th>
-<th align="left">语言</th>
-<th align="right">星标数（总计 / 今日）</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/jingyaogong/minimind">jingyaogong/minimind</a></td>
-<td align="left">Python</td>
-<td align="right">55,460</td>
-<td align="left">仅需 2 小时即可从零训练一个 6400 万参数的大语言模型——面向希望快速、轻量级训练的开发者与研究者。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/open-compass/opencompass">open-compass/opencompass</a></td>
-<td align="left">Python</td>
-<td align="right">7,377</td>
-<td align="left">全面的 LLM 评估平台，支持 100+ 模型（如 Llama3、Mistral、Qwen、Claude 等）在 100+ 数据集上的评测——对性能基准至关重要。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/skyzh/tiny-llm">skyzh/tiny-llm</a></td>
-<td align="left">Python</td>
-<td align="right">4,531</td>
-<td align="left">通过构建微型 vLLM + Qwen 栈，在 Apple Silicon 上学习 LLM 推理——适合系统工程师探索边缘部署。</td>
-</tr>
-</tbody></table>
-<h3>🔧 AI 基础设施</h3>
-<table>
-<thead>
-<tr>
-<th align="left">项目</th>
-<th align="left">语言</th>
-<th align="right">星标数（总计 / 今日）</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/tashfeenahmed/freellmapi">freellmapi</a></td>
-<td align="left">TypeScript</td>
-<td align="right">0 (+504)</td>
-<td align="left">通过单一 <code>/v1</code> API 提供 34 个免费 LLM 服务商与 635 个模型端点——支持智能路由、故障转移与加密密钥。完美适用于个人实验。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/firecrawl/firecrawl">firecrawl/firecrawl</a></td>
-<td align="left">TypeScript</td>
-<td align="right">174,462</td>
-<td align="left">大规模网络爬取与交互的上下文 API——使智能体能够大规模搜索、抓取与导航互联网。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/ollama/ollama">ollama/ollama</a></td>
-<td align="left">Go</td>
-<td align="right">179,797</td>
-<td align="left">本地运行大语言模型的工具，支持 Kimi-K2.6、GLM-5.2、DeepSeek、Qwen、Gemma 等——广泛用于自托管推理与快速原型开发。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></td>
-<td align="left">Python</td>
-<td align="right">164,640</td>
-<td align="left">行业标准的 NLP、视觉与多模态模型框架——持续作为人工智能研究与部署的基石。</td>
-</tr>
-</tbody></table>
-<h3>📦 AI 应用</h3>
-<table>
-<thead>
-<tr>
-<th align="left">项目</th>
-<th align="left">语言</th>
-<th align="right">星标数（总计 / 今日）</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://github.com/ZhuLinsen/daily_stock_analysis">ZhuLinsen/daily_stock_analysis</a></td>
-<td align="left">Python</td>
-<td align="right">64,333</td>
-<td align="left">基于 LLM 的多市场股票分析系统，支持实时新闻、决策仪表盘与自动化通知——零成本运行且可定时执行。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/hugohe3/ppt-master">hugohe3/ppt-master</a></td>
-<td align="left">Python</td>
-<td align="right">50,379</td>
-<td align="left">将文档或主题自动转换为带动画、图表、过渡与音频旁白的原生 PowerPoint 演示文稿——完全自动化。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/CherryHQ/cherry-studio">CherryHQ/cherry-studio</a></td>
-<td align="left">TypeScript</td>
-<td align="right">51,266</td>
-<td align="left">集成 300+ 助手、智能聊天与自主智能体的 AI 生产力工作室——通过简洁界面统一接入前沿大模型。</td>
-</tr>
-</tbody></table>
-<hr>
-<h2><strong>3. 趋势信号分析</strong></h2>
-<p>今日数据揭示了人工智能开源领域的一个关键转折点：<strong>原生智能体工具与可组合性</strong>正驱动社区参与度的爆炸式增长。表现最佳的项目并非独立模型，而是<strong>赋能智能体行动、记忆、推理与交互的系统</strong>——这从“scientific-agent-skills”等智能体技能库以及“claude-mem”、“Cognee”等持久记忆层的兴起可见一斑。这标志着行业已超越单纯的 LLM 访问阶段，迈向<strong>智能、可复用的工作流</strong>新纪元。</p>
-<p>一个显著的新方向是<strong>可视化与架构化智能体脚手架</strong>，典型代表为 <code>archify</code>——该工具可将智能体工作流转化为可验证、可动画化的图表。这反映出对智能体系统透明度与调试能力的日益增长需求。此外，<code>freellmapi</code> 与 <code>firecrawl</code> 的流行也表明，对<strong>去中心化、零成本、自托管推理与网络访问</strong>的需求强劲——这是对日益上涨的 API 成本与厂商锁定问题的直接回应。</p>
-<p>这些趋势与近期发布的 Kimi-K2.6 与 GLM-5.2 等 LLM 相契合，后者均强调效率与本地部署。社区的关注焦点正从“能否生成文本？”转向“能否可靠且安全地完成任务？”——这是人工智能开发生命周期中的关键演进。</p>
-<hr>
-<h2><strong>4. 社区热点</strong></h2>
-<ul>
-<li><strong><a href="https://github.com/K-Dense-AI/scientific-agent-skills">K-Dense-AI/scientific-agent-skills</a></strong> — 拥有超 19 万名用户与 165 个现成可用的科学技能，是推动 AI 驱动研究的权威工具包。适用于实验室、生物科技初创企业与学术团队。</li>
-<li><strong><a href="https://github.com/Graphify-Labs/graphify">Graphify-Labs/graphify</a></strong> — 代码智能领域的革命性工具：无需向量数据库，即可将任意项目转化为可查询的知识图谱。采用 AI 辅助代码探索的工程团队必备。</li>
-<li><strong><a href="https://github.com/tashfeenahmed/freellmapi">freellmapi</a></strong> — 为厌倦 API 费用的开发者量身打造：一个统一接口即可接入 34 个免费大语言模型提供商。非常适合副项目、实验与注重隐私的工作负载。</li>
-<li><strong><a href="https://github.com/Panniantong/Agent-Reach">Agent-Reach</a></strong> — 通过 CLI 实现智能体的全网访问——零 API 费用，支持 Twitter、Reddit、GitHub 与 Bilibili。构建真正自主智能体的关键。</li>
-<li><strong><a href="https://github.com/Hmbown/CodeWhale">HMBOWN/CodeWhale</a></strong> — 基于 Rust 的开源终端编程智能体，拥有活跃的社区贡献。代表下一代轻量、高效、可嵌入的 AI 工具。</li>
-</ul>
-<hr>
-<p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
     </item>
   </channel>
