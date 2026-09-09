@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 22:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:43:39 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-10</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-10/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-10/ai-picks</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-10 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. GPT-6 Astra, looped transformers, and hidden reasoning 推荐分：80/100 · HN 310 points · 111 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. Anthropic Is Building a Predictive Surveillance System to Monitor Activists 推荐分：80/100 · HN 268 points · 133 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. What will our economic future look l...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-10</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and">GPT-6 Astra, looped transformers, and hidden reasoning</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 310 points · 111 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49627370">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">Anthropic Is Building a Predictive Surveillance System to Monitor Activists</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 268 points · 133 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49628704">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://www.anthropic.com/institute/econ-scenarios">What will our economic future look like?</a></h3>
+<p><strong>推荐分：77/100</strong> · HN 144 points · 254 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49626373">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 929 points · 374 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49623754">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">How An AI math breakthrough ignited a controversy</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 210 points · 222 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49624163">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and">GPT-6 Astra, looped transformers, and hidden reasoning</a></td>
+<td align="right">310</td>
+<td align="right">111</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">Anthropic Is Building a Predictive Surveillance System to Monitor Activists</a></td>
+<td align="right">268</td>
+<td align="right">133</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">77</td>
+<td><a href="https://www.anthropic.com/institute/econ-scenarios">What will our economic future look like?</a></td>
+<td align="right">144</td>
+<td align="right">254</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">75</td>
+<td><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></td>
+<td align="right">929</td>
+<td align="right">374</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">75</td>
+<td><a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">How An AI math breakthrough ignited a controversy</a></td>
+<td align="right">210</td>
+<td align="right">222</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">73</td>
+<td><a href="https://ai.meta.com/muse/">Muse – Meta’s personal AI agent</a></td>
+<td align="right">634</td>
+<td align="right">690</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">73</td>
+<td><a href="https://openai.com/index/introducing-chatgpt-images-2-5/">ChatGPT Images 2.5</a></td>
+<td align="right">372</td>
+<td align="right">440</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">73</td>
+<td><a href="https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544">Is OpenAI Taking Everyone for Fools?</a></td>
+<td align="right">52</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">72</td>
+<td><a href="https://openai.com/index/codex-quantum-computing-experiments/">How GPT‑5.6 Sol helps run quantum computing experiments</a></td>
+<td align="right">141</td>
+<td align="right">105</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">71</td>
+<td><a href="https://arxiv.org/abs/2609.09153">Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</a></td>
+<td align="right">38</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">69</td>
+<td><a href="https://github.com/Atomburstofficial/geiger">Show HN: Geiger – See every AI agent on your machine and what it can touch</a></td>
+<td align="right">41</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">69</td>
+<td><a href="https://github.com/OtoDock/oto-dock">Show HN: Self-hosted company OS, Claude Code and Codex agents in departments</a></td>
+<td align="right">33</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">68</td>
+<td><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises €3B</a></td>
+<td align="right">840</td>
+<td align="right">592</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></td>
+<td align="right">590</td>
+<td align="right">129</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">68</td>
+<td><a href="https://github.com/ayghri/i-have-adhd">I-have-ADHD: A skill to stop coding agents from burying the answer</a></td>
+<td align="right">525</td>
+<td align="right">360</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">68</td>
+<td><a href="https://mathstodon.xyz/@tao/117237320796901560">Tao: Open math problems being non-renewably mined by AI</a></td>
+<td align="right">466</td>
+<td align="right">396</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">68</td>
+<td><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">Mercury 2.5</a></td>
+<td align="right">244</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">67</td>
+<td><a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">Large language models develop novel social biases through adaptive exploration</a></td>
+<td align="right">198</td>
+<td align="right">111</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">67</td>
+<td><a href="https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/">OpenAI&#39;s rogue agents used at least 10 more sites</a></td>
+<td align="right">44</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">67</td>
+<td><a href="https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai">Do people prefer stories written by AI?</a></td>
+<td align="right">27</td>
+<td align="right">78</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">66</td>
+<td><a href="https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians">AI could kill all humans in next decade, warn experts</a></td>
+<td align="right">29</td>
+<td align="right">39</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">65</td>
+<td><a href="https://entropicthoughts.com/better-ai-comment-classifier">Better AI code comment detector</a></td>
+<td align="right">38</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">63</td>
+<td><a href="https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/">Muse&#39;s Social Media Handle Is Stolen by New Meta AI Tool</a></td>
+<td align="right">23</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">62</td>
+<td><a href="https://ishamf.dev/p/llm-attention-visualizer/">Show HN: LLM Attention Visualization</a></td>
+<td align="right">162</td>
+<td align="right">25</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">59</td>
+<td><a href="https://news.ycombinator.com/item?id=49627872">Show HN: Give your AI agent on-screen guides that show users where to click</a></td>
+<td align="right">14</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">55</td>
+<td><a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents">An alignment assessment of recent cybersecurity incidents</a></td>
+<td align="right">14</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">54</td>
+<td><a href="https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html">An Accidental Blackboard</a></td>
+<td align="right">78</td>
+<td align="right">39</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">43</td>
+<td><a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/">Microsoft says email spammers are adopting ASCII smuggling</a></td>
+<td align="right">27</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">41</td>
+<td><a href="https://lonriesberg.com/posts/teaching-an-ai-my-taste/">Teaching an AI My Taste</a></td>
+<td align="right">11</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">38</td>
+<td><a href="https://digline.dev/blog/my-llm-eval-cried-wolf/">My LLM eval cried wolf. Here&#39;s what I measured</a></td>
+<td align="right">6</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-09</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-09/ai-picks</link>
@@ -14188,999 +14453,6 @@
 
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Agents Ecosystem Digest 2026-08-31</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-agents-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-agents-en</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>OpenClaw Ecosystem Digest 2026-08-31 Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-08-31 00:48 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive OpenClaw Project Digest – 2026-08-31 1. Today&amp;#39;s Overview The OpenClaw project remains highly active, with 500 issues and 500 pull requests updated in the last 24 hours—indicating intense community engagement and rapid development momentum. The ecosystem is focused on stability fixes for core session lifecycle, g...</description>
-      <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-08-31</h1>
-<blockquote>
-<p>Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-08-31 00:48 UTC</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
-<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
-<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
-<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
-<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
-</ul>
-<hr>
-<h2>OpenClaw Deep Dive</h2>
-<h1><strong>OpenClaw Project Digest – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. Today&#39;s Overview</strong></h3>
-<p>The OpenClaw project remains highly active, with 500 issues and 500 pull requests updated in the last 24 hours—indicating intense community engagement and rapid development momentum. The ecosystem is focused on stability fixes for core session lifecycle, gateway reliability, and cross-channel message delivery consistency, particularly across Telegram, Slack, and WhatsApp. While no new releases have been published, the beta validation pipeline (v2026.8.1-beta.3) continues to gather feedback, signaling readiness for a major update. High-priority bugs related to session state corruption, memory leaks, and silent failures are dominating the issue tracker.</p>
-<hr>
-<h3><strong>2. Releases</strong></h3>
-<p><strong>None</strong><br>No new releases were published today. The latest available version remains <code>v2026.8.1-beta.3</code> (commit: <code>5831b80721f802072b0ec1893b30a16cf42d538c</code>). This beta iteration is under active validation by users, with several critical bugs reported directly against it. No breaking changes or migration notes have been documented yet; however, the upcoming release is expected to include significant improvements in scheduler resilience and multi-encoding support.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3">OpenClaw v2026.8.1-beta.3 Release</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. Project Progress</strong></h3>
-<p>Today saw <strong>25 merged/closed PRs</strong>, primarily focused on fixing edge cases in session management, message delivery, and UI/UX consistency:</p>
-<ul>
-<li>✅ <strong>PR #128995</strong>: Added full session actions (pin, icon, move, copy ID) from the chat header — improving workflow efficiency.</li>
-<li>✅ <strong>PR #123535</strong>: Fixed session catalog refresh storms caused by focus events, reducing UI lag during startup.</li>
-<li>✅ <strong>PR #128223</strong>: Resolved alias resolution from write snapshot, preventing stale configuration drift.</li>
-<li>✅ <strong>PR #126424</strong>: Enforced conversation delivery within agent bindings to prevent cross-agent leakage.</li>
-<li>✅ <strong>PR #133516</strong>: Quietened excessive Discord/Slack progress indicators, reducing visual noise during long turns.</li>
-</ul>
-<p>These merges reflect strong progress in stabilizing user-facing workflows and reducing cognitive load during complex interactions.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Aclosed+updated%3A%3E%3D2026-08-30">Merged PRs Summary</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. Community Hot Topics</strong></h3>
-<p>Top 5 most-commented Issues and PRs reveal key pain points and strategic direction:</p>
-<table>
-<thead>
-<tr>
-<th>Issue/PR</th>
-<th>Comment Count</th>
-<th>Link</th>
-<th>Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">#125626</a></td>
-<td>24</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">Feedback on v2026.8.1-beta.3</a></td>
-<td>Beta feedback loop initiated; users testing new features like per-agent cost budgeting and improved multimodal handling.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">#42475</a></td>
-<td>22</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">Per-agent cost budget enforcement</a></td>
-<td>High demand for financial guardrails at gateway level — seen as essential for production deployments.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">#102175</a></td>
-<td>18</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">Embedded prompt cache breaks across boundaries</a></td>
-<td>Critical regression affecting long-lived sessions; impacts model performance and caching fidelity.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">#87744</a></td>
-<td>17</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">Codex-backed Telegram turns time out</a></td>
-<td>Persistent failure mode post-2026.5.27; suggests deeper integration flaw in Codex channel logic.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>5</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">Migration quarantines valid cron jobs</a></td>
-<td>Shows risk of data loss in schema migrations — urgent need for safer upgrade paths.</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>📌 <strong>Insight</strong>: Users are increasingly concerned about operational safety, cost control, and migration integrity — indicating a shift toward enterprise-grade use.</p>
-</blockquote>
-<hr>
-<h3><strong>5. Bugs &amp; Stability</strong></h3>
-<p><strong>High-severity bugs (P1)</strong> dominate the tracker, many linked to session state corruption, message loss, and crashes:</p>
-<table>
-<thead>
-<tr>
-<th>Issue</th>
-<th>Severity</th>
-<th>Impact</th>
-<th>Status</th>
-<th>Fix PR?</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">#102175</a></td>
-<td>P1 🐚 platinum hermit</td>
-<td>Session state, security, auth provider</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">#87744</a></td>
-<td>P1 🦞 diamond lobster</td>
-<td>Session state, message loss</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/96834">#96834</a></td>
-<td>P1 🐚 platinum hermit</td>
-<td>Message loss, multimodal processing</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/98435">#98435</a></td>
-<td>P2</td>
-<td>Session recovery, transport</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/97616">#97616</a></td>
-<td>P1 🦞 diamond lobster</td>
-<td>Zombie processes, runtime degradation</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>P1 🦞 diamond lobster</td>
-<td>Data loss, automation inventory</td>
-<td>Open</td>
-<td>❌ No</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>Critical Risk</strong>: Several P1 bugs involve silent data loss or unrecoverable state corruption. Notably, <strong>#133347</strong> shows a migration that silently drops valid cron jobs — a red flag for upgrade safety.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Feature Requests &amp; Roadmap Signals</strong></h3>
-<p>User-driven feature requests point to emerging priorities for v2026.9+:</p>
-<ul>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/42475">Per-agent cost budgeting</a></strong> (22 comments): Urgent need for financial guardrails at the gateway layer — likely to be prioritized in next release.</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/52640">Persistent task-status surface</a></strong> (7 comments): Demand for real-time visibility into long-running operations (Discord-first).</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/12678">Capability-based permissions</a></strong> (6 comments): Security-first approach to tool access — signals intent to harden trust boundaries.</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/79458">i18n support for slash commands</a></strong> (6 comments): Growing global adoption requires localization beyond English.</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/55792">Catch-up on missed messages after restart</a></strong> (5 comments): Essential for high-availability setups.</li>
-</ul>
-<blockquote>
-<p>🧭 <strong>Prediction</strong>: v2026.9 will emphasize <strong>cost governance</strong>, <strong>security hardening</strong>, and <strong>reliability under failure</strong> — aligning with production use cases.</p>
-</blockquote>
-<hr>
-<h3><strong>7. User Feedback Summary</strong></h3>
-<p>Real-world usage reveals growing pains in complex, multi-channel environments:</p>
-<ul>
-<li><strong>Enterprise operators</strong> report frustration with silent failures (e.g., missing Slack replies, stalled Telegram turns) and lack of observability.</li>
-<li><strong>Multi-account setups</strong> (especially Slack + Telegram) face challenges with identity tracking, command hijacking, and permission drift.</li>
-<li><strong>Developers using CLI tools</strong> note instability in background tasks and zombie process accumulation.</li>
-<li><strong>Non-Latin script users</strong> (Chinese, Japanese, Korean) highlight encoding gaps in file handling and metadata parsing.</li>
-<li><strong>Users upgrading from older versions</strong> express concern over migration risks — especially regarding cron jobs and database schema changes.</li>
-</ul>
-<blockquote>
-<p>💬 <strong>Quote</strong>: <em>&quot;After updating to 2026.8.1, my entire automation schedule vanished — I had to rebuild everything manually.&quot;</em> — @ejc3, Issue #133347</p>
-</blockquote>
-<hr>
-<h3><strong>8. Backlog Watch</strong></h3>
-<p>Several high-impact, long-standing Issues require maintainer attention:</p>
-<table>
-<thead>
-<tr>
-<th>Issue</th>
-<th>Age</th>
-<th>Priority</th>
-<th>Status</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">#125626</a></td>
-<td>13 days</td>
-<td>P2</td>
-<td>Open</td>
-<td>Beta feedback still being gathered — needs triage.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">#42475</a></td>
-<td>5 months</td>
-<td>P2</td>
-<td>Open</td>
-<td>High demand, but lacks assigned owner.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>1 day</td>
-<td>P1</td>
-<td>Open</td>
-<td>Migration bug — could cause data loss in production.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/130197">#130197</a></td>
-<td>4 days</td>
-<td>P1</td>
-<td>Closed</td>
-<td>Already fixed — but needs backport to beta.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/pull/133563">#133563</a></td>
-<td>1 day</td>
-<td>P1</td>
-<td>Waiting on author</td>
-<td>Fixes automatic DB migration race — critical for stability.</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🛑 <strong>Urgent</strong>: Maintainers must prioritize <strong>#133347</strong> and <strong>#133563</strong> — both pose serious risks to production users.</p>
-</blockquote>
-<hr>
-<p><strong>Final Assessment</strong>: OpenClaw is in a phase of <strong>high velocity, high risk</strong> — powerful features are advancing rapidly, but core stability and upgrade safety remain fragile. The community is mature and vocal, pushing for enterprise readiness. Immediate focus should be on <strong>fixing P1 regressions</strong>, <strong>securing migration paths</strong>, and <strong>validating cost controls</strong> ahead of the next stable release.</p>
-<blockquote>
-<p>🔗 Full issue list: <a href="https://github.com/openclaw/openclaw/issues?q=is%3Aopen+updated%3A%3E%3D2026-08-30">GitHub OpenClaw Issues (2026-08-31)</a><br>🔗 Full PR list: <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Aopen+updated%3A%3E%3D2026-08-30">GitHub OpenClaw PRs (2026-08-31)</a></p>
-</blockquote>
-<hr>
-<h2>Cross-Ecosystem Comparison</h2>
-<h1><strong>Cross-Project Comparison Report: Personal AI Agent Open-Source Ecosystem – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. Ecosystem Overview</strong></h3>
-<p>The personal AI assistant and agent open-source ecosystem in Q3 2026 is characterized by rapid technical maturation, shifting from core functionality toward enterprise-grade reliability, security, and operational control. Projects are increasingly focused on session integrity, cross-channel consistency, cost governance, and migration safety—reflecting a move beyond prototyping to production deployment. Strong community engagement across all projects indicates healthy growth, with active contributor participation shaping architectural direction through RFCs, bug triage, and feature prioritization.</p>
-<hr>
-<h3><strong>2. Activity Comparison</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Issues (Last 24h)</th>
-<th>PRs (Last 24h)</th>
-<th>Releases</th>
-<th>Health Score¹</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>OpenClaw</strong></td>
-<td>500</td>
-<td>500</td>
-<td>None</td>
-<td>⚠️ High Risk</td>
-<td>High Velocity</td>
-</tr>
-<tr>
-<td><strong>Hermes Agent</strong></td>
-<td>50</td>
-<td>50</td>
-<td>None</td>
-<td>⚠️ Stability Pressure</td>
-<td>Active Development</td>
-</tr>
-<tr>
-<td><strong>IronClaw</strong></td>
-<td>0</td>
-<td>11</td>
-<td>None</td>
-<td>✅ Stable &amp; Refactoring</td>
-<td>Internal Focus</td>
-</tr>
-<tr>
-<td><strong>QwenPaw</strong></td>
-<td>13</td>
-<td>12</td>
-<td>None</td>
-<td>✅ Robust &amp; Evolving</td>
-<td>Feature Polish</td>
-</tr>
-<tr>
-<td><strong>ZeroClaw</strong></td>
-<td>50</td>
-<td>50</td>
-<td>None</td>
-<td>⚠️ Strategic Phase</td>
-<td>Architectural Innovation</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p><strong>¹ Health Score</strong>: Based on stability risk (P1 bugs), release readiness, migration safety, and community feedback velocity.<br><strong>Note</strong>: IronClaw’s low issue count reflects intentional stabilization; ZeroClaw’s high activity signals deep architectural work.</p>
-</blockquote>
-<hr>
-<h3><strong>3. OpenClaw&#39;s Position</strong></h3>
-<p>OpenClaw stands out as the most <strong>operationally aggressive</strong> project in the ecosystem, with the highest volume of issues and PRs—indicating a fast-moving, user-driven development cycle. Its technical approach emphasizes <strong>multi-channel message fidelity</strong>, <strong>session lifecycle robustness</strong>, and <strong>gateway-level cost enforcement</strong>, positioning it as a candidate for large-scale automation deployments. Compared to peers, OpenClaw has the largest active community (evidenced by comment density in top issues), though this also correlates with higher instability risk. Unlike more modular or design-focused projects (e.g., ZeroClaw, IronClaw), OpenClaw prioritizes <strong>end-to-end workflow resilience</strong> over architectural abstraction, making it a de facto standard for complex, multi-platform agent orchestration.</p>
-<hr>
-<h3><strong>4. Shared Technical Focus Areas</strong></h3>
-<p>Multiple projects are converging on several critical requirements:</p>
-<table>
-<thead>
-<tr>
-<th>Requirement</th>
-<th>Projects Involved</th>
-<th>Key Drivers</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Session State Integrity</strong></td>
-<td>OpenClaw, Hermes Agent, ZeroClaw</td>
-<td>Silent corruption, recovery failures, data loss</td>
-</tr>
-<tr>
-<td><strong>Migration Safety &amp; Schema Stability</strong></td>
-<td>OpenClaw, Hermes Agent, ZeroClaw</td>
-<td>Data loss in upgrades (e.g., cron jobs, config)</td>
-</tr>
-<tr>
-<td><strong>Cost &amp; Usage Governance</strong></td>
-<td>OpenClaw, Hermes Agent, QwenPaw</td>
-<td>Per-agent budgeting, API cost visibility</td>
-</tr>
-<tr>
-<td><strong>Streaming &amp; Output Consistency</strong></td>
-<td>QwenPaw, OpenClaw, ZeroClaw</td>
-<td>Duplicated chunks, silent errors, malformed payloads</td>
-</tr>
-<tr>
-<td><strong>Cross-Platform Context Sync</strong></td>
-<td>Hermes Agent, ZeroClaw, QwenPaw</td>
-<td>CLI ↔ Telegram ↔ Desktop continuity</td>
-</tr>
-<tr>
-<td><strong>Error Clarity &amp; Diagnostics</strong></td>
-<td>IronClaw, QwenPaw, OpenClaw</td>
-<td>Misclassified failures (e.g., <code>InputEncode</code> vs <code>Domain</code>)</td>
-</tr>
-</tbody></table>
-<p>This convergence signals a maturing ecosystem where <strong>operational reliability</strong> is now a primary differentiator—not just model quality or feature breadth.</p>
-<hr>
-<h3><strong>5. Differentiation Analysis</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Dimension</th>
-<th>OpenClaw</th>
-<th>Hermes Agent</th>
-<th>IronClaw</th>
-<th>QwenPaw</th>
-<th>ZeroClaw</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Target Users</strong></td>
-<td>Enterprise automation, DevOps</td>
-<td>Power users, developers, CLI-first</td>
-<td>Infrastructure engineers, security teams</td>
-<td>Chinese-speaking enterprises, SDK devs</td>
-<td>Architects, plugin developers</td>
-</tr>
-<tr>
-<td><strong>Feature Focus</strong></td>
-<td>Multi-channel orchestration, cost control</td>
-<td>Session resilience, A2A security</td>
-<td>Design system, CI/CD stability</td>
-<td>UI customization, model access</td>
-<td>Runtime ownership, WASM extensibility</td>
-</tr>
-<tr>
-<td><strong>Technical Architecture</strong></td>
-<td>Gateway-centric, stateful sessions</td>
-<td>Profile-isolated, A2A protocol</td>
-<td>Rust-first, dependency hygiene</td>
-<td>MCP + Console UI stack</td>
-<td>Runtime-owned sessions, RFC-driven</td>
-</tr>
-<tr>
-<td><strong>Innovation Pace</strong></td>
-<td>Fastest (high-risk iteration)</td>
-<td>Medium (stability-focused)</td>
-<td>Slow (refactoring phase)</td>
-<td>Medium (feature polish)</td>
-<td>Highest (architectural vision)</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p><strong>Key Insight</strong>: While OpenClaw leads in scale and integration depth, ZeroClaw and IronClaw represent strategic bets on <strong>long-term sustainability</strong> through architectural rigor and clean code practices.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Community Momentum &amp; Maturity</strong></h3>
-<ul>
-<li><strong>High-Momentum Projects (Rapid Iteration)</strong>:  <ul>
-<li><strong>OpenClaw</strong> and <strong>ZeroClaw</strong> dominate activity metrics—both show signs of being in <strong>pre-release sprint phases</strong> with heavy focus on edge-case fixes and architectural decisions.</li>
-</ul>
-</li>
-<li><strong>Mid-Momentum (Stabilizing &amp; Polishing)</strong>:  <ul>
-<li><strong>Hermes Agent</strong> and <strong>QwenPaw</strong> exhibit balanced progress—active PRs, but fewer P1 bugs than OpenClaw, indicating growing maturity.</li>
-</ul>
-</li>
-<li><strong>Low-Momentum (Internal Refactoring)</strong>:  <ul>
-<li><strong>IronClaw</strong> shows quiet, disciplined development—no public issues, but significant internal PRs suggest a <strong>pre-release stabilization phase</strong> ahead of v0.9/v1.0.</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p><strong>Trend</strong>: The ecosystem is bifurcating: some projects are racing toward production readiness (OpenClaw, QwenPaw), while others are laying foundation for future scalability (ZeroClaw, IronClaw).</p>
-</blockquote>
-<hr>
-<h3><strong>7. Trend Signals</strong></h3>
-<p>From community feedback and technical priorities, three major industry trends emerge:</p>
-<ol>
-<li><p><strong>Enterprise Readiness is Now a Priority</strong>  </p>
-<ul>
-<li>Demand for <strong>per-agent cost budgeting</strong>, <strong>migration safety</strong>, and <strong>session persistence</strong> (OpenClaw, Hermes Agent, ZeroClaw) signals that personal agents are being adopted for mission-critical workflows.</li>
-</ul>
-</li>
-<li><p><strong>User Experience is No Longer Secondary</strong>  </p>
-<ul>
-<li>Requests for <strong>theming</strong>, <strong>widescreen layouts</strong>, <strong>configurable card auto-layout</strong>, and <strong>streaming UX polish</strong> (QwenPaw, ZeroClaw) indicate that polished, customizable interfaces are essential for long-term adoption.</li>
-</ul>
-</li>
-<li><p><strong>Security and Isolation Are Non-Negotiable</strong>  </p>
-<ul>
-<li>Multiple projects are investing in <strong>A2A replay protection</strong>, <strong>capability-based permissions</strong>, <strong>sandboxed execution</strong>, and <strong>WASM plugin runtimes</strong> (Hermes Agent, ZeroClaw, IronClaw)—a clear shift from &quot;functionality first&quot; to <strong>trust-by-design</strong>.</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>✅ <strong>Value for Developers</strong>: This ecosystem is evolving into a <strong>production-grade framework layer</strong> for AI agents—where stability, observability, and governance are as important as model performance.</p>
-</blockquote>
-<hr>
-<p><strong>Conclusion</strong>: The personal AI agent landscape is transitioning from experimentation to enterprise deployment. OpenClaw leads in scale and integration, but ZeroClaw and IronClaw are building the resilient foundations needed for next-generation systems. Developers should prioritize <strong>OpenClaw</strong> for immediate multi-channel automation, <strong>ZeroClaw</strong> for long-term architectural vision, and <strong>IronClaw/QwenPaw</strong> for stable, secure, and well-documented tooling.</p>
-<hr>
-<h2>Peer Project Reports</h2>
-<details>
-<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
-
-<h1><strong>Hermes Agent Project Digest – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. Today&#39;s Overview</strong></h3>
-<p>The Hermes Agent project remains highly active, with 50 new issues and 50 pull requests updated in the last 24 hours—indicating strong community engagement and ongoing development momentum. Activity is concentrated around core stability (especially session state, SQLite corruption, and cross-platform compatibility), security hardening of agent-to-agent (A2A) communication, and localization expansion. While no new releases were published, multiple high-severity fixes are under review, particularly for Linux desktop update failures, WebSocket session resumption, and database integrity. The project continues to evolve as a multi-platform AI agent framework with growing ecosystem integrations.</p>
-<hr>
-<h3><strong>2. Releases</strong></h3>
-<p><em>No new releases were published in the past 24 hours.</em><br>The latest stable version remains <strong>v0.20.4</strong>, released on 2026-08-18. No breaking changes or migration notes are currently documented in the release history.</p>
-<hr>
-<h3><strong>3. Project Progress</strong></h3>
-<p><strong>Merged/Closed PRs (Today):</strong>  </p>
-<ul>
-<li>✅ <a href="https://github.com/nousresearch/hermes-agent/pull/98907">PR #98907</a>: <em>fix(checkpoints): snapshot V4A patch targets before editing</em> – Addresses critical checkpoint loss during file edits, improving recovery reliability.  </li>
-<li>✅ <a href="https://github.com/nousresearch/hermes-agent/pull/98965">PR #98965</a>: <em>state.db no longer silently corrupts on Docker Desktop/OrbStack bind mounts</em> – Resolves silent WAL corruption on virtualized filesystems; ported from openclaw/openclaw#120597.</li>
-</ul>
-<p><strong>Key Advancements:</strong>  </p>
-<ul>
-<li>Security enhancements to A2A protocol (<code>PR #98937</code>, <code>#96088</code>) strengthen replay protection and profile isolation.  </li>
-<li>New feature support: JMAP email integration (<code>PR #98968</code>), iMessage read receipts via Photon (<code>PR #98964</code>), and OpenAI-compatible streaming TTS (<code>PR #98096</code>).  </li>
-<li>Performance improvements include deferred Mermaid rendering (<code>PR #98967</code>) and keyboard focus handling in terminal pane (<code>PR #98962</code>).</li>
-</ul>
-<hr>
-<h3><strong>4. Community Hot Topics</strong></h3>
-<p>The most active discussions center on <strong>systemic stability</strong>, <strong>cross-platform usability</strong>, and <strong>user experience polish</strong>:</p>
-<ul>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/66616">Issue #66616</a></strong>: <em>Skills index is stale or degraded</em> (126 comments) — A critical infrastructure issue where <code>/docs/api/skills-index.json</code> hasn’t refreshed in 29.8h (threshold: 26h). This impacts documentation accessibility and tool discovery across platforms.</li>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/97764">Issue #97764</a></strong>: <em>Desktop renderer never resumes stored session after mid-turn ws drop</em> (4 comments) — High-severity bug causing chat freezes requiring full app restart; affects macOS users in Bot Mode with multiple profiles.</li>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/pull/98937">PR #98937</a></strong>: <em>fix(a2a): harden replay retry and profile isolation</em> (no comments yet) — A foundational security fix targeting A2A message replay attacks and profile leakage, crucial for production deployments.</li>
-<li>🌍 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/4335">Issue #4335</a></strong>: <em>Cross-platform session context sharing (CLI ↔ Telegram)</em> (18 comments) — Highlights demand for unified user context across messaging platforms, indicating a key UX gap in current gateway design.</li>
-</ul>
-<p>These reflect deep user needs: <strong>reliability</strong>, <strong>context continuity</strong>, <strong>security</strong>, and <strong>global accessibility</strong>.</p>
-<hr>
-<h3><strong>5. Bugs &amp; Stability</strong></h3>
-<p>Top-tier bugs reported today are ranked by severity and impact:</p>
-<table>
-<thead>
-<tr>
-<th>Severity</th>
-<th>Issue</th>
-<th>Summary</th>
-<th>Fix PR?</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/97764">#97764</a></td>
-<td>Desktop renderer fails to resume sessions after websocket drop → chat frozen until restart</td>
-<td>❌ No fix yet</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/97905">#97905</a></td>
-<td>Cron jobs fire at wrong times due to timezone mismanagement across processes</td>
-<td>❌ No fix yet</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/94862">#94862</a></td>
-<td>Desktop cron ticker steals other profiles&#39; jobs and delivers them via default profile’s Telegram bot</td>
-<td>❌ No fix yet</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/98924">#98924</a></td>
-<td><code>read-only SessionDB init dies on UnicodeDecodeError</code>, silently drops messages</td>
-<td>❌ No fix yet</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/98814">#98814</a></td>
-<td>Windows updater kills itself when triggered via natural language → update fails silently</td>
-<td>❌ No fix yet</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>Critical Risk</strong>: Multiple P1 bugs involve <strong>SQLite corruption</strong> (<code>#98077</code>, <code>#97940</code>) and <strong>session state inconsistency</strong>, threatening data integrity in production use cases.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Feature Requests &amp; Roadmap Signals</strong></h3>
-<p>User-driven features suggest strong interest in:</p>
-<ul>
-<li><strong>Localization Expansion</strong>: Russian (<code>ru-RU</code>) UI support is actively requested across 4 issues (<a href="https://github.com/nousresearch/hermes-agent/issues/40347">#40347</a>, <a href="https://github.com/nousresearch/hermes-agent/issues/52137">#52137</a>, <a href="https://github.com/nousresearch/hermes-agent/issues/84418">#84418</a>). This signals global adoption intent.</li>
-<li><strong>Cross-Platform Session Sync</strong> (<a href="https://github.com/nousresearch/hermes-agent/issues/4335">#4335</a>): Users want CLI and Telegram sessions to share context—implying a need for a centralized session store.</li>
-<li><strong>New Integrations</strong>: Nextcloud Talk (<a href="https://github.com/nousresearch/hermes-agent/issues/50148">#50148</a>) and JMAP email (<a href="https://github.com/nousresearch/hermes-agent/pull/98968">PR #98968</a>) indicate demand for modern, standards-based workflows.</li>
-<li><strong>Agent Intelligence Enhancement</strong>: Proposal to bake live time/date awareness into the agent (<a href="https://github.com/nousresearch/hermes-agent/issues/98931">#98931</a>) reflects desire for more &quot;human-like&quot; behavior.</li>
-</ul>
-<p>👉 <strong>Predicted Inclusion in v0.21</strong>: Russian localization, A2A security fixes, and improved session resilience.</p>
-<hr>
-<h3><strong>7. User Feedback Summary</strong></h3>
-<p>Users report significant pain points:</p>
-<ul>
-<li><strong>Linux Desktop Instability</strong>: Repeated update failures and sandbox permission resets (<a href="https://github.com/nousresearch/hermes-agent/issues/58593">#58593</a>), plus broken desktop entry launchers (<a href="https://github.com/nousresearch/hermes-agent/issues/90292">#90292</a>).</li>
-<li><strong>Session Management Friction</strong>: Sessions disappear after restart (<a href="https://github.com/nousresearch/hermes-agent/issues/38858">#38858</a>), and large <code>state.db</code> files cause UI freezes (<a href="https://github.com/nousresearch/hermes-agent/issues/60747">#60747</a>).</li>
-<li><strong>Cross-Platform Gaps</strong>: Users expect seamless context transfer between CLI, Telegram, and desktop—but isolated session stores prevent this.</li>
-<li><strong>Security Concerns</strong>: Misconfigured A2A and auth flows raise trust issues, especially for enterprise or sensitive workloads.</li>
-</ul>
-<p>Despite these, satisfaction is high among power users who value extensibility and deep control.</p>
-<hr>
-<h3><strong>8. Backlog Watch</strong></h3>
-<p>Several long-standing, high-impact issues remain unresolved and require maintainer attention:</p>
-<ul>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/66616">Issue #66616</a></strong>: Skills index staleness — critical for developer onboarding and tool discoverability. Needs immediate triage.</li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/4335">Issue #4335</a></strong>: Cross-platform session sharing — central to user experience but stalled on architectural decisions (&quot;needs-decision&quot;).</li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/98931">Issue #98931</a></strong>: Add live time/date awareness — low-hanging fruit for humanizing agent behavior.</li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/pull/95850">PR #95850</a></strong>: Secure source-bound remote workers — vital for enterprise security but blocked on decision-making.</li>
-</ul>
-<blockquote>
-<p>These represent <strong>strategic bottlenecks</strong> that could hinder broader adoption if not addressed in the next cycle.</p>
-</blockquote>
-<hr>
-<p><em>Data source: GitHub API snapshot — 2026-08-31</em><br><em>Project health assessment: Active, with strong community engagement but growing stability pressure.</em></p>
-</details>
-
-<details>
-<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
-
-<p><strong>IronClaw Project Digest – 2026-08-31</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Overview</strong></h3>
-<p>The IronClaw project exhibits a quiet but steady momentum in its development lifecycle as of 2026-08-31. No new releases have been published, and no issues were updated in the past 24 hours—indicating a stable state for user-reported bugs or feature requests. However, 11 pull requests were updated within the last day, with 10 remaining open and 1 merged, suggesting active internal development focused on dependency hygiene, CI/CD improvements, and foundational refactoring. The majority of activity is driven by automated dependabot updates and core contributors addressing critical infrastructure concerns, particularly around integration testing, memory handling, and design system evolution.</p>
-<hr>
-<h3><strong>2. Releases</strong></h3>
-<p><em>No new releases were published in the last 24 hours or during the current cycle.</em><br>→ <strong>Status:</strong> None<br>→ <strong>Note:</strong> This reflects an intentional focus on stabilization and infrastructure refinement prior to a potential upcoming release, likely targeting v0.9.x or v1.0.0 milestone.</p>
-<hr>
-<h3><strong>3. Project Progress</strong></h3>
-<p><em>One PR was merged today:</em>  </p>
-<ul>
-<li>✅ <strong>PR #7959</strong> (<a href="https://github.com/nearai/ironclaw/pull/7959">chore(deps): bump the everything-else group across 1 directory with 15 updates</a>)  <ul>
-<li>Successfully upgraded 15 Rust dependencies in the root directory, including <code>uuid</code>, <code>base64</code>, and <code>toml</code>.  </li>
-<li>Part of ongoing dependency maintenance; no breaking changes reported.  </li>
-<li>Indicates continued effort toward security hardening and ecosystem compatibility.</li>
-</ul>
-</li>
-</ul>
-<p><em>Other notable developments (open PRs):</em>  </p>
-<ul>
-<li><strong>PR #7831</strong>: Design System Phase 3a foundation — introduces a non-blocking Chromatic lane for Storybook visual regression testing. Critical for front-end consistency during the UI overhaul.</li>
-<li><strong>PR #7992</strong>: Unifies bounded integration execution via a single <code>cargo nextest run</code> command with fixed concurrency. Improves test reliability and reduces CI overhead.</li>
-<li><strong>PR #7977</strong>: Implements loop termination on dominant repeated output and caps interactive wall clock time. Addresses long-running loops that previously caused performance degradation.</li>
-</ul>
-<hr>
-<h3><strong>4. Community Hot Topics</strong></h3>
-<p>While no Issues are currently open, the most active PRs reflect high-priority engineering concerns:</p>
-<ul>
-<li><p>🔥 <strong>PR #7992</strong> – <em>ci: unify bounded integration execution</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7992">Link</a>  </li>
-<li><strong>Why it matters:</strong> Centralizes and stabilizes integration testing workflows. Removes redundant shell projections and improves reproducibility. High impact on CI speed and reliability.</li>
-</ul>
-</li>
-<li><p>🔥 <strong>PR #7977</strong> – <em>fix(loop): terminate on dominant repeated output, cap interactive wall clock</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7977">Link</a>  </li>
-<li><strong>Underlying need:</strong> Prevents runaway agent loops in production environments, especially under idempotent or stuck conditions. Direct response to real-world performance risks observed in recent runs (e.g., <code>e3513a4e</code>, 593 tool calls over 70 minutes).</li>
-</ul>
-</li>
-<li><p>🔥 <strong>PR #7831</strong> – <em>Design System Phase 3a foundation — Chromatic lane + missing token axes</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7831">Link</a>  </li>
-<li><strong>Strategic signal:</strong> Signals deep investment in front-end consistency and maintainability ahead of a major UI refresh. Visual regression coverage is now being integrated into every PR pipeline.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. Bugs &amp; Stability</strong></h3>
-<p><em>No new bugs reported today.</em> However, two high-impact fixes are actively being reviewed:</p>
-<ul>
-<li><p>⚠️ <strong>PR #7985</strong> – <em>fix(memory): a missing document is a domain failure, not a malformed request</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7985">Link</a>  </li>
-<li><strong>Issue:</strong> Previously misclassified a missing document read as an encoding error (<code>InputEncode</code>), leading to confusing user messages. Now correctly mapped to <code>FailureKind::Domain</code>.  </li>
-<li><strong>Severity:</strong> Medium – affects user experience clarity in memory access operations.</li>
-</ul>
-</li>
-<li><p>⚠️ <strong>PR #7990</strong> – <em>fix(tool-disclosure): an unresolvable tool name is not an encoding error</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7990">Link</a>  </li>
-<li><strong>Issue:</strong> Shared <code>failed_invalid_input</code> helper incorrectly used <code>InputEncode</code> for both malformed input and invalid tool names. Now distinguishes between them.  </li>
-<li><strong>Severity:</strong> Medium – prevents misdiagnosis of tool resolution failures as input formatting errors.</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>✅ Both fixes are ready for review and merge, indicating proactive handling of error classification logic.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Feature Requests &amp; Roadmap Signals</strong></h3>
-<p>Although no explicit feature requests are visible in the issue tracker, several PRs point to near-term roadmap priorities:</p>
-<ul>
-<li><p>🎯 <strong>Design System Phase 3a (PR #7831)</strong>  </p>
-<ul>
-<li>Signals a major front-end redesign is underway. Expect enhanced theming, accessibility, and component consistency in future versions.</li>
-</ul>
-</li>
-<li><p>🎯 <strong>CI/CD Refactorings (PRs #7992, #7977, #7988)</strong>  </p>
-<ul>
-<li>Suggests a shift toward more predictable, resilient, and observable agent execution. Likely preparing for enterprise-grade deployment scenarios.</li>
-</ul>
-</li>
-<li><p>🎯 <strong>Codebase Knowledge Graph Refresh (PR #7988)</strong>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7988">Link</a>  </li>
-<li>Indicates ongoing work to keep the AI agent’s contextual awareness up-to-date. Future versions may include better code navigation, context-aware suggestions, and reduced hallucination risk.</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>🔮 <strong>Predicted Next Features (v0.9+):</strong>  </p>
-<ul>
-<li>Enhanced error diagnostics with structured failure types  </li>
-<li>Real-time agent loop monitoring dashboard  </li>
-<li>Multi-agent collaboration coordination framework</li>
-</ul>
-</blockquote>
-<hr>
-<h3><strong>7. User Feedback Summary</strong></h3>
-<p>No direct user feedback is present in the public issue tracker as of 2026-08-31. However, the nature of the recent PRs reveals implicit user pain points:</p>
-<ul>
-<li><strong>Frustration with opaque error messages</strong> → Addressed by PRs #7985 and #7990, which refine failure categorization.</li>
-<li><strong>Performance anxiety due to infinite or slow loops</strong> → Mitigated by PR #7977, which enforces runtime caps.</li>
-<li><strong>Need for consistent UI/UX</strong> → Evident in the extensive design system work (PR #7831), signaling alignment with user expectations for professional-grade interfaces.</li>
-</ul>
-<blockquote>
-<p>👉 <em>User satisfaction is likely increasing internally</em>, as core stability and usability issues are being proactively resolved.</p>
-</blockquote>
-<hr>
-<h3><strong>8. Backlog Watch</strong></h3>
-<p>Despite low activity, several high-value PRs remain open without comments or approvals:</p>
-<ul>
-<li><p>🔗 <strong>PR #7831</strong> – <em>Design System Phase 3a foundation</em>  </p>
-<ul>
-<li>Created: 2026-08-23 | Updated: 2026-08-31  </li>
-<li><strong>Status:</strong> Open, 0 reactions, 0 comments  </li>
-<li><strong>Concern:</strong> Critical for future UI quality; may stall if not reviewed soon.</li>
-</ul>
-</li>
-<li><p>🔗 <strong>PR #7977</strong> – <em>fix(loop): terminate on dominant repeated output</em>  </p>
-<ul>
-<li>Created: 2026-08-28 | Updated: 2026-08-30  </li>
-<li><strong>Status:</strong> Open, 0 reactions, 0 comments  </li>
-<li><strong>Risk:</strong> A known production instability has been identified (e.g., 70-minute runs), yet this fix remains pending review.</li>
-</ul>
-</li>
-<li><p>🔗 <strong>PR #7992</strong> – <em>ci: unify bounded integration execution</em>  </p>
-<ul>
-<li>Created: 2026-08-30 | Updated: 2026-08-30  </li>
-<li><strong>Status:</strong> Open, 0 reactions, 0 comments  </li>
-<li><strong>Urgency:</strong> High — directly impacts CI reliability and developer velocity.</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>📌 <strong>Recommendation:</strong> Core maintainers should prioritize reviewing these three PRs to prevent bottlenecks in the path toward the next release.</p>
-</blockquote>
-<hr>
-<p><em>Data source: GitHub repository — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a> | Last update: 2026-08-31</em></p>
-</details>
-
-<details>
-<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
-
-<h1><strong>QwenPaw Project Digest – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. Today&#39;s Overview</strong></h3>
-<p>The QwenPaw project remains highly active with a robust flow of developer contributions and user-reported issues. In the past 24 hours, 13 issues and 12 pull requests were updated, indicating strong ongoing development momentum—particularly in stability fixes, UI/UX refinements, and backend reliability. Notably, multiple critical bugs related to stream handling, session persistence, and runtime availability have surfaced, signaling a focus on robustness ahead of potential v2.2.0 release. The community continues to engage deeply with both frontend (Console UI) and backend (SDK/runtime) concerns, suggesting a mature but still evolving ecosystem.</p>
-<hr>
-<h3><strong>2. Releases</strong></h3>
-<p><strong>No new releases</strong> were published in the last 24 hours. The latest stable version remains <strong>v2.1.0</strong>, with several beta builds (e.g., <code>2.2.0b3</code>) in use by contributors and early adopters. No breaking changes or migration notes are currently pending.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/agentscope-ai/QwenPaw/releases">GitHub Releases Page</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. Project Progress</strong></h3>
-<p><strong>Merged/Closed PRs (Today):</strong></p>
-<ul>
-<li>✅ <strong>PR #6825</strong> (<code>fix(mcp): apply configured timeout to client sessions</code>) — Fixes <strong>Issue #6822</strong> by ensuring MCP clients respect configured timeouts, preventing indefinite hangs during network failures.</li>
-<li>✅ <strong>PR #6293</strong> (<code>feat(providers): add qwen3.8 to Aliyun Token Plan</code>) — Adds support for <code>qwen3.8-max-preview</code> with 1M-token context window, enhancing model availability across regions.</li>
-<li>✅ <strong>PR #7191</strong> (<code>fix(console): preserve non-ASCII file card names</code>) — Resolves encoding issues for international filenames in file cards.</li>
-<li>✅ <strong>PR #6581</strong> (<code>fix(console): avoid redundant multimodal upload warning</code>) — Eliminates duplicate warnings when uploading attachments.</li>
-</ul>
-<p>These merges reflect targeted improvements in <strong>network resilience</strong>, <strong>model accessibility</strong>, and <strong>internationalization</strong>, all contributing to a more stable and inclusive user experience.</p>
-<hr>
-<h3><strong>4. Community Hot Topics</strong></h3>
-<p>The most active discussions center around <strong>streaming stability</strong>, <strong>UI consistency</strong>, and <strong>configuration discoverability</strong>:</p>
-<ul>
-<li>📌 <strong>Issue #7402</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7402">Open</a>) – Empty assistant text blocks poison session history with Volcengine Ark API → triggers 400 errors. <em>High impact</em> due to silent failure cascade.</li>
-<li>📌 <strong>Issue #7417</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7417">Open</a>) – Console streams show duplicated text chunks mid-stream → UX degradation during long responses.</li>
-<li>📌 <strong>PR #7416</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/pull/7416">Open</a>) – Expose <code>card_auto_layout</code> toggle for DingTalk → enables widescreen AI cards; <em>first-time contributor</em>, high visibility.</li>
-<li>📌 <strong>Issue #7406</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7406">Open</a>) – No theming support (colors, fonts, spacing) → users resort to editing <code>.app</code> bundles → clear demand for customization.</li>
-</ul>
-<blockquote>
-<p>🔗 <strong>Key Insight</strong>: Users increasingly value <strong>predictable streaming behavior</strong>, <strong>visual control over output layout</strong>, and <strong>configurable aesthetics</strong>—indicating a shift from core functionality to polished, production-grade usability.</p>
-</blockquote>
-<hr>
-<h3><strong>5. Bugs &amp; Stability</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Severity</th>
-<th>Issue</th>
-<th>Description</th>
-<th>Fix PR?</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 High</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7402">#7402</a></td>
-<td>Empty <code>output_text</code> block causes upstream 400 error in Volcengine Ark API</td>
-<td>✅ <strong>PR #7409</strong> (in review)</td>
-</tr>
-<tr>
-<td>🔴 High</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7411">#7411</a></td>
-<td>Agent chat returns synthetic response when runtime is missing → fails open</td>
-<td>✅ <strong>PR #7414</strong> (merged)</td>
-</tr>
-<tr>
-<td>🔴 High</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7410">#7410</a></td>
-<td>Partial state lost when async generator closes via <code>GeneratorExit</code></td>
-<td>✅ <strong>PR #7413</strong> (merged)</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7417">#7417</a></td>
-<td>Duplicated text chunks in console stream</td>
-<td>✅ <strong>PR #7415</strong> (in review)</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/6822">#6822</a></td>
-<td>Transient MCP connection failure permanently blocks conversation</td>
-<td>✅ <strong>PR #6825</strong> (merged)</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>Critical Trend</strong>: Multiple regressions involve <strong>state persistence</strong>, <strong>streaming integrity</strong>, and <strong>fallback logic</strong>—suggesting a need for stronger test coverage in edge-case handling.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Feature Requests &amp; Roadmap Signals</strong></h3>
-<p>User-driven feature requests reveal emerging priorities:</p>
-<ul>
-<li><strong>Widescreen UI Support</strong>: <code>card_auto_layout</code> for DingTalk (PR #7416) signals demand for better visual integration with enterprise tools.</li>
-<li><strong>Theming &amp; Customization</strong>: Issue #7406 calls for accent colors, fonts, and spacing config → indicates desire for brand-aligned or personal workspace branding.</li>
-<li><strong>Workspace-Specific Skill Preload</strong>: PR #7183 introduces opt-in preload for trusted skills → suggests growing interest in performance optimization for frequent workflows.</li>
-<li><strong>Configuration Discoverability</strong>: Hidden features like <code>card_auto_layout</code> being undocumented → implies need for better documentation and UI exposure.</li>
-</ul>
-<blockquote>
-<p>🚀 <strong>Predicted v2.2.0 Additions</strong>: Themed UI, configurable card layouts, skill preloading, and improved session resilience.</p>
-</blockquote>
-<hr>
-<h3><strong>7. User Feedback Summary</strong></h3>
-<p>Real-world pain points highlight both technical maturity and UX gaps:</p>
-<ul>
-<li><strong>Frustration with Silent Failures</strong>: Users report that empty messages or missing runtimes result in cryptic errors (e.g., 400), not actionable feedback.</li>
-<li><strong>Streaming UX Issues</strong>: Duplicated text and collapsed step accordions degrade trust in agent output accuracy.</li>
-<li><strong>Lack of Control</strong>: Users manually patch <code>.app</code> files to customize themes — a workaround that breaks with updates.</li>
-<li><strong>Confusion Over Hidden Features</strong>: Lack of UI exposure for <code>card_auto_layout</code> leads to confusion despite working backend support.</li>
-</ul>
-<blockquote>
-<p>💬 <strong>User Quote (from #7406)</strong>: <em>&quot;I&#39;ve been customizing by editing index.html inside the .app bundle — it works, but every app update... breaks my theme.&quot;</em></p>
-</blockquote>
-<hr>
-<h3><strong>8. Backlog Watch</strong></h3>
-<p>Several high-impact, long-standing issues remain unaddressed and require maintainer attention:</p>
-<ul>
-<li>🔥 <strong>Issue #7407</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7407">Open</a>) – Console messages silently drift to wrong agent. <em>Confirmed by user, awaiting repro steps.</em> This is a <strong>critical data integrity risk</strong>.</li>
-<li>🔥 <strong>Issue #7408</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7408">Open</a>) – Feishu channel config unexpectedly cleared → <code>KeyError(&#39;channel not found: feishu&#39;)</code>. <em>Indicates possible config persistence bug.</em></li>
-<li>🔥 <strong>Issue #7404</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7404">Open</a>) – <code>card_auto_layout</code> not exposed in Console. <em>Already fixed in code (PR #7416), but needs merge and docs.</em></li>
-<li>🔥 <strong>Issue #6785</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/6785">Closed</a>) – Regression in persona toggling. <em>Fixed but may affect workflows relying on custom personas.</em></li>
-</ul>
-<blockquote>
-<p>⏳ <strong>Recommendation</strong>: Prioritize triage of <strong>#7407</strong> and <strong>#7408</strong> — they represent potential data loss or workflow disruption risks.</p>
-</blockquote>
-<hr>
-<p>✅ <strong>Project Health Assessment</strong>: <strong>Strong</strong> — Active development, responsive maintainers, clear roadmap signals. However, <strong>stability under edge cases</strong> and <strong>user configurability</strong> remain key growth areas. With 4 merged fixes today and 3 high-severity PRs in flight, QwenPaw is positioning itself for a major v2.2.0 release focused on <strong>robustness, customization, and enterprise readiness</strong>.</p>
-</details>
-
-<details>
-<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
-
-<h1><strong>ZeroClaw Project Digest – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. Today&#39;s Overview</strong></h3>
-<p>The ZeroClaw project remains highly active with a robust momentum in design innovation and infrastructure refinement. Over the past 24 hours, 50 new issues and 50 open pull requests were created—indicating intense developer engagement and a strong focus on architectural evolution. The absence of new releases suggests that the team is prioritizing deep technical design and stabilization over rapid deployment cycles. High-risk RFCs dominate the issue tracker, signaling a strategic phase focused on foundational improvements to security, memory, runtime, and plugin architecture. The community is actively shaping the future through detailed proposals, particularly around agent session management, sandboxing, and WASM extensibility.</p>
-<hr>
-<h3><strong>2. Releases</strong></h3>
-<p>No new releases were published today. There are no release notes or migration guides to report. The project continues to operate under a development cadence where major changes are integrated via PRs and RFCs before being bundled into formal releases.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/releases">GitHub Releases</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. Project Progress</strong></h3>
-<p>Today’s activity centers on <strong>security hardening</strong>, <strong>runtime stability</strong>, and <strong>feature parity across channels</strong>. Key merged fixes include:</p>
-<ul>
-<li>✅ <strong>PR #10491</strong>: Plugin HTTPS now respects the OS trust store (fixes #9653), closing a critical TLS trust gap.</li>
-<li>✅ <strong>PR #10475</strong>: WhatsApp now renders Markdown in its native dialect, improving UX consistency.</li>
-<li>✅ <strong>PR #10487</strong>: Matrix transcription providers now resolve from live config, enabling dynamic updates.</li>
-<li>✅ <strong>PR #10478</strong>: POSIX device checks restricted to Unix-only platforms, avoiding false positives on non-Unix systems.</li>
-<li>✅ <strong>PR #10477</strong>: Rust 1.98 lint compliance via <code>std::mem::take</code>, maintaining code hygiene.</li>
-</ul>
-<p>These PRs reflect ongoing efforts to improve cross-platform reliability, secure egress paths, and enhance client-side rendering fidelity.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10491">PR #10491</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10475">PR #10475</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10487">PR #10487</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. Community Hot Topics</strong></h3>
-<p>Top Issues by comment count reveal a concentrated push toward <strong>architectural clarity</strong> and <strong>agent session integrity</strong>:</p>
-<table>
-<thead>
-<tr>
-<th>Issue</th>
-<th>Comments</th>
-<th>Summary</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">#9487</a></td>
-<td>28</td>
-<td><strong>RFC: Runtime-owned conversation sessions &amp; transport adapters</strong> – Proposes full ownership of session lifecycle by the runtime, enabling secure, consistent state handling across channels.</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">Issue #9487</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">#6850</a></td>
-<td>23</td>
-<td><strong>RFC: Decouple memory lifecycle policy from storage backends</strong> – Separates durable storage from policy decisions, reducing redundancy and enabling flexible retention strategies.</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">Issue #6850</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">#9488</a></td>
-<td>22</td>
-<td><strong>RFC: Unified attachment architecture for web chat and channels</strong> – Aims to standardize how attachments (files, images, etc.) are handled across all interfaces.</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">Issue #9488</a></td>
-</tr>
-</tbody></table>
-<p><strong>Underlying Need</strong>: Developers are seeking <strong>predictable, secure, and composable agent behavior</strong> across diverse environments. These RFCs collectively aim to eliminate ambiguity in session state, data persistence, and inter-channel consistency—critical for enterprise-grade AI agents.</p>
-<hr>
-<h3><strong>5. Bugs &amp; Stability</strong></h3>
-<p>Critical stability concerns are emerging from high-severity bugs reported today:</p>
-<table>
-<thead>
-<tr>
-<th>Bug</th>
-<th>Severity</th>
-<th>Summary</th>
-<th>Fix PR?</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10230">#10230</a></td>
-<td>S1 (Workflow Blocked)</td>
-<td>Daemon startup/reload causes stack overflow during agent init</td>
-<td>❌ No fix yet</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10230">Bug #10230</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10061">#10061</a></td>
-<td>S1 (Workflow Blocked)</td>
-<td>Rejected image payloads persist in history, poisoning later turns</td>
-<td>❌ No fix yet</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10061">Bug #10061</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10050">#10050</a></td>
-<td>S2 (Degraded Behavior)</td>
-<td>No direct channel send path without agent turn; limits real-time communication</td>
-<td>❌ No fix yet</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10050">Bug #10050</a></td>
-</tr>
-</tbody></table>
-<p>These represent <strong>workflow-blocking regressions</strong> in core agent execution and daemon stability. Immediate attention is required to prevent user frustration and production instability.</p>
-<hr>
-<h3><strong>6. Feature Requests &amp; Roadmap Signals</strong></h3>
-<p>The following feature requests indicate strong demand for <strong>extensibility</strong>, <strong>user control</strong>, and <strong>cross-platform consistency</strong>:</p>
-<ul>
-<li>📌 <strong>[RFC #9998]</strong>: <em>Session-scoped persistent prompt attachments</em> — Allows long-lived constraints to survive restarts and trimming. Likely to be included in v0.12+ as a foundational UX improvement.</li>
-<li>📌 <strong>[RFC #10076]</strong>: <em>Composable WASM plugin runtime</em> — Enables rich, modular extensions. High priority given growing interest in tool/plugin ecosystems.</li>
-<li>📌 <strong>[Feature #10167]</strong>: <em>Vendor-neutral lifecycle export for terminal multiplexers</em> — Addresses integrator pain points in TUI environments. Will likely be prioritized for next CLI release.</li>
-<li>📌 <strong>[Feature #10479]</strong>: <em>Make modifier intent explicit in ZeroCode</em> — Direct response to usability confusion in keybindings. Already implemented in PR, may ship soon.</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9998">RFC #9998</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10076">RFC #10076</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10479">PR #10479</a></p>
-</blockquote>
-<hr>
-<h3><strong>7. User Feedback Summary</strong></h3>
-<p>User feedback is primarily driven by <strong>UX friction</strong>, <strong>stability issues</strong>, and <strong>configuration complexity</strong>:</p>
-<ul>
-<li><strong>Pain Points</strong>:<ul>
-<li>Persistent stale plans after session switch (<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10062">#10062</a>) disrupt workflow continuity.</li>
-<li>Clipboard cleanup failures leave temporary files behind (<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9681">#9681</a>), raising privacy concerns.</li>
-<li>Confusing keybinding semantics in ZeroCode (<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9171">#9171</a>) cause accidental actions.</li>
-</ul>
-</li>
-<li><strong>Satisfaction Signals</strong>:<ul>
-<li>Positive reception to inline keyboard updates in Telegram (<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6565">#6565</a>).</li>
-<li>Appreciation for improved Markdown rendering in WhatsApp (<a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10475">PR #10475</a>).</li>
-</ul>
-</li>
-</ul>
-<p>Users value <strong>predictability</strong>, <strong>clean output</strong>, and <strong>low-friction interaction</strong>—especially when working across multiple channels.</p>
-<hr>
-<h3><strong>8. Backlog Watch</strong></h3>
-<p>Several high-impact, long-standing issues remain <strong>unresolved</strong> and require maintainer review:</p>
-<table>
-<thead>
-<tr>
-<th>Issue</th>
-<th>Status</th>
-<th>Priority</th>
-<th>Risk</th>
-<th>Link</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">#9487</a></td>
-<td>Open, needs-maintainer-review</td>
-<td>P2</td>
-<td>High</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">Runtime-owned sessions</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">#6850</a></td>
-<td>Open, needs-maintainer-review</td>
-<td>P2</td>
-<td>High</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">Decouple memory lifecycle</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">#9488</a></td>
-<td>Open, needs-maintainer-review</td>
-<td>P2</td>
-<td>High</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">Unified attachment architecture</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">#8692</a></td>
-<td>Tracker, awaiting decision</td>
-<td>P2</td>
-<td>Medium</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">Maintainer decision queue</a></td>
-</tr>
-</tbody></table>
-<p>These represent <strong>strategic bottlenecks</strong> in ZeroClaw’s architectural evolution. Without timely maintainer input, progress stalls despite community engagement.</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">Issue #9487</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">Issue #6850</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">Issue #9488</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">Tracker #8692</a></p>
-</blockquote>
-<hr>
-<p><strong>Final Assessment</strong>: ZeroClaw is in a <strong>high-innovation phase</strong> with mature community participation. While technical debt and stability risks exist, the project demonstrates strong health through structured RFCs, proactive bug triage, and meaningful contributor engagement. The next 6–8 weeks will be pivotal in determining whether architectural vision translates into stable, usable features.</p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
