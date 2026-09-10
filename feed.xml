@@ -6,7 +6,265 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Sep 2026 22:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:43:14 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-11</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-11/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-11/ai-picks</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-11 免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Tell HN: OpenAI keeps re-enabling the &amp;#39;allow training&amp;#39; setting 推荐分：80/100 · HN 418 points · 170 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. OpenAI Agents API 推荐分：80/100 · HN 51 points · 44 条评论 推荐理由：讨论充分、发布时间新、与 AI 主题高度相关。评分由热度 26/35、讨论 19/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 3. Detecting and countering misuse of AI: September 2026 推荐分：77/100 · HN 51 ...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-11</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://news.ycombinator.com/item?id=49643556">Tell HN: OpenAI keeps re-enabling the &#39;allow training&#39; setting</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 418 points · 170 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49643556">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://developers.openai.com/api/docs/guides/agents-api/overview">OpenAI Agents API</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 51 points · 44 条评论</p>
+<p>推荐理由：讨论充分、发布时间新、与 AI 主题高度相关。评分由热度 26/35、讨论 19/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49649213">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and countering misuse of AI: September 2026</a></h3>
+<p><strong>推荐分：77/100</strong> · HN 51 points · 24 条评论</p>
+<p>推荐理由：讨论充分、发布时间新、与 AI 主题高度相关。评分由热度 26/35、讨论 16/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49647300">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://mathstodon.xyz/@andreasthom/117240535270608201">More questions about whether researchers can trust OpenAI with unpublished math</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 531 points · 537 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49639408">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/">Amazon pilots ad services in ChatGPT</a></h3>
+<p><strong>推荐分：74/100</strong> · HN 88 points · 85 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49644047">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://news.ycombinator.com/item?id=49643556">Tell HN: OpenAI keeps re-enabling the &#39;allow training&#39; setting</a></td>
+<td align="right">418</td>
+<td align="right">170</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://developers.openai.com/api/docs/guides/agents-api/overview">OpenAI Agents API</a></td>
+<td align="right">51</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">77</td>
+<td><a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and countering misuse of AI: September 2026</a></td>
+<td align="right">51</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">75</td>
+<td><a href="https://mathstodon.xyz/@andreasthom/117240535270608201">More questions about whether researchers can trust OpenAI with unpublished math</a></td>
+<td align="right">531</td>
+<td align="right">537</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">74</td>
+<td><a href="https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/">Amazon pilots ad services in ChatGPT</a></td>
+<td align="right">88</td>
+<td align="right">85</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">71</td>
+<td><a href="https://ai-2027.com">AI 2027 (2025)</a></td>
+<td align="right">51</td>
+<td align="right">60</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">71</td>
+<td><a href="https://tokenstead.ai/models/swe-2">Cognition&#39;s SWE-2 achieves 92.8 on Terminal-Bench 2.1</a></td>
+<td align="right">49</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">69</td>
+<td><a href="https://mastodon.social/@tristanbuckmaster/117237555794407063">OpenAI have no mathematicians capable of understanding what they put out</a></td>
+<td align="right">95</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">68</td>
+<td><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></td>
+<td align="right">1160</td>
+<td align="right">445</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">68</td>
+<td><a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and">GPT-6 Astra, looped transformers, and hidden reasoning</a></td>
+<td align="right">501</td>
+<td align="right">160</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">68</td>
+<td><a href="https://www.anthropic.com/institute/econ-scenarios">What will our economic future look like?</a></td>
+<td align="right">229</td>
+<td align="right">448</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">67</td>
+<td><a href="https://ai.meta.com/muse/">Muse – Meta’s personal AI agent</a></td>
+<td align="right">652</td>
+<td align="right">733</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">67</td>
+<td><a href="https://openai.com/index/introducing-chatgpt-images-2-5/">ChatGPT Images 2.5</a></td>
+<td align="right">380</td>
+<td align="right">447</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">66</td>
+<td><a href="https://hugovergnes.github.io/little-lm-3-8b/">Training a 3.8B LLM to 0.384 CORE for $998</a></td>
+<td align="right">110</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">65</td>
+<td><a href="https://openai.com/index/codex-quantum-computing-experiments/">How GPT‑5.6 Sol helps run quantum computing experiments</a></td>
+<td align="right">147</td>
+<td align="right">107</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">62</td>
+<td><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises €3B</a></td>
+<td align="right">843</td>
+<td align="right">598</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></td>
+<td align="right">598</td>
+<td align="right">132</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://mathstodon.xyz/@tao/117237320796901560">Tao: Open math problems being non-renewably mined by AI</a></td>
+<td align="right">484</td>
+<td align="right">415</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">59</td>
+<td><a href="https://github.com/Atomburstofficial/geiger">Show HN: Geiger – See every AI agent on your machine and what it can touch</a></td>
+<td align="right">47</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">59</td>
+<td><a href="https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/">AI Is Breaking This Thing We Call Trust</a></td>
+<td align="right">47</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">58</td>
+<td><a href="https://arxiv.org/abs/2609.09153">Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</a></td>
+<td align="right">57</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">57</td>
+<td><a href="https://github.com/OtoDock/oto-dock">Show HN: Self-hosted company OS, Claude Code and Codex agents in departments</a></td>
+<td align="right">46</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">53</td>
+<td><a href="https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai">Meta tried to shrink engineering teams around AI</a></td>
+<td align="right">15</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">52</td>
+<td><a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/">Microsoft says email spammers are adopting ASCII smuggling</a></td>
+<td align="right">68</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">49</td>
+<td><a href="https://botbin.io/?v=next">Show HN: Botbin.io – pastebin for AI agent artifacts</a></td>
+<td align="right">9</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">49</td>
+<td><a href="https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html">OpenAI Targets Work of Wall Street with New ChatGPT for Financial Services</a></td>
+<td align="right">8</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">47</td>
+<td><a href="https://www.thelec.net/news/articleView.html?idxno=12835">Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators</a></td>
+<td align="right">54</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://zartbot.github.io/blog/model_arch/inception/">On Next-Gen Transformer: Loops Are Not What You Need</a></td>
+<td align="right">12</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">33</td>
+<td><a href="https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory">What happens when a GPU writes memory</a></td>
+<td align="right">30</td>
+<td align="right">1</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-10</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-10/ai-picks</link>
@@ -13460,999 +13718,6 @@
 
 <hr>
 <p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Agents 生态日报 2026-08-31</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-agents</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-08-31/ai-agents</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>OpenClaw 生态日报 2026-08-31 Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-08-31 00:48 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 OpenClaw 项目简报 – 2026-08-31 1. 今日概览 OpenClaw 项目持续保持高度活跃，过去 24 小时内更新了 500 个问题与 500 个拉取请求（Pull Requests），反映出社区参与度极高以及开发进程迅猛。生态系统当前聚焦于核心会话生命周期的稳定性修复、网关可靠性提升，以及跨渠道消息传递的一致性优化，尤其在 Telegram、Slack 与 WhatsApp 之间。尽管尚未发布新版本，但测试版验证流水线（v2026.8.1-beta.3）仍在持续收集用户反馈，预示着重大更新即将推出。与会话状态损坏、内存泄漏及静默失败相关的高优先级缺陷正主导问题追踪系统。 2. 版本发布 无今日未发布新版本。当前可用最新版本仍为 v2026.8.1-beta.3（提交...</description>
-      <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-08-31</h1>
-<blockquote>
-<p>Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-08-31 00:48 UTC</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
-<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
-<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
-<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
-<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
-</ul>
-<hr>
-<h2>OpenClaw 项目深度报告</h2>
-<h1><strong>OpenClaw 项目简报 – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. 今日概览</strong></h3>
-<p>OpenClaw 项目持续保持高度活跃，过去 24 小时内更新了 500 个问题与 500 个拉取请求（Pull Requests），反映出社区参与度极高以及开发进程迅猛。生态系统当前聚焦于核心会话生命周期的稳定性修复、网关可靠性提升，以及跨渠道消息传递的一致性优化，尤其在 Telegram、Slack 与 WhatsApp 之间。尽管尚未发布新版本，但测试版验证流水线（v2026.8.1-beta.3）仍在持续收集用户反馈，预示着重大更新即将推出。与会话状态损坏、内存泄漏及静默失败相关的高优先级缺陷正主导问题追踪系统。</p>
-<hr>
-<h3><strong>2. 版本发布</strong></h3>
-<p><strong>无</strong><br>今日未发布新版本。当前可用最新版本仍为 <code>v2026.8.1-beta.3</code>（提交记录：<code>5831b80721f802072b0ec1893b30a16cf42d538c</code>）。该测试版正由用户积极验证，已报告多个关键缺陷。目前尚未记录任何破坏性变更或迁移说明；不过预计下一次发布将显著提升调度器容错能力及多编码支持。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3">OpenClaw v2026.8.1-beta.3 发布页</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. 项目进展</strong></h3>
-<p>今日共合并/关闭了 <strong>25 个拉取请求</strong>，主要集中在会话管理、消息传递和用户体验一致性方面的边缘情况修复：</p>
-<ul>
-<li>✅ <strong>PR #128995</strong>：在聊天标题栏新增完整会话操作（置顶、图标设置、移动、复制 ID），提升工作流效率。</li>
-<li>✅ <strong>PR #123535</strong>：修复因焦点事件引发的会话目录刷新风暴，降低启动时的 UI 卡顿。</li>
-<li>✅ <strong>PR #128223</strong>：解决从写快照中解析别名的问题，防止配置漂移。</li>
-<li>✅ <strong>PR #126424</strong>：在代理绑定中强制限定对话传递范围，防止跨代理泄露。</li>
-<li>✅ <strong>PR #133516</strong>：抑制过度的 Discord/Slack 进度指示器，减少长时间交互中的视觉干扰。</li>
-</ul>
-<p>这些合并体现了在稳定用户可见流程、降低复杂交互认知负担方面取得的实质性进展。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Aclosed+updated%3A%3E%3D2026-08-30">已合并拉取请求汇总</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. 社区热议话题</strong></h3>
-<p>评论数最多的前 5 个问题与拉取请求揭示了当前痛点与战略方向：</p>
-<table>
-<thead>
-<tr>
-<th>问题/拉取请求</th>
-<th>评论数</th>
-<th>链接</th>
-<th>摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">#125626</a></td>
-<td>24</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">v2026.8.1-beta.3 反馈</a></td>
-<td>测试版反馈循环已启动；用户正在测试新功能，如按代理成本预算与改进的多模态处理。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">#42475</a></td>
-<td>22</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">按代理成本预算强制执行</a></td>
-<td>对网关层级财务控制机制有强烈需求——被视为生产部署的必要条件。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">#102175</a></td>
-<td>18</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">嵌入式提示缓存跨边界失效</a></td>
-<td>影响长期会话的关键回归问题，损害模型性能与缓存准确性。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">#87744</a></td>
-<td>17</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">Codex 支持的 Telegram 会话超时</a></td>
-<td>2026.5.27 之后持续出现的故障模式，暗示 Codex 通道逻辑存在深层集成缺陷。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>5</td>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">迁移过程误隔离有效定时任务</a></td>
-<td>显示模式迁移中存在数据丢失风险——亟需更安全的升级路径。</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>📌 <strong>洞察</strong>：用户对运营安全性、成本控制与迁移完整性日益关注，表明项目正向企业级使用演进。</p>
-</blockquote>
-<hr>
-<h3><strong>5. 缺陷与稳定性</strong></h3>
-<p>高严重性缺陷（P1）占据问题追踪系统的主导地位，多数与会话状态损坏、消息丢失及崩溃相关：</p>
-<table>
-<thead>
-<tr>
-<th>问题</th>
-<th>严重等级</th>
-<th>影响范围</th>
-<th>状态</th>
-<th>修复拉取请求？</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/102175">#102175</a></td>
-<td>P1 🐚 钻石蜗牛</td>
-<td>会话状态、安全、认证提供方</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/87744">#87744</a></td>
-<td>P1 🦞 钻石龙虾</td>
-<td>会话状态、消息丢失</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/96834">#96834</a></td>
-<td>P1 🐚 钻石蜗牛</td>
-<td>消息丢失、多模态处理</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/98435">#98435</a></td>
-<td>P2</td>
-<td>会话恢复、传输</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/97616">#97616</a></td>
-<td>P1 🦞 钻石龙虾</td>
-<td>僵尸进程、运行时退化</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>P1 🦞 钻石龙虾</td>
-<td>数据丢失、自动化资产</td>
-<td>开放</td>
-<td>❌ 否</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>严重风险</strong>：多个 P1 缺陷涉及静默数据丢失或不可恢复的状态损坏。特别地，<strong>#133347</strong> 显示迁移过程会无声丢弃有效的定时任务——这是升级安全性的红色警报。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 功能请求与路线图信号</strong></h3>
-<p>用户驱动的功能请求指向 v2026.9+ 的新兴重点方向：</p>
-<ul>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/42475">按代理成本预算</a></strong>（22 条评论）：网关层急需财务控制机制——极可能成为下一版本优先项。</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/52640">持久的任务状态展示面</a></strong>（7 条评论）：对长周期操作实时可见性的强烈需求（以 Discord 为主）。</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/12678">基于能力的权限控制</a></strong>（6 条评论）：以安全为核心的理念控制工具访问——表明强化信任边界的意图。</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/79458">斜杠命令国际化支持</a></strong>（6 条评论）：全球采用率上升要求超越英文的本地化支持。</li>
-<li><strong><a href="https://github.com/openclaw/openclaw/issues/55792">重启后补发遗漏消息</a></strong>（5 条评论）：对高可用架构而言至关重要。</li>
-</ul>
-<blockquote>
-<p>🧭 <strong>预测</strong>：v2026.9 将强调 <strong>成本治理</strong>、<strong>安全加固</strong> 与 <strong>故障下的可靠性</strong> —— 与生产环境需求高度对齐。</p>
-</blockquote>
-<hr>
-<h3><strong>7. 用户反馈摘要</strong></h3>
-<p>真实使用场景暴露出复杂多渠道环境中的成长阵痛：</p>
-<ul>
-<li><strong>企业运维人员</strong> 报告对静默失败（如缺少 Slack 回复、Telegram 会话卡死）感到沮丧，且缺乏可观测性。</li>
-<li><strong>多账号配置</strong>（尤其是 Slack + Telegram）面临身份追踪困难、命令劫持与权限漂移挑战。</li>
-<li><strong>使用 CLI 工具的开发者</strong> 指出后台任务不稳定及僵尸进程堆积问题。</li>
-<li><strong>非拉丁语系用户</strong>（中文、日文、韩文）指出文件处理与元数据解析中的编码缺失。</li>
-<li><strong>从旧版本升级的用户</strong> 关注迁移风险——特别是定时任务与数据库模式变更。</li>
-</ul>
-<blockquote>
-<p>💬 <strong>引言</strong>：<em>&quot;更新到 2026.8.1 后，我的整个自动化调度全部消失——我不得不手动重建所有内容。&quot;</em> —— @ejc3，Issue #133347</p>
-</blockquote>
-<hr>
-<h3><strong>8. 待办事项监控</strong></h3>
-<p>若干高影响、长期存在的问题亟需维护者关注：</p>
-<table>
-<thead>
-<tr>
-<th>问题</th>
-<th>年龄</th>
-<th>优先级</th>
-<th>状态</th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/125626">#125626</a></td>
-<td>13 天</td>
-<td>P2</td>
-<td>开放</td>
-<td>测试反馈仍在收集中——需进行分类处理。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/42475">#42475</a></td>
-<td>5 个月</td>
-<td>P2</td>
-<td>开放</td>
-<td>需求旺盛，但尚无负责人认领。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/133347">#133347</a></td>
-<td>1 天</td>
-<td>P1</td>
-<td>开放</td>
-<td>迁移缺陷——可能导致生产环境数据丢失。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/issues/130197">#130197</a></td>
-<td>4 天</td>
-<td>P1</td>
-<td>已关闭</td>
-<td>已修复——但需回溯至测试版。</td>
-</tr>
-<tr>
-<td><a href="https://github.com/openclaw/openclaw/pull/133563">#133563</a></td>
-<td>1 天</td>
-<td>P1</td>
-<td>等待作者</td>
-<td>修复自动数据库迁移竞争问题——对稳定性至关重要。</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🛑 <strong>紧急</strong>：维护者必须优先处理 <strong>#133347</strong> 与 <strong>#133563</strong> ——两者均对生产用户构成重大风险。</p>
-</blockquote>
-<hr>
-<p><strong>最终评估</strong>：OpenClaw 正处于 <strong>高速推进、高风险并存</strong> 的阶段——强大功能快速演进，但核心稳定性与升级安全性仍显脆弱。社区已趋于成熟且声音清晰，推动项目迈向企业就绪。当务之急应聚焦于 <strong>修复 P1 回归问题</strong>、<strong>保障迁移路径安全</strong>，以及 <strong>在下一稳定版发布前验证成本控制机制</strong>。</p>
-<blockquote>
-<p>🔗 完整问题列表：<a href="https://github.com/openclaw/openclaw/issues?q=is%3Aopen+updated%3A%3E%3D2026-08-30">GitHub OpenClaw 问题 (2026-08-31)</a><br>🔗 完整拉取请求列表：<a href="https://github.com/openclaw/openclaw/pulls?q=is%3Aopen+updated%3A%3E%3D2026-08-30">GitHub OpenClaw 拉取请求 (2026-08-31)</a></p>
-</blockquote>
-<hr>
-<h2>横向生态对比</h2>
-<h1><strong>跨项目对比报告：个人AI代理开源生态 – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. 生态概览</strong></h3>
-<p>2026年第三季度，个人AI助手与代理开源生态展现出快速的技术成熟化趋势，发展重心从核心功能逐步转向企业级可靠性、安全性和运营控制能力。各项目愈发关注会话完整性、跨渠道一致性、成本治理及迁移安全性，标志着生态系统已从原型验证阶段迈向生产部署阶段。所有项目均呈现出活跃的社区参与度，贡献者通过RFC、漏洞分类和功能优先级排序等机制深度影响架构演进方向。</p>
-<hr>
-<h3><strong>2. 活动对比</strong></h3>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>最近24小时问题数</th>
-<th>最近24小时PR数</th>
-<th>发布版本</th>
-<th>健康评分¹</th>
-<th>状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>OpenClaw</strong></td>
-<td>500</td>
-<td>500</td>
-<td>无</td>
-<td>⚠️ 高风险</td>
-<td>高速迭代</td>
-</tr>
-<tr>
-<td><strong>Hermes Agent</strong></td>
-<td>50</td>
-<td>50</td>
-<td>无</td>
-<td>⚠️ 稳定性压力</td>
-<td>积极开发</td>
-</tr>
-<tr>
-<td><strong>IronClaw</strong></td>
-<td>0</td>
-<td>11</td>
-<td>无</td>
-<td>✅ 稳定且重构中</td>
-<td>内部聚焦</td>
-</tr>
-<tr>
-<td><strong>QwenPaw</strong></td>
-<td>13</td>
-<td>12</td>
-<td>无</td>
-<td>✅ 坚固且持续演进</td>
-<td>功能打磨</td>
-</tr>
-<tr>
-<td><strong>ZeroClaw</strong></td>
-<td>50</td>
-<td>50</td>
-<td>无</td>
-<td>⚠️ 战略阶段</td>
-<td>架构创新</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p><strong>¹ 健康评分</strong>：基于严重性（P1）漏洞数量、发布就绪度、迁移安全性及社区反馈速度综合评估。<br><strong>注</strong>：IronClaw问题数低反映主动稳定策略；ZeroClaw高活跃度表明正在进行深层次架构工作。</p>
-</blockquote>
-<hr>
-<h3><strong>3. OpenClaw 的定位</strong></h3>
-<p>OpenClaw 在整个生态中表现最为<strong>运营激进</strong>，其问题与PR数量居首，反映出一个高速运转、以用户驱动为特征的开发节奏。其技术路线强调<strong>多通道消息保真度</strong>、<strong>会话生命周期鲁棒性</strong>以及<strong>网关级成本控制</strong>，使其成为大规模自动化部署的理想候选方案。相较于同类项目，OpenClaw 拥有最庞大的活跃社区（体现在顶级问题下的评论密度），但这也伴随更高的不稳定性风险。与更注重模块化或设计抽象的项目（如 ZeroClaw、IronClaw）不同，OpenClaw 更侧重于<strong>端到端工作流韧性</strong>而非架构抽象，因此已成为复杂多平台代理编排的事实标准。</p>
-<hr>
-<h3><strong>4. 共同技术关注点</strong></h3>
-<p>多个项目正朝着若干关键需求汇聚：</p>
-<table>
-<thead>
-<tr>
-<th>要求</th>
-<th>涉及项目</th>
-<th>核心驱动力</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>会话状态完整性</strong></td>
-<td>OpenClaw, Hermes Agent, ZeroClaw</td>
-<td>静默数据损坏、恢复失败、数据丢失</td>
-</tr>
-<tr>
-<td><strong>迁移安全与模式稳定性</strong></td>
-<td>OpenClaw, Hermes Agent, ZeroClaw</td>
-<td>升级过程中的数据丢失（如定时任务、配置）</td>
-</tr>
-<tr>
-<td><strong>成本与使用治理</strong></td>
-<td>OpenClaw, Hermes Agent, QwenPaw</td>
-<td>单代理预算控制、API成本可见性</td>
-</tr>
-<tr>
-<td><strong>流式输出一致性</strong></td>
-<td>QwenPaw, OpenClaw, ZeroClaw</td>
-<td>重复块、静默错误、畸形负载</td>
-</tr>
-<tr>
-<td><strong>跨平台上下文同步</strong></td>
-<td>Hermes Agent, ZeroClaw, QwenPaw</td>
-<td>CLI ↔ Telegram ↔ Desktop 连续性</td>
-</tr>
-<tr>
-<td><strong>错误清晰度与诊断能力</strong></td>
-<td>IronClaw, QwenPaw, OpenClaw</td>
-<td>失败类型误判（如 <code>InputEncode</code> 与 <code>Domain</code>）</td>
-</tr>
-</tbody></table>
-<p>这种趋同现象表明，生态系统正在走向成熟——<strong>运营可靠性</strong>已成为核心竞争力，不再仅仅是模型质量或功能广度的比拼。</p>
-<hr>
-<h3><strong>5. 差异化分析</strong></h3>
-<table>
-<thead>
-<tr>
-<th>维度</th>
-<th>OpenClaw</th>
-<th>Hermes Agent</th>
-<th>IronClaw</th>
-<th>QwenPaw</th>
-<th>ZeroClaw</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>目标用户</strong></td>
-<td>企业自动化、DevOps团队</td>
-<td>高级用户、开发者、命令行优先</td>
-<td>基础设施工程师、安全团队</td>
-<td>中文企业用户、SDK开发者</td>
-<td>架构师、插件开发者</td>
-</tr>
-<tr>
-<td><strong>功能焦点</strong></td>
-<td>多通道编排、成本控制</td>
-<td>会话韧性、A2A安全</td>
-<td>设计系统、CI/CD稳定性</td>
-<td>UI自定义、模型访问</td>
-<td>运行时所有权、WASM可扩展性</td>
-</tr>
-<tr>
-<td><strong>技术架构</strong></td>
-<td>网关中心化、有状态会话</td>
-<td>用户档案隔离、A2A协议</td>
-<td>Rust优先、依赖清洁性</td>
-<td>MCP + Console UI栈</td>
-<td>运行时持有会话、RFC驱动</td>
-</tr>
-<tr>
-<td><strong>创新速度</strong></td>
-<td>最快（高风险迭代）</td>
-<td>中等（稳定性优先）</td>
-<td>缓慢（重构阶段）</td>
-<td>中等（功能打磨）</td>
-<td>最高（架构愿景）</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p><strong>关键洞察</strong>：尽管 OpenClaw 在规模与集成深度上领先，但 ZeroClaw 与 IronClaw 代表了通过架构严谨性与代码洁癖实现<strong>长期可持续性</strong>的战略布局。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 社区势头与成熟度</strong></h3>
-<ul>
-<li><strong>高势头项目（快速迭代）</strong>：  <ul>
-<li><strong>OpenClaw</strong> 与 <strong>ZeroClaw</strong> 在活动指标上占据主导——两者均表现出明显的<strong>预发布冲刺阶段</strong>特征，重点集中于边缘案例修复与架构决策。</li>
-</ul>
-</li>
-<li><strong>中势头项目（稳定与打磨）</strong>：  <ul>
-<li><strong>Hermes Agent</strong> 与 <strong>QwenPaw</strong> 展现出平衡进展——活跃提交，但相比 OpenClaw 的 P1 问题更少，显示出日益成熟的迹象。</li>
-</ul>
-</li>
-<li><strong>低势头项目（内部重构）</strong>：  <ul>
-<li><strong>IronClaw</strong> 显现安静而自律的开发节奏——无公开问题，但大量内部 PR 表明正处于<strong>预发布稳定阶段</strong>，即将发布 v0.9/v1.0。</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p><strong>趋势</strong>：生态系统正在分化：部分项目正加速迈向生产就绪（OpenClaw、QwenPaw），而另一些则在为未来可扩展性打下基础（ZeroClaw、IronClaw）。</p>
-</blockquote>
-<hr>
-<h3><strong>7. 趋势信号</strong></h3>
-<p>从社区反馈与技术优先级中，可提炼出三大行业趋势：</p>
-<ol>
-<li><p><strong>企业就绪已成为首要目标</strong>  </p>
-<ul>
-<li>对<strong>单代理预算管理</strong>、<strong>迁移安全性</strong>及<strong>会话持久化</strong>的需求（OpenClaw、Hermes Agent、ZeroClaw）表明，个人代理正被应用于关键业务流程。</li>
-</ul>
-</li>
-<li><p><strong>用户体验不再次之</strong>  </p>
-<ul>
-<li>对<strong>主题支持</strong>、<strong>宽屏布局</strong>、<strong>可配置卡片自动布局</strong>及<strong>流式体验优化</strong>的诉求（QwenPaw、ZeroClaw）说明，精良、可定制的界面是长期采用的关键。</li>
-</ul>
-</li>
-<li><p><strong>安全与隔离不容妥协</strong>  </p>
-<ul>
-<li>多个项目正投入建设<strong>A2A重放防护</strong>、<strong>基于能力的权限控制</strong>、<strong>沙箱执行环境</strong>及<strong>WASM插件运行时</strong>（Hermes Agent、ZeroClaw、IronClaw）——明确从“功能优先”转向“设计即信任”的范式。</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>✅ <strong>对开发者的价值</strong>：该生态正演变为<strong>生产级AI代理框架层</strong>，其中稳定性、可观测性与治理能力与模型性能同等重要。</p>
-</blockquote>
-<hr>
-<p><strong>结论</strong>：个人AI代理领域正从实验探索转向企业级部署。OpenClaw 在规模与集成深度上领跑，但 ZeroClaw 与 IronClaw 正在构建下一代系统所需的稳健基础。开发者应优先选择 <strong>OpenClaw</strong> 用于即时多通道自动化，<strong>ZeroClaw</strong> 用于长期架构愿景，<strong>IronClaw/QwenPaw</strong> 用于稳定、安全且文档完善的工具链。</p>
-<hr>
-<h2>同赛道项目详细报告</h2>
-<details>
-<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
-
-<h1><strong>赫尔墨斯代理项目简报 – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. 今日概览</strong></h3>
-<p>赫尔墨斯代理项目持续保持高度活跃，过去24小时内新增50个问题和50个拉取请求（PR），反映出社区参与度高且开发势头强劲。当前工作重点集中在核心稳定性（尤其是会话状态、SQLite损坏及跨平台兼容性）、代理间（A2A）通信的安全强化，以及本地化扩展。尽管未发布新版本，但多项高严重性修复正在评审中，特别是针对Linux桌面更新失败、WebSocket会话恢复及数据库完整性问题。项目正逐步发展为一个支持多平台的AI代理框架，并持续拓展生态系统集成。</p>
-<hr>
-<h3><strong>2. 发布情况</strong></h3>
-<p><em>过去24小时未发布新版本。</em><br>最新稳定版本仍为 <strong>v0.20.4</strong>，发布于2026-08-18。发布历史中暂无重大变更或迁移说明。</p>
-<hr>
-<h3><strong>3. 项目进展</strong></h3>
-<p><strong>今日合并/关闭的PR：</strong>  </p>
-<ul>
-<li>✅ <a href="https://github.com/nousresearch/hermes-agent/pull/98907">PR #98907</a>: <em>fix(checkpoints): snapshot V4A patch targets before editing</em> – 解决文件编辑过程中关键检查点丢失问题，提升恢复可靠性。  </li>
-<li>✅ <a href="https://github.com/nousresearch/hermes-agent/pull/98965">PR #98965</a>: <em>state.db no longer silently corrupts on Docker Desktop/OrbStack bind mounts</em> – 修复虚拟文件系统上静默的WAL损坏问题；源自 openclaw/openclaw#120597。</li>
-</ul>
-<p><strong>关键进展：</strong>  </p>
-<ul>
-<li>A2A协议安全增强（<code>PR #98937</code>, <code>#96088</code>）加强了重放攻击防护与配置文件隔离。  </li>
-<li>新功能支持：JMAP邮件集成（<code>PR #98968</code>）、通过Photon实现iMessage已读回执（<code>PR #98964</code>），以及兼容OpenAI的流式语音合成（TTS）（<code>PR #98096</code>）。  </li>
-<li>性能优化包括延迟渲染Mermaid图表（<code>PR #98967</code>）及终端面板中的键盘焦点处理（<code>PR #98962</code>）。</li>
-</ul>
-<hr>
-<h3><strong>4. 社区热点话题</strong></h3>
-<p>最活跃的讨论聚焦于<strong>系统稳定性</strong>、<strong>跨平台可用性</strong>和<strong>用户体验打磨</strong>：</p>
-<ul>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/66616">Issue #66616</a></strong>: <em>Skills index is stale or degraded</em>（126条评论）——一项关键基础设施问题，<code>/docs/api/skills-index.json</code> 已超过29.8小时未刷新（阈值：26小时），影响文档可访问性及跨平台工具发现。</li>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/97764">Issue #97764</a></strong>: <em>Desktop renderer never resumes stored session after mid-turn ws drop</em>（4条评论）——高严重性缺陷，导致聊天界面冻结，需重启应用才能恢复；影响使用多配置文件的macOS用户在机器人模式下的体验。</li>
-<li>🔥 <strong><a href="https://github.com/nousresearch/hermes-agent/pull/98937">PR #98937</a></strong>: <em>fix(a2a): harden replay retry and profile isolation</em>（尚未有评论）——基础安全修复，针对A2A消息重放攻击与配置文件信息泄露，对生产部署至关重要。</li>
-<li>🌍 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/4335">Issue #4335</a></strong>: <em>Cross-platform session context sharing (CLI ↔ Telegram)</em>（18条评论）——凸显用户对跨消息平台统一用户上下文的需求，揭示当前网关设计中的关键用户体验缺口。</li>
-</ul>
-<p>这些反馈体现了用户的深层诉求：<strong>可靠性</strong>、<strong>上下文连续性</strong>、<strong>安全性</strong>与<strong>全球可访问性</strong>。</p>
-<hr>
-<h3><strong>5. 问题与稳定性</strong></h3>
-<p>今日报告的顶级问题按严重性和影响排序如下：</p>
-<table>
-<thead>
-<tr>
-<th>严重性</th>
-<th>问题</th>
-<th>摘要</th>
-<th>修复PR？</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/97764">#97764</a></td>
-<td>桌面渲染器在WebSocket中断后无法恢复会话 → 聊天冻结直至重启</td>
-<td>❌ 尚无修复</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/97905">#97905</a></td>
-<td>因进程间时区管理不当，定时任务在错误时间触发</td>
-<td>❌ 尚无修复</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/94862">#94862</a></td>
-<td>桌面定时器窃取其他配置文件的任务，并通过默认配置文件的Telegram机器人发送</td>
-<td>❌ 尚无修复</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/98924">#98924</a></td>
-<td><code>read-only SessionDB init</code> 在遇到UnicodeDecodeError时崩溃，静默丢弃消息</td>
-<td>❌ 尚无修复</td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td><a href="https://github.com/nousresearch/hermes-agent/issues/98814">#98814</a></td>
-<td>Windows更新程序通过自然语言触发时自我终止 → 更新静默失败</td>
-<td>❌ 尚无修复</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>重大风险</strong>：多个P1级问题涉及 <strong>SQLite损坏</strong>（<code>#98077</code>, <code>#97940</code>）和 <strong>会话状态不一致</strong>，威胁生产环境中的数据完整性。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 功能请求与路线图信号</strong></h3>
-<p>用户驱动的功能建议显示出强烈兴趣：</p>
-<ul>
-<li><strong>本地化扩展</strong>：俄语（<code>ru-RU</code>）UI支持在4个议题中被积极请求（<a href="https://github.com/nousresearch/hermes-agent/issues/40347">#40347</a>, <a href="https://github.com/nousresearch/hermes-agent/issues/52137">#52137</a>, <a href="https://github.com/nousresearch/hermes-agent/issues/84418">#84418</a>），表明全球化采用意图明显。</li>
-<li><strong>跨平台会话同步</strong>（<a href="https://github.com/nousresearch/hermes-agent/issues/4335">#4335</a>）：用户希望CLI与Telegram会话共享上下文——暗示需要一个集中式会话存储。</li>
-<li><strong>新集成需求</strong>：Nextcloud Talk（<a href="https://github.com/nousresearch/hermes-agent/issues/50148">#50148</a>）和JMAP邮件（<a href="https://github.com/nousresearch/hermes-agent/pull/98968">PR #98968</a>）表明对现代、标准化工作流的迫切需求。</li>
-<li><strong>代理智能增强</strong>：提议将实时时间/日期感知能力嵌入代理（<a href="https://github.com/nousresearch/hermes-agent/issues/98931">#98931</a>），反映用户期望更“拟人化”的行为表现。</li>
-</ul>
-<p>👉 <strong>预计纳入 v0.21 版本</strong>：俄语本地化、A2A安全修复、会话容错能力提升。</p>
-<hr>
-<h3><strong>7. 用户反馈摘要</strong></h3>
-<p>用户反馈显著痛点包括：</p>
-<ul>
-<li><strong>Linux桌面不稳定</strong>：反复更新失败与沙箱权限重置（<a href="https://github.com/nousresearch/hermes-agent/issues/58593">#58593</a>），以及损坏的桌面入口启动器（<a href="https://github.com/nousresearch/hermes-agent/issues/90292">#90292</a>）。</li>
-<li><strong>会话管理摩擦</strong>：重启后会话消失（<a href="https://github.com/nousresearch/hermes-agent/issues/38858">#38858</a>），大型<code>state.db</code>文件导致UI卡顿（<a href="https://github.com/nousresearch/hermes-agent/issues/60747">#60747</a>）。</li>
-<li><strong>跨平台断层</strong>：用户期望在CLI、Telegram与桌面端之间无缝传递上下文，但孤立的会话存储机制阻碍了这一目标。</li>
-<li><strong>安全顾虑</strong>：配置不当的A2A与认证流程引发信任问题，尤其在企业或敏感工作负载场景下。</li>
-</ul>
-<p>尽管存在这些问题，核心用户群体仍对系统的可扩展性与深度控制能力表示高度满意。</p>
-<hr>
-<h3><strong>8. 待办事项关注清单</strong></h3>
-<p>若干长期存在、影响深远的问题仍未解决，亟需维护者介入：</p>
-<ul>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/66616">Issue #66616</a></strong>: Skills index陈旧 — 对开发者入门与工具发现至关重要，需立即评估优先级。  </li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/4335">Issue #4335</a></strong>: 跨平台会话共享 — 用户体验核心，但因架构决策停滞（“needs-decision”）。  </li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/issues/98931">Issue #98931</a></strong>: 添加实时时间/日期感知 — 低垂果实，有助于提升代理的拟人化表现。  </li>
-<li>🟡 <strong><a href="https://github.com/nousresearch/hermes-agent/pull/95850">PR #95850</a></strong>: 安全的源绑定远程工作者 — 企业安全关键功能，但受制于决策延迟。</li>
-</ul>
-<blockquote>
-<p>这些构成了<strong>战略瓶颈</strong>，若在下一周期未解决，可能阻碍项目的广泛采纳。</p>
-</blockquote>
-<hr>
-<p><em>数据来源：GitHub API 快照 — 2026-08-31</em><br><em>项目健康评估：活跃，社区参与度高，但稳定性压力持续上升。</em></p>
-</details>
-
-<details>
-<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
-
-<p><strong>IronClaw 项目简报 – 2026-08-31</strong></p>
-<hr>
-<h3><strong>1. 今日概览</strong></h3>
-<p>截至 2026-08-31，IronClaw 项目在开发周期中展现出平稳而持续的进展。过去 24 小时内未发布新版本，亦无问题更新，表明用户报告的漏洞或功能请求处于稳定状态。然而，过去一天内有 11 个拉取请求（PR）被更新，其中 10 个仍开放，1 个已合并，反映出团队正积极进行内部开发，重点聚焦于依赖项管理、CI/CD 改进及基础架构重构。大部分活动由自动化 dependabot 更新驱动，核心贡献者也正在解决关键基础设施问题，特别是在集成测试、内存处理和设计系统演进方面。</p>
-<hr>
-<h3><strong>2. 发布情况</strong></h3>
-<p><em>过去 24 小时内或当前版本周期中未发布新版本。</em><br>→ <strong>状态：无</strong><br>→ <strong>备注：</strong> 这反映了团队有意将重心放在稳定性提升与基础设施优化上，为即将到来的发布（可能为 v0.9.x 或 v1.0.0）做准备。</p>
-<hr>
-<h3><strong>3. 项目进展</strong></h3>
-<p><em>今日合并了一个 PR：</em>  </p>
-<ul>
-<li>✅ <strong>PR #7959</strong> (<a href="https://github.com/nearai/ironclaw/pull/7959">chore(deps): bump the everything-else group across 1 directory with 15 updates</a>)  <ul>
-<li>成功升级根目录下 15 个 Rust 依赖项，包括 <code>uuid</code>、<code>base64</code> 和 <code>toml</code>。  </li>
-<li>属于持续的依赖维护工作；未报告任何破坏性变更。  </li>
-<li>表明团队持续致力于安全加固与生态兼容性。</li>
-</ul>
-</li>
-</ul>
-<p><em>其他重要进展（开放中的 PR）：</em>  </p>
-<ul>
-<li><strong>PR #7831</strong>：设计系统第三阶段 3a 基础 — 引入非阻塞 Chromatic 流水线，用于 Storybook 可视化回归测试。对前端一致性至关重要，尤其在本次 UI 重构期间。</li>
-<li><strong>PR #7992</strong>：通过单一 <code>cargo nextest run</code> 命令统一受控的集成执行，固定并发数。提升测试可靠性并减少 CI 开销。</li>
-<li><strong>PR #7977</strong>：实现对主导重复输出的循环终止，并限制交互式墙钟时间。解决了此前导致性能下降的长时间运行循环问题。</li>
-</ul>
-<hr>
-<h3><strong>4. 社区热点话题</strong></h3>
-<p>尽管目前无开放问题，但最活跃的几个 PR 反映了高优先级的工程关切：</p>
-<ul>
-<li><p>🔥 <strong>PR #7992</strong> – <em>ci: unify bounded integration execution</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7992">链接</a>  </li>
-<li><strong>重要性说明：</strong> 集中并稳定集成测试流程。移除冗余的 shell 投影，提升可复现性。对 CI 速度与可靠性具有重大影响。</li>
-</ul>
-</li>
-<li><p>🔥 <strong>PR #7977</strong> – <em>fix(loop): terminate on dominant repeated output, cap interactive wall clock</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7977">链接</a>  </li>
-<li><strong>根本需求：</strong> 防止生产环境中出现失控的代理循环，尤其是在幂等或卡住状态下。是对近期运行中观察到的真实性能风险（如 <code>e3513a4e</code>，593 次工具调用耗时超 70 分钟）的直接响应。</li>
-</ul>
-</li>
-<li><p>🔥 <strong>PR #7831</strong> – <em>Design System Phase 3a foundation — Chromatic lane + missing token axes</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7831">链接</a>  </li>
-<li><strong>战略信号：</strong> 显示团队在重大 UI 重制前，对前端一致性与可维护性的深度投入。可视化回归覆盖率现已集成至每个 PR 流水线。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. 漏洞与稳定性</strong></h3>
-<p><em>今日未报告新漏洞。</em> 但有两个高影响修复正在评审中：</p>
-<ul>
-<li><p>⚠️ <strong>PR #7985</strong> – <em>fix(memory): a missing document is a domain failure, not a malformed request</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7985">链接</a>  </li>
-<li><strong>问题：</strong> 之前将缺失文档读取错误误判为编码错误（<code>InputEncode</code>），导致用户提示混乱。现已正确映射至 <code>FailureKind::Domain</code>。  </li>
-<li><strong>严重程度：</strong> 中等 — 影响内存访问操作中的用户体验清晰度。</li>
-</ul>
-</li>
-<li><p>⚠️ <strong>PR #7990</strong> – <em>fix(tool-disclosure): an unresolvable tool name is not an encoding error</em>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7990">链接</a>  </li>
-<li><strong>问题：</strong> 共享的 <code>failed_invalid_input</code> 辅助函数错误地将非法工具名与格式错误输入均使用 <code>InputEncode</code> 标记。现已区分二者。  </li>
-<li><strong>严重程度：</strong> 中等 — 防止将工具解析失败误诊为输入格式错误。</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>✅ 两项修复均已准备就绪，可供审查与合并，表明团队正在主动优化错误分类逻辑。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 功能请求与路线图信号</strong></h3>
-<p>尽管问题追踪器中未见明确的功能请求，但多个 PR 指向近期路线图重点：</p>
-<ul>
-<li><p>🎯 <strong>设计系统第三阶段 3a（PR #7831）</strong>  </p>
-<ul>
-<li>表明重大前端重构正在进行中。未来版本预计将增强主题支持、无障碍性及组件一致性。</li>
-</ul>
-</li>
-<li><p>🎯 <strong>CI/CD 重构（PRs #7992、#7977、#7988）</strong>  </p>
-<ul>
-<li>暗示团队正转向更可预测、更健壮且可观测的代理执行模式。很可能为企业级部署场景做准备。</li>
-</ul>
-</li>
-<li><p>🎯 <strong>代码库知识图谱刷新（PR #7988）</strong>  </p>
-<ul>
-<li><a href="https://github.com/nearai/ironclaw/pull/7988">链接</a>  </li>
-<li>表明团队持续推动 AI 代理上下文感知能力的更新。未来版本可能包含更优的代码导航、上下文感知建议，以及降低幻觉风险。</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>🔮 <strong>预测下一阶段功能（v0.9+）：</strong>  </p>
-<ul>
-<li>增强的错误诊断，支持结构化失败类型  </li>
-<li>实时代理循环监控仪表板  </li>
-<li>多代理协作协调框架</li>
-</ul>
-</blockquote>
-<hr>
-<h3><strong>7. 用户反馈摘要</strong></h3>
-<p>截至 2026-08-31，公共问题追踪器中尚无直接用户反馈。但近期 PR 的性质揭示了隐含的用户痛点：</p>
-<ul>
-<li><strong>对模糊错误信息的困扰</strong> → 通过 PR #7985 与 #7990 得到缓解，修复了失败分类逻辑。</li>
-<li><strong>因无限或缓慢循环引发的性能焦虑</strong> → 通过 PR #7977 得到缓解，强制设置运行时间上限。</li>
-<li><strong>对一致的 UI/UX 的需求</strong> → 在大量设计系统工作中体现明显，表明团队正努力匹配用户对专业级界面的期望。</li>
-</ul>
-<blockquote>
-<p>👉 <em>用户满意度可能正在内部提升</em>，因为核心稳定性与可用性问题正被主动解决。</p>
-</blockquote>
-<hr>
-<h3><strong>8. 待办事项关注</strong></h3>
-<p>尽管整体活动较低，仍有若干高价值 PR 长期开放，且无评论或批准：</p>
-<ul>
-<li><p>🔗 <strong>PR #7831</strong> – <em>Design System Phase 3a foundation</em>  </p>
-<ul>
-<li>创建时间：2026-08-23 | 最后更新：2026-08-31  </li>
-<li><strong>状态：</strong> 开放，0 个反应，0 条评论  </li>
-<li><strong>担忧：</strong> 对未来 UI 质量至关重要；若不尽快审查，可能造成阻塞。</li>
-</ul>
-</li>
-<li><p>🔗 <strong>PR #7977</strong> – <em>fix(loop): terminate on dominant repeated output</em>  </p>
-<ul>
-<li>创建时间：2026-08-28 | 最后更新：2026-08-30  </li>
-<li><strong>状态：</strong> 开放，0 个反应，0 条评论  </li>
-<li><strong>风险：</strong> 已识别出已知生产环境不稳定问题（如 70 分钟运行），但该修复仍待审查。</li>
-</ul>
-</li>
-<li><p>🔗 <strong>PR #7992</strong> – <em>ci: unify bounded integration execution</em>  </p>
-<ul>
-<li>创建时间：2026-08-30 | 最后更新：2026-08-30  </li>
-<li><strong>状态：</strong> 开放，0 个反应，0 条评论  </li>
-<li><strong>紧急程度：</strong> 高 — 直接影响 CI 可靠性与开发者效率。</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>📌 <strong>建议：</strong> 核心维护者应优先审查这三个 PR，以防止阻碍下一版本发布的瓶颈。</p>
-</blockquote>
-<hr>
-<p><em>数据来源：GitHub 仓库 — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a> | 最后更新：2026-08-31</em></p>
-</details>
-
-<details>
-<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
-
-<h1><strong>QwenPaw 项目简报 – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. 今日概览</strong></h3>
-<p>QwenPaw 项目持续保持高度活跃，开发者贡献与用户报告的问题流持续不断。过去 24 小时内，共更新了 13 个问题和 12 个拉取请求（Pull Request），显示出强劲的开发势头——尤其集中在稳定性修复、UI/UX 优化以及后端可靠性提升。值得注意的是，多个与流处理、会话持久性及运行时可用性相关的严重缺陷被暴露，表明团队正聚焦于鲁棒性，为潜在的 v2.2.0 版本发布做准备。社区在前端（控制台 UI）与后端（SDK/运行时）层面均表现出深度参与，反映出一个成熟但仍在演进中的生态系统。</p>
-<hr>
-<h3><strong>2. 发布情况</strong></h3>
-<p>过去 24 小时内<strong>未发布新版本</strong>。最新稳定版仍为 <strong>v2.1.0</strong>，多个测试版（如 <code>2.2.0b3</code>）已被贡献者和早期使用者使用。目前无待发布的破坏性变更或迁移说明。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/agentscope-ai/QwenPaw/releases">GitHub 发布页面</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. 项目进展</strong></h3>
-<p><strong>今日已合并/关闭的 PR：</strong></p>
-<ul>
-<li>✅ <strong>PR #6825</strong> (<code>fix(mcp): apply configured timeout to client sessions</code>) — 通过确保 MCP 客户端尊重配置超时时间，修复了 <strong>Issue #6822</strong>，防止网络故障时出现无限挂起。</li>
-<li>✅ <strong>PR #6293</strong> (<code>feat(providers): add qwen3.8 to Aliyun Token Plan</code>) — 新增对 <code>qwen3.8-max-preview</code> 的支持，提供 100 万 token 上下文窗口，显著提升跨区域模型可用性。</li>
-<li>✅ <strong>PR #7191</strong> (<code>fix(console): preserve non-ASCII file card names</code>) — 修复文件卡片中非 ASCII 文件名的编码问题。</li>
-<li>✅ <strong>PR #6581</strong> (<code>fix(console): avoid redundant multimodal upload warning</code>) — 消除上传附件时重复出现的多模态上传警告。</li>
-</ul>
-<p>上述合并体现了在<strong>网络容错能力</strong>、<strong>模型可访问性</strong>和<strong>国际化支持</strong>方面的精准改进，共同推动更稳定、更具包容性的用户体验。</p>
-<hr>
-<h3><strong>4. 社区热议话题</strong></h3>
-<p>最活跃的讨论集中于<strong>流式传输稳定性</strong>、<strong>界面一致性</strong>和<strong>配置可发现性</strong>：</p>
-<ul>
-<li>📌 <strong>Issue #7402</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7402">开放</a>) – 空的 assistant text 块导致 Volcengine Ark API 上游返回 400 错误 → 引发静默失败级联。<em>高影响</em>，因错误无声传播。</li>
-<li>📌 <strong>Issue #7417</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7417">开放</a>) – 控制台流输出中出现重复文本块 → 长响应过程中用户体验下降。</li>
-<li>📌 <strong>PR #7416</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/pull/7416">开放</a>) – 向 DingTalk 暴露 <code>card_auto_layout</code> 切换开关 → 支持宽屏 AI 卡片；<em>首次贡献者</em>，关注度高。</li>
-<li>📌 <strong>Issue #7406</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7406">开放</a>) – 无主题支持（颜色、字体、间距）→ 用户被迫修改 <code>.app</code> 包 → 明确表达对自定义功能的需求。</li>
-</ul>
-<blockquote>
-<p>🔗 <strong>关键洞察</strong>：用户日益重视<strong>可预测的流式行为</strong>、<strong>输出布局的视觉控制</strong>以及<strong>可配置的美学体验</strong>——这标志着项目重心正从核心功能向生产就绪的精细化可用性转移。</p>
-</blockquote>
-<hr>
-<h3><strong>5. 缺陷与稳定性</strong></h3>
-<table>
-<thead>
-<tr>
-<th>严重程度</th>
-<th>问题</th>
-<th>描述</th>
-<th>是否有修复 PR？</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 高</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7402">#7402</a></td>
-<td>空 <code>output_text</code> 块导致 Volcengine Ark API 上游返回 400 错误</td>
-<td>✅ <strong>PR #7409</strong>（正在评审）</td>
-</tr>
-<tr>
-<td>🔴 高</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7411">#7411</a></td>
-<td>运行时缺失时代理聊天返回合成响应 → 失败开路</td>
-<td>✅ <strong>PR #7414</strong>（已合并）</td>
-</tr>
-<tr>
-<td>🔴 高</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7410">#7410</a></td>
-<td>异步生成器通过 <code>GeneratorExit</code> 关闭时部分状态丢失</td>
-<td>✅ <strong>PR #7413</strong>（已合并）</td>
-</tr>
-<tr>
-<td>🟡 中</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/7417">#7417</a></td>
-<td>控制台流中出现重复文本块</td>
-<td>✅ <strong>PR #7415</strong>（正在评审）</td>
-</tr>
-<tr>
-<td>🟡 中</td>
-<td><a href="https://github.com/agentscope-ai/QwenPaw/issues/6822">#6822</a></td>
-<td>临时 MCP 连接失败永久阻塞对话</td>
-<td>✅ <strong>PR #6825</strong>（已合并）</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>⚠️ <strong>关键趋势</strong>：多个回归问题涉及<strong>状态持久性</strong>、<strong>流完整性</strong>和<strong>降级逻辑</strong>——提示需在边缘场景处理上加强测试覆盖。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 功能请求与路线图信号</strong></h3>
-<p>用户驱动的功能请求揭示了新兴优先级：</p>
-<ul>
-<li><strong>宽屏界面支持</strong>：<code>card_auto_layout</code> 对 DingTalk 的支持（PR #7416）表明对与企业工具更好视觉集成的需求。</li>
-<li><strong>主题与自定义</strong>：Issue #7406 要求支持强调色、字体和间距配置 → 反映出对品牌化或个性化工作空间的期待。</li>
-<li><strong>工作区专属技能预加载</strong>：PR #7183 引入可信技能的可选预加载 → 显示对高频工作流性能优化的兴趣日益增长。</li>
-<li><strong>配置可发现性</strong>：<code>card_auto_layout</code> 等隐藏功能未文档化 → 表明需要更好的文档和界面曝光。</li>
-</ul>
-<blockquote>
-<p>🚀 <strong>预测 v2.2.0 新增功能</strong>：主题化 UI、可配置卡片布局、技能预加载、以及增强的会话容错能力。</p>
-</blockquote>
-<hr>
-<h3><strong>7. 用户反馈摘要</strong></h3>
-<p>真实使用痛点凸显技术成熟度与 UX 之间的差距：</p>
-<ul>
-<li><strong>对静默失败的不满</strong>：用户报告空消息或缺少运行时会导致模糊错误（如 400），缺乏可操作反馈。</li>
-<li><strong>流式体验问题</strong>：重复文本和折叠步骤面板降低对代理输出准确性的信任。</li>
-<li><strong>控制权缺失</strong>：用户手动修改 <code>.app</code> 文件以自定义主题——此方法在更新时即失效。</li>
-<li><strong>隐藏功能困惑</strong>：<code>card_auto_layout</code> 无界面暴露，尽管后端已支持，仍引发混淆。</li>
-</ul>
-<blockquote>
-<p>💬 <strong>用户引言（来自 #7406）</strong>：<em>&quot;我一直通过编辑 .app 包内的 index.html 来定制主题——它有效，但每次应用更新……都会破坏我的主题。&quot;</em></p>
-</blockquote>
-<hr>
-<h3><strong>8. 待办事项监控</strong></h3>
-<p>多个高影响力、长期存在的问题仍未解决，亟需维护者关注：</p>
-<ul>
-<li>🔥 <strong>Issue #7407</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7407">开放</a>) – 控制台消息静默漂移到错误代理。<em>用户已确认，等待复现步骤。</em> 此为<strong>关键数据完整性风险</strong>。</li>
-<li>🔥 <strong>Issue #7408</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7408">开放</a>) – Feishu 频道配置意外清空 → <code>KeyError(&#39;channel not found: feishu&#39;)</code>。<em>暗示可能存在配置持久化缺陷。</em></li>
-<li>🔥 <strong>Issue #7404</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/7404">开放</a>) – <code>card_auto_layout</code> 未在控制台暴露。<em>代码已修复（PR #7416），但需合并并补充文档。</em></li>
-<li>🔥 <strong>Issue #6785</strong> (<a href="https://github.com/agentscope-ai/QwenPaw/issues/6785">已关闭</a>) – 人物切换回归问题。<em>已修复，但可能影响依赖自定义人物的工作流。</em></li>
-</ul>
-<blockquote>
-<p>⏳ <strong>建议</strong>：优先处理 <strong>#7407</strong> 和 <strong>#7408</strong> —— 它们代表潜在的数据丢失或工作流中断风险。</p>
-</blockquote>
-<hr>
-<p>✅ <strong>项目健康评估</strong>：<strong>强劲</strong> —— 开发活跃，维护者响应迅速，路线图信号清晰。然而，<strong>边缘场景下的稳定性</strong>与<strong>用户可配置性</strong>仍是关键成长领域。今日已有 4 项修复合并，3 个高严重度 PR 处于流程中，QwenPaw 正积极为一次聚焦于<strong>鲁棒性、自定义能力与企业就绪性</strong>的 v2.2.0 大版本发布做好准备。</p>
-</details>
-
-<details>
-<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
-
-<h1><strong>ZeroClaw 项目简报 – 2026-08-31</strong></h1>
-<hr>
-<h3><strong>1. 今日概览</strong></h3>
-<p>ZeroClaw 项目持续保持高度活跃，设计创新与基础设施优化势头强劲。过去 24 小时内新增 50 个问题和 50 个开放的拉取请求（PR），反映出开发者的高度参与以及对架构演进的强烈关注。未发布新版本表明团队正将重点放在深度技术设计与系统稳定上，而非快速迭代部署。高风险 RFC 在问题追踪器中占据主导地位，标志着当前正处于以安全、内存、运行时及插件架构为基础性改进的战略阶段。社区正通过详尽的提案积极塑造项目未来，尤其聚焦于代理会话管理、沙箱机制与 WASM 扩展性。</p>
-<hr>
-<h3><strong>2. 版本发布</strong></h3>
-<p>今日未发布新版本。无发布说明或迁移指南可报告。项目仍维持开发节奏，重大变更通过 PR 与 RFC 集成，待整合后才会打包为正式发布。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/releases">GitHub Releases</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. 项目进展</strong></h3>
-<p>今日活动集中于<strong>安全性强化</strong>、<strong>运行时稳定性</strong>以及<strong>各通道功能对齐</strong>。已合并的关键修复包括：</p>
-<ul>
-<li>✅ <strong>PR #10491</strong>：插件 HTTPS 现在尊重操作系统信任存储（修复 #9653），关闭了关键的 TLS 信任缺口。</li>
-<li>✅ <strong>PR #10475</strong>：WhatsApp 现已原生渲染 Markdown，提升用户体验一致性。</li>
-<li>✅ <strong>PR #10487</strong>：Matrix 转录提供者现在从实时配置中解析，支持动态更新。</li>
-<li>✅ <strong>PR #10478</strong>：POSIX 设备检查仅限于 Unix 平台，避免在非 Unix 系统上产生误报。</li>
-<li>✅ <strong>PR #10477</strong>：通过 <code>std::mem::take</code> 实现 Rust 1.98 语法规范，保持代码整洁。</li>
-</ul>
-<p>这些 PR 反映出团队持续致力于提升跨平台可靠性、保障出口路径安全以及增强客户端渲染精度。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10491">PR #10491</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10475">PR #10475</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10487">PR #10487</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. 社区热议话题</strong></h3>
-<p>按评论数排名的问题揭示了对<strong>架构清晰度</strong>与<strong>代理会话完整性</strong>的集中推进：</p>
-<table>
-<thead>
-<tr>
-<th>问题</th>
-<th>评论数</th>
-<th>摘要</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">#9487</a></td>
-<td>28</td>
-<td><strong>RFC：由运行时拥有对话会话与传输适配器</strong> – 提议将会话生命周期完全交由运行时管理，实现跨通道的安全、一致状态处理。</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">Issue #9487</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">#6850</a></td>
-<td>23</td>
-<td><strong>RFC：解耦内存生命周期策略与存储后端</strong> – 将持久化存储与策略决策分离，减少冗余并支持灵活的数据保留方案。</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">Issue #6850</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">#9488</a></td>
-<td>22</td>
-<td><strong>RFC：统一网页聊天与通道的附件架构</strong> – 目标是标准化所有界面中附件（文件、图片等）的处理方式。</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">Issue #9488</a></td>
-</tr>
-</tbody></table>
-<p><strong>核心诉求</strong>：开发者正在寻求在多样化环境中具备<strong>可预测性、安全性与可组合性</strong>的代理行为。这些 RFC 共同目标是消除会话状态、数据持久化与跨通道一致性方面的模糊性——这对企业级 AI 代理至关重要。</p>
-<hr>
-<h3><strong>5. 问题与稳定性</strong></h3>
-<p>今日报告的高严重性缺陷正暴露出关键稳定性隐患：</p>
-<table>
-<thead>
-<tr>
-<th>缺陷</th>
-<th>严重性</th>
-<th>摘要</th>
-<th>修复 PR？</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10230">#10230</a></td>
-<td>S1（工作流阻塞）</td>
-<td>守护进程启动/重载时，代理初始化导致栈溢出</td>
-<td>❌ 尚无修复</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10230">Bug #10230</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10061">#10061</a></td>
-<td>S1（工作流阻塞）</td>
-<td>被拒绝的图像载荷仍保留在历史记录中，污染后续对话</td>
-<td>❌ 尚无修复</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10061">Bug #10061</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10050">#10050</a></td>
-<td>S2（功能降级）</td>
-<td>无代理回合时无法直接发送消息至通道；限制实时通信能力</td>
-<td>❌ 尚无修复</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10050">Bug #10050</a></td>
-</tr>
-</tbody></table>
-<p>这些问题构成<strong>核心代理执行与守护进程稳定性方面的阻塞性回归</strong>，亟需立即关注，以免引发用户困扰与生产环境不稳定。</p>
-<hr>
-<h3><strong>6. 功能请求与路线图信号</strong></h3>
-<p>以下功能请求显示出对<strong>可扩展性</strong>、<strong>用户控制力</strong>与<strong>跨平台一致性</strong>的强烈需求：</p>
-<ul>
-<li>📌 <strong>[RFC #9998]</strong>：<em>会话范围的持久提示附件</em> — 允许长期约束在重启与内容修剪后依然保留。预计将在 v0.12+ 中作为基础体验改进纳入。</li>
-<li>📌 <strong>[RFC #10076]</strong>：<em>可组合的 WASM 插件运行时</em> — 支持丰富且模块化的扩展。鉴于工具/插件生态日益增长的兴趣，优先级极高。</li>
-<li>📌 <strong>[Feature #10167]</strong>：<em>终端多路复用器的厂商无关生命周期导出</em> — 解决 TUI 环境中集成者的痛点。预计将被列为下一 CLI 版本的优先事项。</li>
-<li>📌 <strong>[Feature #10479]</strong>：<em>在 ZeroCode 中显式表达修饰符意图</em> — 直接回应快捷键使用困惑。已在 PR 中实现，可能即将发布。</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9998">RFC #9998</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10076">RFC #10076</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/pull/10479">PR #10479</a></p>
-</blockquote>
-<hr>
-<h3><strong>7. 用户反馈摘要</strong></h3>
-<p>用户反馈主要源于<strong>用户体验摩擦</strong>、<strong>稳定性问题</strong>与<strong>配置复杂性</strong>：</p>
-<ul>
-<li><strong>痛点</strong>：<ul>
-<li>会话切换后残留旧计划（<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/10062">#10062</a>），破坏工作流连续性。</li>
-<li>剪贴板清理失败遗留临时文件（<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9681">#9681</a>），引发隐私担忧。</li>
-<li>ZeroCode 中快捷键语义混乱（<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9171">#9171</a>）导致误操作。</li>
-</ul>
-</li>
-<li><strong>满意信号</strong>：<ul>
-<li>Telegram 内联键盘更新获得正面反馈（<a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6565">#6565</a>）。</li>
-<li>对 WhatsApp 中改进的 Markdown 渲染表示赞赏（PR #10475）。</li>
-</ul>
-</li>
-</ul>
-<p>用户重视<strong>可预测性</strong>、<strong>干净输出</strong>与<strong>低摩擦交互</strong>——尤其是在跨多个通道工作时。</p>
-<hr>
-<h3><strong>8. 待办事项监控</strong></h3>
-<p>多个具有高影响力、长期存在的问题仍<strong>未解决</strong>，需维护者审查：</p>
-<table>
-<thead>
-<tr>
-<th>问题</th>
-<th>状态</th>
-<th>优先级</th>
-<th>风险</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">#9487</a></td>
-<td>打开，需维护者评审</td>
-<td>P2</td>
-<td>高</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">运行时拥有的会话</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">#6850</a></td>
-<td>打开，需维护者评审</td>
-<td>P2</td>
-<td>高</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">解耦内存生命周期</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">#9488</a></td>
-<td>打开，需维护者评审</td>
-<td>P2</td>
-<td>高</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">统一附件架构</a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">#8692</a></td>
-<td>追踪中，等待决策</td>
-<td>P2</td>
-<td>中</td>
-<td><a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">维护者决策队列</a></td>
-</tr>
-</tbody></table>
-<p>这些代表了 ZeroClaw 架构演进中的<strong>战略瓶颈</strong>。若缺乏及时的维护者介入，即便社区积极参与，进展也将停滞。</p>
-<blockquote>
-<p>🔗 <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9487">Issue #9487</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/6850">Issue #6850</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/9488">Issue #9488</a> | <a href="https://github.com/zeroclaw-labs/zeroclaw/issues/8692">Tracker #8692</a></p>
-</blockquote>
-<hr>
-<p><strong>最终评估</strong>：ZeroClaw 正处<strong>高创新阶段</strong>，社区参与成熟。尽管存在技术债与稳定性风险，但项目通过结构化 RFC、主动缺陷分类与实质性贡献者互动展现出强劲健康态势。未来 6–8 周将决定架构愿景能否转化为稳定、可用的功能。</p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
     </item>
   </channel>
