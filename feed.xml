@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Sep 2026 22:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:45:51 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-15</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-15/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-15/ai-picks</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-15 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Apple&amp;#39;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows 推荐分：90/100 · HN 215 points · 151 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 15/20 组成。 查看 Hacker News 讨论 2. Pion, an agent designed to run any company autonomously 推荐分：85/100 · HN 229 points · 239 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Notes on gotchas while migrating 35kb p...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-15</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/">Apple&#39;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</a></h3>
+<p><strong>推荐分：90/100</strong> · HN 215 points · 151 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 15/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49695409">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://andonlabs.com/blog/why-we-built-pion">Pion, an agent designed to run any company autonomously</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 229 points · 239 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49700477">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/">Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 105 points · 57 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 30/35、讨论 20/20、时效 20/25、AI 相关性 15/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49697014">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">OpenAI bots knew about the RubyGems caching vulnerability</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 330 points · 288 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49695876">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit">Why don&#39;t machine learning research agents overfit?</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 91 points · 53 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49699648">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">90</td>
+<td><a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/">Apple&#39;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</a></td>
+<td align="right">215</td>
+<td align="right">151</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://andonlabs.com/blog/why-we-built-pion">Pion, an agent designed to run any company autonomously</a></td>
+<td align="right">229</td>
+<td align="right">239</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">85</td>
+<td><a href="https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/">Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama</a></td>
+<td align="right">105</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">80</td>
+<td><a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">OpenAI bots knew about the RubyGems caching vulnerability</a></td>
+<td align="right">330</td>
+<td align="right">288</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">79</td>
+<td><a href="https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit">Why don&#39;t machine learning research agents overfit?</a></td>
+<td align="right">91</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">78</td>
+<td><a href="https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review">GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?</a></td>
+<td align="right">74</td>
+<td align="right">89</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">75</td>
+<td><a href="https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada">Claude is a Contrarian</a></td>
+<td align="right">105</td>
+<td align="right">132</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">73</td>
+<td><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></td>
+<td align="right">643</td>
+<td align="right">682</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">73</td>
+<td><a href="https://spectrum.ieee.org/adversarial-fashion">Adversarial Fashion Makes a Statement on AI Panopticon</a></td>
+<td align="right">89</td>
+<td align="right">43</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">71</td>
+<td><a href="https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067">Big AI sets out its terms for regulatory capture</a></td>
+<td align="right">114</td>
+<td align="right">67</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">71</td>
+<td><a href="https://spectrum.ieee.org/china-ai-chatbot-regulation">China&#39;s Regulators Take Aim at &quot;AI Boyfriends&quot;</a></td>
+<td align="right">54</td>
+<td align="right">47</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">70</td>
+<td><a href="https://www.interconnects.ai/p/open-source-ai-reading-list">Open-source AI and open models reading list</a></td>
+<td align="right">150</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">70</td>
+<td><a href="https://github.com/anuj0456/OpenArch">OpenArch – PyTorch implementations of modern LLM architectures</a></td>
+<td align="right">129</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td>
+<td align="right">1166</td>
+<td align="right">541</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">68</td>
+<td><a href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/">Garry Tan wants US open-weight AI labs to &#39;distill&#39; frontier models, too</a></td>
+<td align="right">405</td>
+<td align="right">230</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">68</td>
+<td><a href="https://github.com/callbacked/kinesis">Show HN: Kinesis – Control your Mac with the Meta Neural Band</a></td>
+<td align="right">106</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">68</td>
+<td><a href="https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them">When LLM judges agree, should we believe them?</a></td>
+<td align="right">46</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">64</td>
+<td><a href="https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/">Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost</a></td>
+<td align="right">56</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">57</td>
+<td><a href="https://pub.sakana.ai/pc-alm/">Backprop Alternative: Augmented Lagrangian Predictive Coding</a></td>
+<td align="right">18</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">57</td>
+<td><a href="https://progantt.com">ProGantt: Gantt charts your AI agent can read and write via MCP</a></td>
+<td align="right">9</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">55</td>
+<td><a href="https://triangllabs.ai/otis">Show HN: I built Otis, a minimal AI agent that runs local models out of the box</a></td>
+<td align="right">18</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">54</td>
+<td><a href="https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000">Security through obscurity is dead, and AI delivered the fatal blow</a></td>
+<td align="right">11</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">52</td>
+<td><a href="https://www.macrumors.com/2026/09/14/apple-releases-ios-27/">Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update</a></td>
+<td align="right">16</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">51</td>
+<td><a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/">&#39;Project Lily&#39;: The Humans Reading Your ChatGPT Chats</a></td>
+<td align="right">30</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">48</td>
+<td><a href="https://github.com/keydrisLabs/mcp-auth-keydris-template">Show HN: Authorize MCP tool calls without giving agents the credentials</a></td>
+<td align="right">6</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">47</td>
+<td><a href="https://spectrum.ieee.org/andon-labs-agentic-ai-businesses">Andon Labs Puts AI Agents in Charge of Real Businesses</a></td>
+<td align="right">12</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">43</td>
+<td><a href="http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html">Fitting Neural Textures and PBR Material Maps with ES (No Backprop)</a></td>
+<td align="right">12</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">41</td>
+<td><a href="https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/">Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)</a></td>
+<td align="right">10</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">41</td>
+<td><a href="https://www.normaltech.ai/p/the-ai-as-normal-technology-view">The AI-as-Normal-Technology view of loss-of-control incidents</a></td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">38</td>
+<td><a href="https://arxiv.org/abs/2511.07885">Intelligence per Watt: Measuring Intelligence Efficiency of Local AI</a></td>
+<td align="right">16</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-14</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-14/ai-picks</link>
@@ -11452,125 +11717,6 @@
 </ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tech Community AI Digest 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-community-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-community-en</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Tech Community AI Digest 2026-09-01 Sources: Dev.to (30 articles) + Lobste.rs (4 stories) | Generated: 2026-09-01 01:23 UTC Tech Community AI Digest – 2026-09-01 Today&amp;#39;s Highlights AI agents are at the center of developer conversations, with growing focus on reliability, safety, and observability in production systems. A recurring theme is the hidden failure modes of LLM-based agents—especially around silent bugs, flawed critics, and untested safety layers. Developers are increasingly priori...</description>
-      <content:encoded><![CDATA[<h1>Tech Community AI Digest 2026-09-01</h1>
-<blockquote>
-<p>Sources: <a href="https://dev.to/">Dev.to</a> (30 articles) + <a href="https://lobste.rs/">Lobste.rs</a> (4 stories) | Generated: 2026-09-01 01:23 UTC</p>
-</blockquote>
-<hr>
-<h1><strong>Tech Community AI Digest – 2026-09-01</strong></h1>
-<hr>
-<h2><strong>Today&#39;s Highlights</strong></h2>
-<p>AI agents are at the center of developer conversations, with growing focus on <em>reliability</em>, <em>safety</em>, and <em>observability</em> in production systems. A recurring theme is the hidden failure modes of LLM-based agents—especially around silent bugs, flawed critics, and untested safety layers. Developers are increasingly prioritizing <strong>testable, auditable, and reversible</strong> agent workflows, with strong interest in hybrid RAG systems, tool orchestration, and memory integrity. The debate between prompt engineering and cognitive sparring highlights a shift toward <em>system design</em> over <em>prompt tuning</em>. Meanwhile, security concerns are rising: rumors of bugs can now trigger exploits, and real-world breaches from publicly shared AI training data underscore the risks of AI-driven automation.</p>
-<hr>
-<h2><strong>Dev.to Highlights</strong></h2>
-<table>
-<thead>
-<tr>
-<th align="left">Article</th>
-<th align="right">Reactions</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f">9 Ways Your AI Agent Silently Fails (and How to Catch Each)</a></td>
-<td align="right">27</td>
-<td align="right">20</td>
-<td align="left">Even if your agent passes tests, it may silently fail in production. This article details nine subtle failure modes and practical detection strategies for robust agent deployment.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9">My LLM Critic Flip-Flops on Every Run. That&#39;s Fine — Because a Frozenset Decides What&#39;s Fatal.</a></td>
-<td align="right">11</td>
-<td align="right">4</td>
-<td align="left">Fluctuating LLM critiques aren’t necessarily bad—use immutable sets to define <em>what’s actually fatal</em> in outputs, separating noise from real errors.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/debashish_ghosal/the-gate-that-stayed-silent-when-a-blocker-count-that-drops-reads-as-improvement-3je9">The Gate That Stayed Silent — When a Blocker Count That Drops Reads as Improvement</a></td>
-<td align="right">10</td>
-<td align="right">4</td>
-<td align="left">Safety contracts should be externalized from the LLM critic. A drop in blocker count isn&#39;t always progress—context matters.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/apprs_6334/diff-every-tool-call-replaying-agent-runs-from-a-jsonl-trace-2b75">Diff Every Tool Call: Replaying Agent Runs from a JSONL Trace</a></td>
-<td align="right">5</td>
-<td align="right">2</td>
-<td align="left">Debugging agent failures becomes manageable by replaying runs via structured JSONL traces—ideal for audit trails and regression testing.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/cloudsway/how-to-give-local-ai-agents-reliable-web-search-119n">How to Give Local AI Agents Reliable Web Search</a></td>
-<td align="right">5</td>
-<td align="right">0</td>
-<td align="left">A step-by-step guide to integrating resilient web search into local AI agents, including failure handling and citation validation.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/debashish_ghosal/i-published-every-flaw-my-safety-tool-cant-catch-it-made-it-more-credible-not-less-57go">I Published Every Flaw My Safety Tool Can&#39;t Catch. It Made It More Credible, Not Less.</a></td>
-<td align="right">5</td>
-<td align="right">3</td>
-<td align="left">Transparency builds trust. Publicly exposing safety tool limitations increases credibility more than hiding them.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/masondelan/your-agents-memory-needs-the-word-no-and-a-way-to-prove-nobody-edited-it-2kg8">Your agent&#39;s memory needs the word &#39;no&#39; — and a way to prove nobody edited it</a></td>
-<td align="right">2</td>
-<td align="right">0</td>
-<td align="left">Memory must include immutable &quot;no&quot; states and tamper-proof proof—not just content—to prevent silent corruption in agent memory.</td>
-</tr>
-</tbody></table>
-<hr>
-<h2><strong>Lobste.rs Highlights</strong></h2>
-<table>
-<thead>
-<tr>
-<th align="left">Story</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">[Just a rumour of a bug is enough to find a security exploit these days](<a href="https://anil.recoil.org/notes/rumour-is-the-exploit">https://anil.recoil.org/notes/rumour-is-the-exploit</a> · <a href="https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security">discuss</a>)</td>
-<td align="right">33</td>
-<td align="right">19</td>
-<td align="left">In today’s AI threat landscape, even unconfirmed bug rumors can lead to real exploits—highlighting how quickly vulnerabilities are weaponized.</td>
-</tr>
-<tr>
-<td align="left">[The turbulent AI era is here](<a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med">https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med</a> · <a href="https://lobste.rs/s/aixljs/turbulent_ai_era_is_here">discuss</a>)</td>
-<td align="right">13</td>
-<td align="right">29</td>
-<td align="left">Bill Gates warns that we’re entering a period of rapid, disruptive change driven by AI—demanding urgent societal and technical adaptation.</td>
-</tr>
-<tr>
-<td align="left">[Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior](<a href="https://arxiv.org/abs/2408.06602">https://arxiv.org/abs/2408.06602</a> · <a href="https://lobste.rs/s/2djazj/super_intelligence_superstition">discuss</a>)</td>
-<td align="right">5</td>
-<td align="right">0</td>
-<td align="left">Cognitive biases make people believe AI predictions about themselves—even when they&#39;re wrong—raising red flags about trust and autonomy.</td>
-</tr>
-<tr>
-<td align="left">[Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents](<a href="https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc">https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc</a> · <a href="https://lobste.rs/s/77kss6/data_became_code_we_ran_code_inside">discuss</a>)</td>
-<td align="right">0</td>
-<td align="right">1</td>
-<td align="left">A chilling case study: public files meant for AI training were repurposed to run malicious code inside corporate networks—proof that “safe” data can be dangerous.</td>
-</tr>
-</tbody></table>
-<hr>
-<h2><strong>Community Pulse</strong></h2>
-<p>Developers across Dev.to and Lobste.rs are grappling with the <strong>fragility of AI agents in production</strong>. Common themes include <em>silent failures</em>, <em>unreliable safety layers</em>, and <em>trust in LLM outputs</em>—especially when tools like critics or validators behave inconsistently. There’s a clear pivot from prompt optimization to <strong>system-level resilience</strong>: observability via JSONL tracing, reversibility gates, and tamper-proof memory are emerging best practices. Hybrid RAG systems using FAISS, BM25, and multiple models are gaining traction for better retrieval reliability. On security, the line between data and code has blurred—public files used for AI training have been weaponized in real attacks, underscoring the need for stricter data governance. The community is also embracing transparency: publishing flaws in safety tools builds more trust than hiding them. Overall, the message is clear: <em>build for failure, not for perfection</em>.</p>
-<hr>
-<h2><strong>Worth Reading</strong></h2>
-<ol>
-<li><strong><a href="https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f">9 Ways Your AI Agent Silently Fails (and How to Catch Each)</a></strong> – A must-read for any team shipping agentic systems. Covers real-world failure patterns and actionable fixes.</li>
-<li><strong>[Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents](<a href="https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc">https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc</a> · <a href="https://lobste.rs/s/77kss6/data_became_code_we_ran_code_inside">discuss</a>)</strong> – A sobering, real-world example of how public AI data can become an attack vector—critical reading for security-conscious teams.</li>
-<li><strong><a href="https://dev.to/zxpmail/probe-vs-prose-what-the-verifier-sharing-your-text-channel-really-costs-4p84">Probe vs Prose: what the verifier-sharing-your-text-channel really costs</a></strong> – Deep empirical analysis of verification methods. Reveals why probe-based validation beats prose in detecting drift and ambiguity.</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
