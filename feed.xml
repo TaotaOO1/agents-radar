@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 22:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:44:14 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-17</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-17/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-17/ai-picks</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-17 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. OpenAI expands ChatGPT ads with Sponsored Agents 推荐分：93/100 · HN 149 points · 165 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 20/25、AI 相关性 20/20 组成。 查看 Hacker News 讨论 2. PS5 Linux lead quits: &amp;quot;a bunch of noobs using LLMs&amp;quot; that &amp;quot;they don&amp;#39;t understand&amp;quot; 推荐分：80/100 · HN 299 points · 206 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Claude Cowor...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-17</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://openai.com/index/reimagining-advertising-with-ai/">OpenAI expands ChatGPT ads with Sponsored Agents</a></h3>
+<p><strong>推荐分：93/100</strong> · HN 149 points · 165 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 20/25、AI 相关性 20/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49727041">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/">PS5 Linux lead quits: &quot;a bunch of noobs using LLMs&quot; that &quot;they don&#39;t understand&quot;</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 299 points · 206 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49727627">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://claude.com/blog/cowork-is-now-claude">Claude Cowork and chat are now one Claude</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 195 points · 202 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 34/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49729412">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">A warning about &#39;model welfare&#39;</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 183 points · 480 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 34/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49727580">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model">DeepSeek v4.1 Flash Is Now Our Best Hacking Model</a></h3>
+<p><strong>推荐分：78/100</strong> · HN 155 points · 63 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49725800">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">93</td>
+<td><a href="https://openai.com/index/reimagining-advertising-with-ai/">OpenAI expands ChatGPT ads with Sponsored Agents</a></td>
+<td align="right">149</td>
+<td align="right">165</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/">PS5 Linux lead quits: &quot;a bunch of noobs using LLMs&quot; that &quot;they don&#39;t understand&quot;</a></td>
+<td align="right">299</td>
+<td align="right">206</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">79</td>
+<td><a href="https://claude.com/blog/cowork-is-now-claude">Claude Cowork and chat are now one Claude</a></td>
+<td align="right">195</td>
+<td align="right">202</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">79</td>
+<td><a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">A warning about &#39;model welfare&#39;</a></td>
+<td align="right">183</td>
+<td align="right">480</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">78</td>
+<td><a href="https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model">DeepSeek v4.1 Flash Is Now Our Best Hacking Model</a></td>
+<td align="right">155</td>
+<td align="right">63</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">76</td>
+<td><a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">A coffee shop owner used AI to make a menu poster. Then came the angry DMs</a></td>
+<td align="right">58</td>
+<td align="right">212</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">75</td>
+<td><a href="https://mistral.ai/news/mistral-x-mozilla/">Mistral X Mozilla: Private, Multilingual AI Browsing</a></td>
+<td align="right">506</td>
+<td align="right">182</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">75</td>
+<td><a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">Learning Programming in an Age of LLMs</a></td>
+<td align="right">227</td>
+<td align="right">172</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">73</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">Gemini 3.8 Live and 3.8 Live Extended Thinking</a></td>
+<td align="right">480</td>
+<td align="right">320</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">73</td>
+<td><a href="https://dank.systems/posts/2026-09-15-ai-bear.html">Why I&#39;m still bearish on LLMs after Navier-Stokes</a></td>
+<td align="right">450</td>
+<td align="right">588</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">71</td>
+<td><a href="https://stale.jock.pl/">Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models</a></td>
+<td align="right">67</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">70</td>
+<td><a href="https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us">Berlin-based Langdock moves its parent company from the US to Germany</a></td>
+<td align="right">48</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">69</td>
+<td><a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">Stay discoverable in search while disallowing AI training</a></td>
+<td align="right">84</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></td>
+<td align="right">1779</td>
+<td align="right">472</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">68</td>
+<td><a href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover">We got admin access to Baseten&#39;s production GitHub</a></td>
+<td align="right">321</td>
+<td align="right">184</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">67</td>
+<td><a href="https://www.effort.news/irregular">A single firm is behind OpenAI, Anthropic, and Meta hacking scandals</a></td>
+<td align="right">669</td>
+<td align="right">233</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">67</td>
+<td><a href="https://www.cloudx.ai/posts/setup-go">Scaling Golang CI by Replacing actions/setup-go</a></td>
+<td align="right">65</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">66</td>
+<td><a href="https://arxiv.org/abs/2609.16338">Breaking the 1.58-bit Barrier for Ternary LLMs</a></td>
+<td align="right">78</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">65</td>
+<td><a href="https://tintotint.eu/whacky-corner/f-droid_slop/">How much of F-Droid is LLM generated?</a></td>
+<td align="right">142</td>
+<td align="right">179</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">64</td>
+<td><a href="https://www.formas.ai/cartesian">Cartesian – AI 3D Modeling for Design</a></td>
+<td align="right">113</td>
+<td align="right">79</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">62</td>
+<td><a href="https://github.com/pizza-bot-app/pizza-bot">Show HN: Pizza Bot – An inbox for AI agents that work in the background</a></td>
+<td align="right">56</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">60</td>
+<td><a href="https://arxiv.org/abs/2511.07885">Intelligence per Watt: Measuring Intelligence Efficiency of Local AI</a></td>
+<td align="right">157</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">57</td>
+<td><a href="https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/">Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)</a></td>
+<td align="right">153</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">57</td>
+<td><a href="https://github.com/rapiddweller/datamimic">Datamimic – don&#39;t let your coding agent invent its own test world</a></td>
+<td align="right">56</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">57</td>
+<td><a href="https://pentad.ai/blog/fleet-needs-an-os/">An agent fleet needs a new kind of OS, not a bigger harness</a></td>
+<td align="right">7</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">56</td>
+<td><a href="https://mnoukhov.github.io/posts/ngu/">Learning to solve hard problems in RL for LLMs by never giving up</a></td>
+<td align="right">111</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">56</td>
+<td><a href="https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html">Backflip: Apple now wants to train AI models with user data after all</a></td>
+<td align="right">30</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">56</td>
+<td><a href="https://github.com/itskie/friday">Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)</a></td>
+<td align="right">9</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">53</td>
+<td><a href="https://www.linum.ai/field-notes/jit-ddt">Training Text-to-Image Models 3.6× Faster</a></td>
+<td align="right">19</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">47</td>
+<td><a href="https://barndoor.ai/barndoor-acquires-diaphora/">Barndoor acquires Diaphora, creators of open-source workflow runtime Frags</a></td>
+<td align="right">6</td>
+<td align="right">1</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-16</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-16/ai-picks</link>
@@ -11715,154 +11980,6 @@
 </ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ArXiv AI Research Digest 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-arxiv-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-arxiv-en</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>ArXiv AI Research Digest 2026-09-01 Source: ArXiv (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-09-01 01:23 UTC Today&amp;#39;s Highlights Recent submissions to ArXiv highlight a growing focus on agentic intelligence, where LLMs are no longer seen as static generators but as dynamic, memory-aware, and goal-driven agents capable of long-horizon reasoning, self-correction, and real-time adaptation. A significant trend is the integration of formal structures—such as knowledge graphs, symbolic log...</description>
-      <content:encoded><![CDATA[<h1>ArXiv AI Research Digest 2026-09-01</h1>
-<blockquote>
-<p>Source: <a href="https://arxiv.org/">ArXiv</a> (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-09-01 01:23 UTC</p>
-</blockquote>
-<hr>
-<hr>
-<h3><strong>Today&#39;s Highlights</strong></h3>
-<p>Recent submissions to ArXiv highlight a growing focus on <em>agentic intelligence</em>, where LLMs are no longer seen as static generators but as dynamic, memory-aware, and goal-driven agents capable of long-horizon reasoning, self-correction, and real-time adaptation. A significant trend is the integration of formal structures—such as knowledge graphs, symbolic logic, and temporal dynamics—into LLM pipelines to improve factual grounding, explainability, and robustness. Notably, multiple papers address critical gaps in model reliability: from failure attribution in multi-agent systems to privacy-preserving text transformation and adversarial resilience. These advances signal a maturation of AI from <em>prediction</em> toward <em>actionable, accountable, and trustworthy autonomy</em>.</p>
-<hr>
-<h3><strong>Key Papers</strong></h3>
-<h4>🧠 Large Language Models (architecture, training, alignment, evaluation)</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Paper</th>
-<th align="left">Authors</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29610v1">Beyond Surface Alignment: Grounding the Dynamics of Situational Understanding and Generative Control in LLMs</a></td>
-<td align="left">Chenghao Yang</td>
-<td align="left">This paper critiques current LLM alignment for prioritizing surface-level fluency over deep situational grounding, arguing that models often mimic behavior without true understanding. It calls for new evaluation and training paradigms that assess internal coherence and context-sensitive control.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29624v1">PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization</a></td>
-<td align="left">Stephen Meisenbacher et al.</td>
-<td align="left">The paper introduces PrivBench, a comprehensive benchmark to evaluate privacy-preserving text transformations in LLMs. It enables systematic assessment of anonymization quality, utility retention, and resistance to re-identification attacks.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29517v1">LLM Judges as Raters: A Pre-Registered Audit of Severity, Halo, Reliability, and Version Instability in LLM Essay Scoring on Public Corpora</a></td>
-<td align="left">Veerendra Kumar Sunkavalli</td>
-<td align="left">This pre-registered study treats LLMs as human-like raters in educational scoring, revealing biases such as severity drift and version instability. It sets a methodological precedent for auditing LLM-based evaluators in high-stakes domains.</td>
-</tr>
-</tbody></table>
-<h4>🤖 Agents &amp; Reasoning (planning, tool use, multi-agent, chain-of-thought)</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Paper</th>
-<th align="left">Authors</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29622v1">AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing</a></td>
-<td align="left">Xinke Jiang et al.</td>
-<td align="left">This work proposes an agentic RAG system using stack memory and reinforcement learning to enable adaptive retrieval and context revision across complex, multi-step tasks. It improves factuality and consistency in long-horizon reasoning.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29621v1">CineForge: Self-Improving Agents for Long-Horizon Video Generation</a></td>
-<td align="left">Junxiang Liu et al.</td>
-<td align="left">CineForge uses autonomous agents to coordinate narrative decomposition, shot design, and iterative refinement in story-driven video generation. It enables scalable, coherent long-form content creation through agent collaboration.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29617v1">Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection</a></td>
-<td align="left">Amelia Petrenciuc et al.</td>
-<td align="left">The paper presents a memory-first framework where a multi-agent system leverages semantic memory from knowledge graphs to detect misinformation. It emphasizes explainability and web-fallback mechanisms for verifiable claims.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29606v1">Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents</a></td>
-<td align="left">Ming Wu, Pengyuan Zhu</td>
-<td align="left">This paper introduces Agent Zero Memory, a flexible memory system that avoids single-structure blind spots by combining multiple representations (facts, vectors, graphs). It ensures provenance tracking and long-term fidelity.</td>
-</tr>
-</tbody></table>
-<h4>🔧 Methods &amp; Frameworks (new techniques, benchmarks, efficiency improvements)</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Paper</th>
-<th align="left">Authors</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29647v1">Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow</a></td>
-<td align="left">Hoseong Hwang et al.</td>
-<td align="left">The authors propose a Wasserstein gradient flow approach to reward-guided fine-tuning in one-step generative models, reducing time complexity while preserving sample quality. This enables efficient, high-fidelity generation.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29539v1">LoGo: Token-Level Dynamic Local-Global Attention</a></td>
-<td align="left">Yuqi Pan et al.</td>
-<td align="left">LoGo introduces a dynamic attention mechanism that allocates computational budget based on token demand, significantly improving efficiency in long-context LLMs without sacrificing performance.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29605v1">Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit</a></td>
-<td align="left">Haoxuan Jia et al.</td>
-<td align="left">The paper develops a hindsight-based supervision method that evaluates memory operations post-hoc using audit trails like retrieval hits and citations. It enables effective training of long-horizon agents.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29608v1">Wide Learning: Learning to Reach Evidence</a></td>
-<td align="left">Junzhou Chen</td>
-<td align="left">Wide Learning shifts the paradigm from evaluating models on fixed evidence interfaces to enabling models to actively seek out relevant data. It opens a path toward more proactive and adaptive learning systems.</td>
-</tr>
-</tbody></table>
-<h4>📊 Applications (domain-specific, multimodal, code generation)</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Paper</th>
-<th align="left">Authors</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29640v1">LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting</a></td>
-<td align="left">Di Zhang et al.</td>
-<td align="left">This method integrates ordinary differential equations with LLMs using gated token injection to handle irregular time-series data. It enables accurate forecasting despite temporal asynchrony and limited context windows.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29549v1">PhysWave: Physics-Guided Latent Diffusion Models for Controllable Spatial Audio Generation</a></td>
-<td align="left">Lingfeng Yao et al.</td>
-<td align="left">PhysWave uses physics constraints to guide latent diffusion in spatial audio generation, ensuring acoustic plausibility. It enables realistic, controllable soundscapes for gaming and film production.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29616v1">JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction</a></td>
-<td align="left">Zhaolu Kang et al.</td>
-<td align="left">JPO applies policy optimization to structured legal reasoning, modeling statutory matching, charge justification, and sentencing inference. It enhances interpretability and compliance in judicial prediction systems.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://arxiv.org/abs/2608.29553v1">BEACON: Behavioral and Semantic Enrichment of AlphaEarth Embeddings through Tri-Modal Contrastive Learning</a></td>
-<td align="left">Hao Tian et al.</td>
-<td align="left">BEACON enriches geospatial embeddings by fusing imagery, text, and behavioral data via contrastive learning. It boosts transferability to downstream environmental and urban planning tasks.</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>Research Trend Signal</strong></h3>
-<p>A clear shift is emerging from <em>static model deployment</em> to <em>dynamic, self-improving agent ecosystems</em>. Multiple papers reflect a move beyond isolated LLM capabilities toward integrated systems that reason, remember, retrieve, and adapt in real time—especially in long-horizon tasks like video generation, clinical monitoring, and legal judgment. There is strong emphasis on <em>provenance-aware memory</em>, <em>formal reasoning scaffolds</em> (e.g., knowledge graphs, ODEs), and <em>auditable supervision</em> (e.g., hindsight credit, watermarking). Simultaneously, researchers are confronting practical challenges: privacy (PrivBench), dialect bias (Not Safe for All), and hardware fragility (T2V fault resilience). These trends suggest a maturing field focused not just on performance, but on <em>trustworthiness, accountability, and operational robustness</em>—hallmarks of real-world AI adoption.</p>
-<hr>
-<h3><strong>Worth Deep Reading</strong></h3>
-<ol>
-<li><p><strong><a href="http://arxiv.org/abs/2608.29622v1">AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing</a></strong><br><em>Why</em>: This paper offers a compelling blueprint for next-generation agentic systems—combining RL, stack memory, and adaptive retrieval to solve complex, multi-turn problems. Its architecture could become foundational for enterprise-grade AI assistants.</p>
-</li>
-<li><p><strong><a href="http://arxiv.org/abs/2608.29606v1">Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents</a></strong><br><em>Why</em>: In an era of hallucination and data opacity, this work provides a principled solution for persistent, traceable memory. Its multi-structure design avoids the pitfalls of monolithic storage and is essential for regulated domains like healthcare and law.</p>
-</li>
-<li><p><strong><a href="http://arxiv.org/abs/2608.29608v1">Wide Learning: Learning to Reach Evidence</a></strong><br><em>Why</em>: This conceptual leap reframes machine learning as a search process rather than a passive extraction task. It challenges fundamental assumptions about data access and opens doors to truly proactive AI systems.</p>
-</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
