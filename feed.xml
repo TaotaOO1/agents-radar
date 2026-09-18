@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 22:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:43:07 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-19</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-19/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-19/ai-picks</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-19 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Claude Code now reads AGENTS.md if there is no Claude.md 推荐分：90/100 · HN 256 points · 100 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. US Military had close call after using AI for hallucinated intelligence report 推荐分：85/100 · HN 338 points · 266 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Border agents can search cellp...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-19</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://code.claude.com/docs/en/changelog">Claude Code now reads AGENTS.md if there is no Claude.md</a></h3>
+<p><strong>推荐分：90/100</strong> · HN 256 points · 100 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49760187">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">US Military had close call after using AI for hallucinated intelligence report</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 338 points · 266 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49757520">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/">Border agents can search cellphones without a warrant or reasonable suspicion</a></h3>
+<p><strong>推荐分：83/100</strong> · HN 169 points · 126 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49758028">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://www.hacktron.ai/blog/hacking-openai">A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 462 points · 196 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49749656">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://arxiv.org/abs/2609.20804">An empirical study of harness design for coding agents</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 196 points · 56 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 34/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49753878">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">90</td>
+<td><a href="https://code.claude.com/docs/en/changelog">Claude Code now reads AGENTS.md if there is no Claude.md</a></td>
+<td align="right">256</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">US Military had close call after using AI for hallucinated intelligence report</a></td>
+<td align="right">338</td>
+<td align="right">266</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">83</td>
+<td><a href="https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/">Border agents can search cellphones without a warrant or reasonable suspicion</a></td>
+<td align="right">169</td>
+<td align="right">126</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">80</td>
+<td><a href="https://www.hacktron.ai/blog/hacking-openai">A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</a></td>
+<td align="right">462</td>
+<td align="right">196</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">79</td>
+<td><a href="https://arxiv.org/abs/2609.20804">An empirical study of harness design for coding agents</a></td>
+<td align="right">196</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">75</td>
+<td><a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">Microsoft exec called AI scraping &#39;the largest theft of labor in human history&#39;</a></td>
+<td align="right">840</td>
+<td align="right">745</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">75</td>
+<td><a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">Qwen 3.8 Omni Flash</a></td>
+<td align="right">325</td>
+<td align="right">124</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">75</td>
+<td><a href="https://twitter.com/trq212/status/2101009392611278961">Anthropic finally adds AGENTS.md support to Claude Code</a></td>
+<td align="right">42</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">73</td>
+<td><a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">AI chatbots are becoming experts at changing people&#39;s minds</a></td>
+<td align="right">78</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">70</td>
+<td><a href="https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/">Two parallel neural ectoderm progenitors contribute to the developing brain</a></td>
+<td align="right">95</td>
+<td align="right">50</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">69</td>
+<td><a href="https://arxiv.org/abs/2510.03215">Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</a></td>
+<td align="right">52</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">68</td>
+<td><a href="https://bend-lang.com/">Bend – a language that blocks AI mistakes via proof and runs on GPUs</a></td>
+<td align="right">588</td>
+<td align="right">302</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">68</td>
+<td><a href="https://openai.com/index/astra-for-law/">Astra for Law</a></td>
+<td align="right">566</td>
+<td align="right">667</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://z.ai/blog/glm-built-its-inference-infrastructure">How GLM built its own inference infrastructure</a></td>
+<td align="right">400</td>
+<td align="right">278</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">68</td>
+<td><a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">How to Write with an LLM</a></td>
+<td align="right">341</td>
+<td align="right">236</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">68</td>
+<td><a href="https://mysetup.ai/">Show HN: Share your AI Setup, Learn from others</a></td>
+<td align="right">230</td>
+<td align="right">133</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">68</td>
+<td><a href="https://arxiv.org/abs/2609.02852">The Implications of Linguistic Illegibility for LLM Security</a></td>
+<td align="right">38</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">67</td>
+<td><a href="https://openspec.dev/">OpenSpec – A lightweight and configurable AI spec framework</a></td>
+<td align="right">196</td>
+<td align="right">98</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">66</td>
+<td><a href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883">Hackers Used Anthropic&#39;s Claude to Break into OpenAI</a></td>
+<td align="right">9</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">65</td>
+<td><a href="https://news.ycombinator.com/item?id=49743049">Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</a></td>
+<td align="right">61</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">63</td>
+<td><a href="https://news.ycombinator.com/item?id=49756902">My Thoughts on AI and LLMs</a></td>
+<td align="right">8</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">62</td>
+<td><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></td>
+<td align="right">1890</td>
+<td align="right">495</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">62</td>
+<td><a href="https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/">OpenAI models secretly generate instructions to ignore constraints</a></td>
+<td align="right">117</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">60</td>
+<td><a href="https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/">LLM Classification Is Feature Engineering</a></td>
+<td align="right">110</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">56</td>
+<td><a href="https://www.miro.vision/index.php/2026/09/17/grasslobbster/">GrassLobster: AI Agentic Generation of Parametric Geometry Workflows</a></td>
+<td align="right">28</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">52</td>
+<td><a href="https://www.ax-check.com/">Show HN: Ax-check.com – Can agents use your product?</a></td>
+<td align="right">27</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">52</td>
+<td><a href="https://ktla.com/news/california/newsom-executive-order-ai-safety/">Gov. Newsom signs executive order targeting AI safety &#39;before it&#39;s too late&#39;</a></td>
+<td align="right">5</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://www.youtube.com/watch?v=_j806JHhCRo">Speaking with the Mind – Neuralink [video]</a></td>
+<td align="right">9</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">46</td>
+<td><a href="https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904">What Using AI Therapy Gets Wrong</a></td>
+<td align="right">13</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">46</td>
+<td><a href="https://www.youtube.com/watch?v=Nbwv5wHQoj0">3Blue1Brown: The last IMO problem AI could not solve [video]</a></td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-18</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-18/ai-picks</link>
@@ -11935,169 +12200,6 @@
 </ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Product Hunt AI Products Digest 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-ph-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-ph-en</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Product Hunt AI Products Digest 2026-09-01 Source: Product Hunt | 12 products | Generated: 2026-09-01 01:23 UTC Today&amp;#39;s Highlights The AI product landscape on Product Hunt today is dominated by tools that streamline developer workflows and enhance productivity through intelligent automation. Topview Motion Studio and Murfy AI stand out for democratizing content creation—enabling non-designers to produce professional launch videos and accelerate academic publishing, respectively. A strong the...</description>
-      <content:encoded><![CDATA[<h1>Product Hunt AI Products Digest 2026-09-01</h1>
-<blockquote>
-<p>Source: <a href="https://www.producthunt.com/">Product Hunt</a> | 12 products | Generated: 2026-09-01 01:23 UTC</p>
-</blockquote>
-<hr>
-<hr>
-<h3><strong>Today&#39;s Highlights</strong></h3>
-<p>The AI product landscape on Product Hunt today is dominated by tools that streamline developer workflows and enhance productivity through intelligent automation. Topview Motion Studio and Murfy AI stand out for democratizing content creation—enabling non-designers to produce professional launch videos and accelerate academic publishing, respectively. A strong theme emerges around <em>AI agent infrastructure</em>, with Maritime offering low-cost dedicated compute for agents and oMLX delivering lightning-fast local LLM inference on Macs. Meanwhile, open-source projects like Ulpaso and Edge Drop highlight growing momentum in lightweight, privacy-conscious tools. The convergence of AI agents, efficient model execution, and seamless integration into daily workflows signals a maturing ecosystem focused on real-world utility.</p>
-<hr>
-<h3><strong>Top Products</strong></h3>
-<h4>🤖 AI Agents &amp; Assistants</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Product</th>
-<th align="right">Votes</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>Superagent</strong> · <a href="https://www.producthunt.com/r/SPXFLFPPKRFQUY">site</a></td>
-<td align="right">109</td>
-<td align="right">4</td>
-<td align="left">A user-friendly hub for managing AI agents, designed to make Claude Code accessible to non-developers. Its intuitive interface lowers the barrier to entry for autonomous task execution.</td>
-</tr>
-<tr>
-<td align="left"><strong>Maritime</strong> · <a href="https://www.producthunt.com/r/S7PPIRFIUY54DK">site</a></td>
-<td align="right">103</td>
-<td align="right">9</td>
-<td align="left">Dedicated cloud instances for AI agents starting at $1/month, enabling scalable, persistent agent workloads without infrastructure overhead. Ideal for long-running or complex AI tasks.</td>
-</tr>
-<tr>
-<td align="left"><strong>VDF AI Networks</strong> · <a href="https://www.producthunt.com/r/LKOLXA2GAARZXL">site</a></td>
-<td align="right">11</td>
-<td align="right">10</td>
-<td align="left">Self-improving on-premise AI agent networks for complex, multi-step workflows—designed for enterprise-grade autonomy and continuous learning.</td>
-</tr>
-</tbody></table>
-<h4>🛠️ Developer Tools</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Product</th>
-<th align="right">Votes</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>Olostep</strong> · <a href="https://www.producthunt.com/r/ULWMLW4DJVACDF">site</a></td>
-<td align="right">237</td>
-<td align="right">20</td>
-<td align="left">Transforms raw web content into clean, structured data for AI training—solving the problem of noisy, unstructured input. Enables better downstream model performance with minimal preprocessing.</td>
-</tr>
-<tr>
-<td align="left"><strong>oMLX</strong> · <a href="https://www.producthunt.com/r/2ABHAOG4SSOU7B">site</a></td>
-<td align="right">95</td>
-<td align="right">18</td>
-<td align="left">An open-source Mac-based LLM server that reduces AI agent response times from 90 seconds to under 5 seconds. Cuts latency dramatically for local AI applications.</td>
-</tr>
-<tr>
-<td align="left"><strong>Edge Drop</strong> · <a href="https://www.producthunt.com/r/WITUI4QV3ANVAI">site</a></td>
-<td align="right">88</td>
-<td align="right">9</td>
-<td align="left">A minimalist clipboard tool that appears on your screen’s edge—hover to open, drag to drop. Built for speed and zero distraction in fast-paced coding environments.</td>
-</tr>
-</tbody></table>
-<h4>📊 AI Applications</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Product</th>
-<th align="right">Votes</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>Hyperfocus</strong> · <a href="https://www.producthunt.com/r/WIPDN746ZT7D27">site</a></td>
-<td align="right">313</td>
-<td align="right">88</td>
-<td align="left">Turns high-level goals into actionable daily tasks via AI-driven planning. Stands out with its focus on behavioral consistency and habit formation.</td>
-</tr>
-<tr>
-<td align="left"><strong>Topview Motion Studio</strong> · <a href="https://www.producthunt.com/r/25TEFO4TYMRPSG">site</a></td>
-<td align="right">323</td>
-<td align="right">66</td>
-<td align="left">Lets users create polished launch videos without touching After Effects—ideal for startups and marketers seeking rapid, high-quality output.</td>
-</tr>
-<tr>
-<td align="left"><strong>Murfy AI</strong> · <a href="https://www.producthunt.com/r/MPGY4SMRHXCRMC">site</a></td>
-<td align="right">193</td>
-<td align="right">37</td>
-<td align="left">Accelerates writing, reviewing, and publishing research papers to arXiv by up to 10x—targeting academics and researchers who need faster iteration cycles.</td>
-</tr>
-</tbody></table>
-<h4>🎨 Creative &amp; Content</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Product</th>
-<th align="right">Votes</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>Sayscroll</strong> · <a href="https://www.producthunt.com/r/TNCAQ5WNJCVBP5">site</a></td>
-<td align="right">99</td>
-<td align="right">4</td>
-<td align="left">An AI teleprompter that auto-scrolls in sync with speech—perfect for creators, speakers, and YouTubers needing natural delivery during recordings.</td>
-</tr>
-<tr>
-<td align="left"><strong>Ulpaso</strong> · <a href="https://www.producthunt.com/r/YSB77QGV4KPKYR">site</a></td>
-<td align="right">114</td>
-<td align="right">5</td>
-<td align="left">Eliminates the cost of meeting note-taking with a free, open-source alternative—ideal for remote teams prioritizing transparency and efficiency.</td>
-</tr>
-</tbody></table>
-<h4>🔧 Infrastructure &amp; Models</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Product</th>
-<th align="right">Votes</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><strong>Maritime</strong> · <a href="https://www.producthunt.com/r/S7PPIRFIUY54DK">site</a></td>
-<td align="right">103</td>
-<td align="right">9</td>
-<td align="left">Offers dedicated, affordable compute for AI agents—addressing scalability and persistence needs in agent-centric architectures.</td>
-</tr>
-<tr>
-<td align="left"><strong>oMLX</strong> · <a href="https://www.producthunt.com/r/2ABHAOG4SSOU7B">site</a></td>
-<td align="right">95</td>
-<td align="right">18</td>
-<td align="left">Open-source LLM server optimized for macOS, drastically reducing inference latency—key for developers building responsive local AI apps.</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>Market Signal</strong></h3>
-<p>Today’s Product Hunt AI launches reveal a clear shift toward <strong>practical, integrated AI systems</strong> rather than standalone models or flashy demos. The most crowded categories are <strong>Developer Tools</strong> and <strong>AI Applications</strong>, reflecting intense demand for tools that bridge the gap between AI capability and real-world productivity. Notably, <strong>AI agents</strong> are evolving beyond chatbots into persistent, self-sustaining systems—evident in Maritime’s low-cost agent hosting and VDF AI Networks’ self-improving architecture. There’s also a strong emphasis on <strong>performance optimization</strong>: oMLX cuts inference time from 90s to 5s, while Olostep tackles data quality at the pipeline level. A key trend is the rise of <strong>open-source infrastructure</strong>—with oMLX, Edge Drop, and Ulpaso leading the charge—suggesting developers are prioritizing control, customization, and cost efficiency over proprietary solutions. This indicates maturing adoption: AI is no longer just about novelty, but about reliable, embeddable, and maintainable systems.</p>
-<hr>
-<h3><strong>Worth Trying</strong></h3>
-<ol>
-<li><strong>oMLX</strong> – For developers building local AI applications on Mac: it delivers near-instant inference speeds, making it ideal for real-time agents or interactive tools where latency kills UX.</li>
-<li><strong>Hyperfocus</strong> – If you struggle with goal execution, this AI planner transforms vague ambitions into daily actions with behavioral nudges—perfect for founders, writers, and makers aiming for consistent progress.</li>
-<li><strong>Maritime</strong> – For builders experimenting with autonomous agents: its $1/month tier offers a frictionless way to run persistent AI workers without managing servers or paying premium cloud rates.</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
