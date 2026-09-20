@@ -6,7 +6,265 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 22:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:43:13 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-21</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-21/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-21/ai-picks</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-21 免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. ChatGPT now knows what you do on other websites via ad collector 推荐分：80/100 · HN 494 points · 287 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. Qwen Image 2.1 推荐分：80/100 · HN 432 points · 145 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Pirate Face Rescues LLM Models from Deletion 推荐分：80/100 · HN 385 points · 121 条评论 推荐理由：...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-21</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">ChatGPT now knows what you do on other websites via ad collector</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 494 points · 287 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49776729">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 432 points · 145 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49775499">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://pirateface.co/">Pirate Face Rescues LLM Models from Deletion</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 385 points · 121 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49776699">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://softwarecrisis.dev/letters/llmentalist/">Chat-based Large Language Models replicate the mechanisms of a psychic&#39;s con</a></h3>
+<p><strong>推荐分：78/100</strong> · HN 152 points · 242 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49775104">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Microsoft director: AI scraping &#39;the largest theft of labor in human history&#39;</a></h3>
+<p><strong>推荐分：77/100</strong> · HN 179 points · 49 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 34/35、讨论 20/20、时效 8/25、AI 相关性 15/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49768921">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">ChatGPT now knows what you do on other websites via ad collector</a></td>
+<td align="right">494</td>
+<td align="right">287</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></td>
+<td align="right">432</td>
+<td align="right">145</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">80</td>
+<td><a href="https://pirateface.co/">Pirate Face Rescues LLM Models from Deletion</a></td>
+<td align="right">385</td>
+<td align="right">121</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">78</td>
+<td><a href="https://softwarecrisis.dev/letters/llmentalist/">Chat-based Large Language Models replicate the mechanisms of a psychic&#39;s con</a></td>
+<td align="right">152</td>
+<td align="right">242</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">77</td>
+<td><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Microsoft director: AI scraping &#39;the largest theft of labor in human history&#39;</a></td>
+<td align="right">179</td>
+<td align="right">49</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">73</td>
+<td><a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">OpenAI&#39;s Sam Altman to Brief UN Security Council Next Week</a></td>
+<td align="right">39</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">70</td>
+<td><a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/">Can you tell which images are AI-generated?</a></td>
+<td align="right">103</td>
+<td align="right">78</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">68</td>
+<td><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></td>
+<td align="right">1764</td>
+<td align="right">907</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">68</td>
+<td><a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai">I think you should almost never use AI to write</a></td>
+<td align="right">339</td>
+<td align="right">165</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">67</td>
+<td><a href="https://code.claude.com/docs/en/changelog">Claude Code now reads AGENTS.md if there is no Claude.md</a></td>
+<td align="right">727</td>
+<td align="right">275</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">67</td>
+<td><a href="https://www.hacktron.ai/blog/hacking-openai">A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</a></td>
+<td align="right">486</td>
+<td align="right">208</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">65</td>
+<td><a href="https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/">I stopped drinking the AI Kool-Aid</a></td>
+<td align="right">26</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">63</td>
+<td><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html">Two parallel neural ectoderm progenitors contribute to the developing brain</a></td>
+<td align="right">640</td>
+<td align="right">255</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">62</td>
+<td><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></td>
+<td align="right">1927</td>
+<td align="right">506</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">62</td>
+<td><a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">How to Write with an LLM</a></td>
+<td align="right">712</td>
+<td align="right">401</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">62</td>
+<td><a href="https://openai.com/index/astra-for-law/">Astra for Law</a></td>
+<td align="right">582</td>
+<td align="right">680</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">Qwen 3.8 Omni Flash</a></td>
+<td align="right">341</td>
+<td align="right">137</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://mysetup.ai/">Show HN: Share your AI Setup, Learn from others</a></td>
+<td align="right">245</td>
+<td align="right">138</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">61</td>
+<td><a href="https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms">Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets</a></td>
+<td align="right">21</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">59</td>
+<td><a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">AI chatbots are becoming experts at changing people&#39;s minds</a></td>
+<td align="right">133</td>
+<td align="right">101</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">55</td>
+<td><a href="https://www.youtube.com/watch?v=M0cWcAIeOyU">Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]</a></td>
+<td align="right">10</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">54</td>
+<td><a href="https://www.youtube.com/watch?v=KnckQp-c388">Andrew Ng: AI Extinction Fears Are &#39;Science Fiction&#39;</a></td>
+<td align="right">14</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">52</td>
+<td><a href="https://arxiv.org/abs/2510.03215">Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</a></td>
+<td align="right">106</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">52</td>
+<td><a href="https://arxiv.org/abs/2609.02852">The Implications of Linguistic Illegibility for LLM Security</a></td>
+<td align="right">78</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">49</td>
+<td><a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/">NASA-IBM Lunar Foundation open-Source Geospatial AI Model</a></td>
+<td align="right">53</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">48</td>
+<td><a href="https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai">Why China Isn&#39;t Getting Existential About A.I</a></td>
+<td align="right">8</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">47</td>
+<td><a href="https://codeberg.org/basebrowserproject">Base Browser: A hard fork of Firefox with no AI slop</a></td>
+<td align="right">6</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203">AI is a powerful but problematic new collaborator in mathematics</a></td>
+<td align="right">4</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">45</td>
+<td><a href="https://tinybrains.dev">Show HN: A competition for small neural networks that play strategy games</a></td>
+<td align="right">15</td>
+<td align="right">3</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-20</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-20/ai-picks</link>
@@ -12153,149 +12411,6 @@
 </ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hacker News AI Community Digest 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-hn-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-hn-en</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Hacker News AI Community Digest 2026-09-01 Source: Hacker News | 30 stories | Generated: 2026-09-01 01:23 UTC Today&amp;#39;s Highlights The AI community on Hacker News is buzzing over Apple’s unexpected surge in demand for Mac Mini and Mac Studio driven by OpenAI’s massive hardware purchases—elevating Apple to an “AI infrastructure” stock overnight. This sparks debate around AI’s growing hardware footprint, with discussions on energy use, supply chain strain, and even the ethical implications of co...</description>
-      <content:encoded><![CDATA[<h1>Hacker News AI Community Digest 2026-09-01</h1>
-<blockquote>
-<p>Source: <a href="https://news.ycombinator.com/">Hacker News</a> | 30 stories | Generated: 2026-09-01 01:23 UTC</p>
-</blockquote>
-<hr>
-<hr>
-<h3><strong>Today&#39;s Highlights</strong></h3>
-<p>The AI community on Hacker News is buzzing over Apple’s unexpected surge in demand for Mac Mini and Mac Studio driven by OpenAI’s massive hardware purchases—elevating Apple to an “AI infrastructure” stock overnight. This sparks debate around AI’s growing hardware footprint, with discussions on energy use, supply chain strain, and even the ethical implications of corporate AI procurement. Meanwhile, cutting-edge research into continuous diffusion language models and agent memory as a file format reveals a deeper focus on scalable, persistent AI systems. The sentiment remains cautiously optimistic but increasingly critical of environmental costs and regulatory risks, especially with ChatGPT facing stricter EU oversight.</p>
-<hr>
-<h3><strong>Top News &amp; Discussions</strong></h3>
-<h4>🔬 Models &amp; Research</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">How to build a diffusion language model</a> · <a href="https://news.ycombinator.com/item?id=49503956">HN</a></td>
-<td align="right">175</td>
-<td align="right">19</td>
-<td align="left">A deep dive into diffusion-based language modeling—a promising alternative to autoregressive approaches—generates interest for its potential in more coherent, controllable text generation. Community sees it as a frontier worth watching.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://sander.ai/2026/08/24/continuous-dlms.html">Continuous Diffusion Language Models (CDLM&#39;s)</a> · <a href="https://news.ycombinator.com/item?id=49502611">HN</a></td>
-<td align="right">129</td>
-<td align="right">47</td>
-<td align="left">Introduces a novel architecture enabling smoother, non-discrete language generation. HN users are intrigued by its theoretical elegance and possible applications in real-time conversational agents.</td>
-</tr>
-</tbody></table>
-<h4>🛠️ Tools &amp; Engineering</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">Breaking Claude Code Opus 5 Auto Mode</a> · <a href="https://news.ycombinator.com/item?id=49506819">HN</a></td>
-<td align="right">341</td>
-<td align="right">113</td>
-<td align="left">A detailed technical breakdown of Claude Code Opus 5’s autonomous coding mode reveals vulnerabilities and behavioral quirks. The thread becomes a hotbed of debate about AI reliability and safety in production environments.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://calpaterson.com/memoryfields.html">Agent memory as a file format</a> · <a href="https://news.ycombinator.com/item?id=49508317">HN</a></td>
-<td align="right">161</td>
-<td align="right">83</td>
-<td align="left">Proposes a new standard for storing agent state—treating memory like a structured file system. Developers are excited about portability and debugging benefits for long-running AI agents.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/devnoname120/codexify">Unlimited Codex, Inside ChatGPT</a> · <a href="https://news.ycombinator.com/item?id=49506714">HN</a></td>
-<td align="right">16</td>
-<td align="right">5</td>
-<td align="left">An open-source project aiming to replicate or extend ChatGPT’s internal codebase. While modestly scored, it reflects ongoing curiosity about transparency and self-hosting alternatives.</td>
-</tr>
-</tbody></table>
-<h4>🏢 Industry News</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/">Apple caught off guard by AI demand for Mac Mini and Mac Studio</a> · <a href="https://news.ycombinator.com/item?id=49508982">HN</a></td>
-<td align="right">289</td>
-<td align="right">336</td>
-<td align="left">OpenAI’s reported purchase of 10,000+ Macs has shocked the market, turning Apple into a de facto AI infrastructure play. The discussion centers on supply chain pressure, sustainability concerns, and the irony of Apple being &quot;unprepared&quot; for its own role in AI.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/">Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs</a> · <a href="https://news.ycombinator.com/item?id=49511824">HN</a></td>
-<td align="right">32</td>
-<td align="right">19</td>
-<td align="left">A financial analysis reinforcing the narrative that Apple’s hardware is now mission-critical for AI development. Users question whether this trend is sustainable or just a temporary spike.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case">Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case</a> · <a href="https://news.ycombinator.com/item?id=49516354">HN</a></td>
-<td align="right">5</td>
-<td align="right">0</td>
-<td align="left">A legal bombshell suggesting OpenAI may be erasing data relevant to a high-profile trade secret lawsuit. Despite low engagement, it signals growing scrutiny over AI companies’ data practices.</td>
-</tr>
-</tbody></table>
-<h4>💬 Opinions &amp; Debates</h4>
-<table>
-<thead>
-<tr>
-<th align="left">Title</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://news.ycombinator.com/item?id=49510066">Ask HN: What would happen if your company stopped using all AI tomorrow?</a> · <a href="https://news.ycombinator.com/item?id=49510066">HN</a></td>
-<td align="right">29</td>
-<td align="right">49</td>
-<td align="left">A meta-question sparking introspection across startups and enterprises. Responses range from productivity collapse to surprising resilience—highlighting how deeply AI is embedded in workflows.</td>
-</tr>
-<tr>
-<td align="left"><a href="http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html">The safest job from AI may be writing</a> · <a href="https://news.ycombinator.com/item?id=49512856">HN</a></td>
-<td align="right">100</td>
-<td align="right">137</td>
-<td align="left">Argues that creative writing remains uniquely human due to emotional depth and context sensitivity. The thread becomes a battleground between optimism about AI augmentation and fear of displacement.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/">You Know Who Hates AI? Insurance Claims Adjusters</a> · <a href="https://news.ycombinator.com/item?id=49508225">HN</a></td>
-<td align="right">7</td>
-<td align="right">0</td>
-<td align="left">A rare insider perspective on frontline resistance to AI automation. Though lightly discussed, it underscores a growing theme: not all industries welcome AI integration equally.</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>Community Sentiment Signal</strong></h3>
-<p>Hacker News today reflects a mature, increasingly critical AI discourse. The top-scoring posts revolve around <strong>practical infrastructure</strong>, <strong>systemic risks</strong>, and <strong>ethical boundaries</strong>—not just hype. Apple’s sudden pivot to AI infrastructure hero status (driven by OpenAI’s Mac orders) dominates conversation, combining economic speculation with concerns about sustainability and supply chain fragility. High scores and comments on <em>Breaking Claude Code Opus 5 Auto Mode</em> signal strong interest in <strong>AI reliability and transparency</strong>, particularly around autonomous systems. Meanwhile, debates like “What if we stopped using AI?” reveal deep institutional entanglement—many companies are already structurally dependent. There’s a clear shift from <em>building AI</em> to <em>managing its consequences</em>: environmental cost (water use), legal exposure (trade secrets), and workforce disruption. Unlike past cycles focused on model performance, today’s mood emphasizes <strong>operational realism</strong>, <strong>accountability</strong>, and <strong>human-AI coexistence</strong>—a sign the community is moving beyond novelty toward responsible stewardship.</p>
-<hr>
-<h3><strong>Worth Deep Reading</strong></h3>
-<ol>
-<li><p><strong><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">Breaking Claude Code Opus 5 Auto Mode</a></strong> – This post offers one of the most detailed technical dissections of an AI agent’s behavior in action. For developers building or deploying autonomous tools, it’s essential reading on failure modes, hallucination patterns, and the limits of “autonomous” reasoning.</p>
-</li>
-<li><p><strong><a href="https://calpaterson.com/memoryfields.html">Agent memory as a file format</a></strong> – A visionary proposal for treating agent state as a first-class, portable data structure. Researchers and engineers working on long-lived AI agents should study this—it redefines how we think about persistence, debugging, and collaboration in AI systems.</p>
-</li>
-<li><p><strong><a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">How to build a diffusion language model</a></strong> – For ML researchers, this is a foundational guide to an emerging paradigm. It demystifies a complex architecture and opens doors to more stable, controllable language generation—potentially a game-changer for downstream applications.</p>
-</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
