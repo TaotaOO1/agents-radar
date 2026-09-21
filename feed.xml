@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 22:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:43:47 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-22</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-22/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-22/ai-picks</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-22 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com 推荐分：87/100 · HN 137 points · 140 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. M5 Ultra Mac Studio Review 推荐分：85/100 · HN 217 points · 213 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 3. Advisory Group on Mathematics and Artificial Intelligence 推荐分：82/100 · ...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-22</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/">Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com</a></h3>
+<p><strong>推荐分：87/100</strong> · HN 137 points · 140 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49789982">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/">M5 Ultra Mac Studio Review</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 217 points · 213 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49787313">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://openai.com/index/advisory-group-on-mathematics-and-ai/">Advisory Group on Mathematics and Artificial Intelligence</a></h3>
+<p><strong>推荐分：82/100</strong> · HN 63 points · 49 条评论</p>
+<p>推荐理由：讨论充分、发布时间新、与 AI 主题高度相关。评分由热度 27/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49790389">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://x.ai/news/grok-4-7">Grok 4.7</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 450 points · 368 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49788838">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/">macOS 27: Workaround to avoid downloading AI models and save storage</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 202 points · 92 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 34/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49787535">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">87</td>
+<td><a href="https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/">Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com</a></td>
+<td align="right">137</td>
+<td align="right">140</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/">M5 Ultra Mac Studio Review</a></td>
+<td align="right">217</td>
+<td align="right">213</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">82</td>
+<td><a href="https://openai.com/index/advisory-group-on-mathematics-and-ai/">Advisory Group on Mathematics and Artificial Intelligence</a></td>
+<td align="right">63</td>
+<td align="right">49</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">80</td>
+<td><a href="https://x.ai/news/grok-4-7">Grok 4.7</a></td>
+<td align="right">450</td>
+<td align="right">368</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">79</td>
+<td><a href="https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/">macOS 27: Workaround to avoid downloading AI models and save storage</a></td>
+<td align="right">202</td>
+<td align="right">92</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">79</td>
+<td><a href="https://linear.app/now/ci-bottleneck-reworked">AI coding has made CI a bottleneck, so we reworked ours to keep up</a></td>
+<td align="right">89</td>
+<td align="right">82</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">76</td>
+<td><a href="https://poloclub.github.io/transformer-explainer/">Transformers Explained Visually</a></td>
+<td align="right">116</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">76</td>
+<td><a href="https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html">Wall Street Is Growing Skeptical of the Data Center Boom</a></td>
+<td align="right">52</td>
+<td align="right">70</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">75</td>
+<td><a href="https://heretic-project.org/">Heretic removes restrictions from language models</a></td>
+<td align="right">228</td>
+<td align="right">96</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">74</td>
+<td><a href="https://timdettmers.com/2026/09/21/dlab-open-source-week/">Frontier AI on Your Own Hardware</a></td>
+<td align="right">63</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">73</td>
+<td><a href="https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666">AI chatbots give wrong answers to financial queries &#39;most of the time&#39;</a></td>
+<td align="right">149</td>
+<td align="right">84</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">72</td>
+<td><a href="https://paulbakker.io/writing/no-ai-for-writing/">Don&#39;t Use AI to Write</a></td>
+<td align="right">133</td>
+<td align="right">72</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">72</td>
+<td><a href="https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving">Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development</a></td>
+<td align="right">22</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></td>
+<td align="right">720</td>
+<td align="right">193</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">66</td>
+<td><a href="https://github.com/aru-labs/lossless-memory">Show HN: Lossless-memory – a personal AI memory that never summarizes</a></td>
+<td align="right">54</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">64</td>
+<td><a href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code">If AI coding is lowering your code quality, you&#39;re not managing quality right</a></td>
+<td align="right">116</td>
+<td align="right">164</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></td>
+<td align="right">1854</td>
+<td align="right">942</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">How to Write with an LLM</a></td>
+<td align="right">741</td>
+<td align="right">408</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">62</td>
+<td><a href="https://www.noemamag.com/the-end-of-upward-mobility/">The End Of Upward Mobility – AI is coming for the meritocracy</a></td>
+<td align="right">29</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">57</td>
+<td><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html">Two parallel neural ectoderm progenitors contribute to the developing brain</a></td>
+<td align="right">653</td>
+<td align="right">257</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">56</td>
+<td><a href="https://tinybrains.dev">Show HN: A competition for small neural networks that play strategy games</a></td>
+<td align="right">103</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">56</td>
+<td><a href="https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e">Anthropic at $2T isn&#39;t far-fetched</a></td>
+<td align="right">6</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">55</td>
+<td><a href="https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777">Amazon blocks Meta&#39;s Muse AI shopping agent</a></td>
+<td align="right">16</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">53</td>
+<td><a href="https://matthewbutterick.com/chron/drop-dead.html">Big AI to humanity: drop dead</a></td>
+<td align="right">32</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">53</td>
+<td><a href="https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9">Boomers love making AI images of their grandkids. Millennial parents hate it</a></td>
+<td align="right">18</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">52</td>
+<td><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/">You can use any LLM just like JEV</a></td>
+<td align="right">10</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">47</td>
+<td><a href="https://github.com/naw103/foremerge">Show HN: Foremerge – Catch intent conflicts between parallel coding agents</a></td>
+<td align="right">30</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://news.ycombinator.com/item?id=49787069">When Claude CLI asks for feedback, responding authorizes conversation capture</a></td>
+<td align="right">14</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">46</td>
+<td><a href="https://github.com/openlayer-ai/jevals">Show HN: jevals – replacing LLM judges with typed Jev decisions</a></td>
+<td align="right">39</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">46</td>
+<td><a href="https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395">B.C. government to sue OpenAI after Tumbler Ridge mass shooting</a></td>
+<td align="right">10</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-21</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-21/ai-picks</link>
@@ -12269,148 +12534,6 @@
 </ul>
 <hr>
 <p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hacker News AI 社区动态日报 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-hn</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-hn</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Hacker News AI 社区动态日报 2026-09-01 数据来源: Hacker News | 共 30 条 | 生成时间: 2026-09-01 01:23 UTC 今日亮点 Hacker News 上的 AI 社区正热议苹果因 OpenAI 大规模采购硬件而引发的 Mac Mini 与 Mac Studio 需求激增——一夜之间，苹果被推上“AI 基础设施”股票的位置。这引发了关于 AI 硬件足迹不断扩大的讨论，涉及能源消耗、供应链压力，甚至企业级 AI 采购背后的伦理问题。与此同时，对连续扩散语言模型和将代理记忆作为文件格式的研究，揭示出业界对可扩展、持久化 AI 系统的更深层关注。整体情绪仍保持谨慎乐观，但对环境成本和监管风险的批评日益增加，尤其是随着 ChatGPT 面临欧盟更严格的监管审查。 热门新闻与讨论 🔬 模型与研究 标题 点赞数 评论数 摘要 如何构建一个扩散语言模型 · HN 175 19 一篇深入探讨基于扩散的语言建模的文章——一种有前景的自回归方法替代方案——因其在生成更连贯、可控文本方面的潜力而引发兴趣。社区认为这是值得密切关注的前沿方向。 连续...</description>
-      <content:encoded><![CDATA[<h1>Hacker News AI 社区动态日报 2026-09-01</h1>
-<blockquote>
-<p>数据来源: <a href="https://news.ycombinator.com/">Hacker News</a> | 共 30 条 | 生成时间: 2026-09-01 01:23 UTC</p>
-</blockquote>
-<hr>
-<h3><strong>今日亮点</strong></h3>
-<p>Hacker News 上的 AI 社区正热议苹果因 OpenAI 大规模采购硬件而引发的 Mac Mini 与 Mac Studio 需求激增——一夜之间，苹果被推上“AI 基础设施”股票的位置。这引发了关于 AI 硬件足迹不断扩大的讨论，涉及能源消耗、供应链压力，甚至企业级 AI 采购背后的伦理问题。与此同时，对连续扩散语言模型和将代理记忆作为文件格式的研究，揭示出业界对可扩展、持久化 AI 系统的更深层关注。整体情绪仍保持谨慎乐观，但对环境成本和监管风险的批评日益增加，尤其是随着 ChatGPT 面临欧盟更严格的监管审查。</p>
-<hr>
-<h3><strong>热门新闻与讨论</strong></h3>
-<h4>🔬 模型与研究</h4>
-<table>
-<thead>
-<tr>
-<th align="left">标题</th>
-<th align="right">点赞数</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">如何构建一个扩散语言模型</a> · <a href="https://news.ycombinator.com/item?id=49503956">HN</a></td>
-<td align="right">175</td>
-<td align="right">19</td>
-<td align="left">一篇深入探讨基于扩散的语言建模的文章——一种有前景的自回归方法替代方案——因其在生成更连贯、可控文本方面的潜力而引发兴趣。社区认为这是值得密切关注的前沿方向。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://sander.ai/2026/08/24/continuous-dlms.html">连续扩散语言模型（CDLM）</a> · <a href="https://news.ycombinator.com/item?id=49502611">HN</a></td>
-<td align="right">129</td>
-<td align="right">47</td>
-<td align="left">提出一种新颖架构，实现更平滑、非离散的语言生成。HN 用户对其理论优雅性及在实时对话代理中的潜在应用表现出浓厚兴趣。</td>
-</tr>
-</tbody></table>
-<h4>🛠️ 工具与工程</h4>
-<table>
-<thead>
-<tr>
-<th align="left">标题</th>
-<th align="right">点赞数</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">破解 Claude Code Opus 5 自动模式</a> · <a href="https://news.ycombinator.com/item?id=49506819">HN</a></td>
-<td align="right">341</td>
-<td align="right">113</td>
-<td align="left">一篇对 Claude Code Opus 5 自主编码模式的详细技术剖析，揭示了其漏洞与行为怪异之处。该话题迅速演变为关于生产环境中 AI 可靠性与安全性的激烈争论。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://calpaterson.com/memoryfields.html">代理记忆作为文件格式</a> · <a href="https://news.ycombinator.com/item?id=49508317">HN</a></td>
-<td align="right">161</td>
-<td align="right">83</td>
-<td align="left">提出一种存储代理状态的新标准——将记忆视为结构化文件系统。开发者对长期运行的 AI 代理在可移植性和调试方面的优势感到兴奋。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://github.com/devnoname120/codexify">无限 Codex，ChatGPT 内部揭秘</a> · <a href="https://news.ycombinator.com/item?id=49506714">HN</a></td>
-<td align="right">16</td>
-<td align="right">5</td>
-<td align="left">一个开源项目，旨在复制或扩展 ChatGPT 内部代码库。尽管得分不高，却反映了人们对透明度与自托管替代方案持续的好奇心。</td>
-</tr>
-</tbody></table>
-<h4>🏢 行业新闻</h4>
-<table>
-<thead>
-<tr>
-<th align="left">标题</th>
-<th align="right">点赞数</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/">苹果被 AI 需求打了个措手不及：Mac Mini 与 Mac Studio 供不应求</a> · <a href="https://news.ycombinator.com/item?id=49508982">HN</a></td>
-<td align="right">289</td>
-<td align="right">336</td>
-<td align="left">据报道，OpenAI 购买超 1 万台苹果设备震惊市场，使苹果成为事实上的 AI 基础设施标的。讨论聚焦于供应链压力、可持续性担忧，以及苹果自身“未准备好”承担其在 AI 中角色的讽刺意味。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/">随着 OpenAI 购买数万台 Mac，苹果突然成为 AI 基础设施股</a> · <a href="https://news.ycombinator.com/item?id=49511824">HN</a></td>
-<td align="right">32</td>
-<td align="right">19</td>
-<td align="left">一份金融分析强化了“苹果硬件已成为 AI 开发关键”的叙事。用户质疑这一趋势是否可持续，还是仅是短暂波动。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case">苹果称 OpenAI 正在破坏商业秘密案中的证据</a> · <a href="https://news.ycombinator.com/item?id=49516354">HN</a></td>
-<td align="right">5</td>
-<td align="right">0</td>
-<td align="left">一条法律重磅消息，暗示 OpenAI 可能正在清除与高调商业秘密诉讼相关的数据。尽管参与度低，却预示着对 AI 公司数据实践的审查正在加剧。</td>
-</tr>
-</tbody></table>
-<h4>💬 观点与辩论</h4>
-<table>
-<thead>
-<tr>
-<th align="left">标题</th>
-<th align="right">点赞数</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://news.ycombinator.com/item?id=49510066">问 HN：如果你们公司明天停止使用所有 AI 会发生什么？</a> · <a href="https://news.ycombinator.com/item?id=49510066">HN</a></td>
-<td align="right">29</td>
-<td align="right">49</td>
-<td align="left">一个元问题，在初创企业和企业中引发反思。回答从生产力崩溃到出人意料的韧性不等，凸显了 AI 在工作流中已深度嵌入。</td>
-</tr>
-<tr>
-<td align="left"><a href="http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html">对 AI 最安全的工作可能是写作</a> · <a href="https://news.ycombinator.com/item?id=49512856">HN</a></td>
-<td align="right">100</td>
-<td align="right">137</td>
-<td align="left">论证创意写作因其情感深度与语境敏感性，仍是人类独有的领域。该话题成为乐观看待 AI 增强与恐惧被取代之间的战场。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/">你知道谁最讨厌 AI 吗？保险理赔员</a> · <a href="https://news.ycombinator.com/item?id=49508225">HN</a></td>
-<td align="right">7</td>
-<td align="right">0</td>
-<td align="left">一线人员对 AI 自动化的罕见抵制视角。虽讨论不多，却突显了一个日益明显主题：并非所有行业都同样欢迎 AI 的整合。</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>社区情绪信号</strong></h3>
-<p>今日的 Hacker News 反映出一个日趋成熟且更具批判性的 AI 讨论氛围。高分帖子围绕<strong>实际基础设施</strong>、<strong>系统性风险</strong>和<strong>伦理边界</strong>展开，而非单纯炒作。由 OpenAI 大量订购 Mac 设备推动的苹果突然转型为 AI 基础设施英雄，主导了主流讨论，融合了经济推测与对可持续性及供应链脆弱性的担忧。对《破解 Claude Code Opus 5 自动模式》的高分与高评论，表明社区对<strong>AI 可靠性与透明度</strong>，特别是自主系统方面具有强烈兴趣。与此同时，“如果我们停止使用 AI 会怎样？”这类辩论揭示出深刻的机构依赖——许多公司已结构性地依赖于 AI。显然，舆论正从“构建 AI”转向“管理其后果”：环境成本（用水）、法律风险（商业秘密）、劳动力冲击。与过去专注于模型性能的周期不同，当下的情绪强调<strong>操作现实性</strong>、<strong>问责制</strong>与<strong>人机共存</strong>——标志着社区正超越新奇感，迈向负责任的治理。</p>
-<hr>
-<h3><strong>值得深入阅读</strong></h3>
-<ol>
-<li><p><strong><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">破解 Claude Code Opus 5 自动模式</a></strong> – 这篇文章对 AI 代理在实际运行中的行为提供了最详尽的技术剖析之一。对于开发或部署自主工具的工程师而言，它是了解故障模式、幻觉特征及“自主”推理局限性的必读材料。</p>
-</li>
-<li><p><strong><a href="https://calpaterson.com/memoryfields.html">代理记忆作为文件格式</a></strong> – 一项极具前瞻性的提案，将代理状态视为第一类、可移植的数据结构。从事长期运行的 AI 代理的研究者与工程师应深入研究此内容——它重新定义了我们对 AI 系统中持久性、调试与协作的认知。</p>
-</li>
-<li><p><strong><a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">如何构建一个扩散语言模型</a></strong> – 对机器学习研究人员而言，这是新兴范式的基础指南。它解构了复杂架构，并为更稳定、可控的语言生成打开大门——可能成为下游应用的颠覆性突破。</p>
-</li>
-</ol>
-<hr>
-<p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
     </item>
   </channel>
