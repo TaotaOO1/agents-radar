@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 22:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:44:30 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-27</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-27/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-27/ai-picks</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-27 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. The Copilot+ PC brand is dead 推荐分：75/100 · HN 102 points · 63 条评论 推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 30/35、讨论 20/20、时效 15/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. OpenAI bots meddled with multiple US Government agency sites 推荐分：74/100 · HN 92 points · 141 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Revealing the details of how OpenAI agents hacked Hugging Face 推荐分：73/1...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-27</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">The Copilot+ PC brand is dead</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 102 points · 63 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 30/35、讨论 20/20、时效 15/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49854945">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://www.bbc.com/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US Government agency sites</a></h3>
+<p><strong>推荐分：74/100</strong> · HN 92 points · 141 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49856665">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://swarmtraces.org/">Revealing the details of how OpenAI agents hacked Hugging Face</a></h3>
+<p><strong>推荐分：73/100</strong> · HN 698 points · 442 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49849985">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></h3>
+<p><strong>推荐分：73/100</strong> · HN 485 points · 850 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49845977">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">One Month Without AI</a></h3>
+<p><strong>推荐分：73/100</strong> · HN 169 points · 208 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 33/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49855018">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">75</td>
+<td><a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">The Copilot+ PC brand is dead</a></td>
+<td align="right">102</td>
+<td align="right">63</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">74</td>
+<td><a href="https://www.bbc.com/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US Government agency sites</a></td>
+<td align="right">92</td>
+<td align="right">141</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">73</td>
+<td><a href="https://swarmtraces.org/">Revealing the details of how OpenAI agents hacked Hugging Face</a></td>
+<td align="right">698</td>
+<td align="right">442</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">73</td>
+<td><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></td>
+<td align="right">485</td>
+<td align="right">850</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">73</td>
+<td><a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">One Month Without AI</a></td>
+<td align="right">169</td>
+<td align="right">208</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">72</td>
+<td><a href="https://tangled.org/yanndegat.tngl.sh/drawgent">Drawgent: Coding agent on a live Excalidraw canvas</a></td>
+<td align="right">89</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">72</td>
+<td><a href="https://github.com/brumar/chess-postmortem-skills">Show HN: A Claude Code skill to analyze your chess games</a></td>
+<td align="right">68</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">71</td>
+<td><a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">A single function Jev-like wrapper for LLMs, including vision models</a></td>
+<td align="right">132</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">71</td>
+<td><a href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705">How to keep enjoying programming in a world of LLMs</a></td>
+<td align="right">125</td>
+<td align="right">184</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">70</td>
+<td><a href="https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot">Microsoft abandons personal AI chatbot race with Copilot reboot</a></td>
+<td align="right">143</td>
+<td align="right">134</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">68</td>
+<td><a href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/">FTC chair suggests AI developers should be liable for conduct of agents</a></td>
+<td align="right">65</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></td>
+<td align="right">1800</td>
+<td align="right">1126</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></td>
+<td align="right">776</td>
+<td align="right">798</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">67</td>
+<td><a href="https://transluce.org/agent-activity">Early rogue AI agent activity and attempts to hack found on urlquery.net</a></td>
+<td align="right">265</td>
+<td align="right">307</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">65</td>
+<td><a href="https://mouse.dev/blog/muse-special/">Meta&#39;s Muse appears to use an OpenAI model labeled muse-special</a></td>
+<td align="right">142</td>
+<td align="right">49</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">64</td>
+<td><a href="https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical">Using LLMs to trace alchemical knowledge and decode 17th century letters</a></td>
+<td align="right">169</td>
+<td align="right">43</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></td>
+<td align="right">1774</td>
+<td align="right">853</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">Linux support is coming to Snapdragon X2 series</a></td>
+<td align="right">620</td>
+<td align="right">269</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">62</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/">Google’s Project Suncatcher to put ML infrastructure in space</a></td>
+<td align="right">230</td>
+<td align="right">528</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">62</td>
+<td><a href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us">&#39;That&#39;s so AI &#39; What gen Alpha&#39;s biggest insult tells us</a></td>
+<td align="right">208</td>
+<td align="right">315</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">61</td>
+<td><a href="https://contrastive-lm.notion.site/">Contrastive Language Models</a></td>
+<td align="right">174</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">59</td>
+<td><a href="https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r">Tutoring company tells parents to save their money and &#39;use AI instead&#39;</a></td>
+<td align="right">142</td>
+<td align="right">226</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">59</td>
+<td><a href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">OpenAI pauses training of its &#39;most capable models&#39;</a></td>
+<td align="right">12</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">57</td>
+<td><a href="https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed">How I changed teaching after AI managed to do all my homework assignments</a></td>
+<td align="right">106</td>
+<td align="right">101</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">55</td>
+<td><a href="https://hughhowey.com/the-ai-bubble-explained/">The AI Bubble Explained</a></td>
+<td align="right">14</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">53</td>
+<td><a href="https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land">Broken promises, confiscated land: the hyperscale AI datacentre being built</a></td>
+<td align="right">9</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">50</td>
+<td><a href="https://github.com/Parcha-ai/agentrun">Show HN: AgentRun: DSL to turn agents into workflows</a></td>
+<td align="right">49</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">47</td>
+<td><a href="https://ampdot.mesh.host/token-space-fonts.html">Generate fonts where every LLM token is the same width</a></td>
+<td align="right">16</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">47</td>
+<td><a href="https://jonbehnken.substack.com/p/the-case-for-learning">The Case for Learning in the Era of AI</a></td>
+<td align="right">6</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">39</td>
+<td><a href="https://www.youtube.com/watch?v=2g7doI0BGrs">AI Data Center Are Monkey Business [video]</a></td>
+<td align="right">3</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-26</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-26/ai-picks</link>
@@ -12286,721 +12551,6 @@
 
 <hr>
 <p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Infrastructure Digest 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-infra-en</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-infra-en</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI Infrastructure Digest 2026-09-01 Generated: 2026-09-01 01:23 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison Cross-Project AI Infrastructure Ecosystem Report – 2026-09-01 1. Ecosystem Overview The AI inference and serving ecosystem is entering a phase of deep specialization and cross-layer integration. Projects are diverging in focus: vLLM and SGLang lead in high-performance distributed inference, llama.cpp dominates local edge and Apple Silicon...</description>
-      <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-09-01</h1>
-<blockquote>
-<p>Generated: 2026-09-01 01:23 UTC | Projects covered: 6</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
-<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
-<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
-<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
-<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
-<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
-</ul>
-<hr>
-<h2>Cross-Project Comparison</h2>
-<h1><strong>Cross-Project AI Infrastructure Ecosystem Report – 2026-09-01</strong></h1>
-<hr>
-<h3><strong>1. Ecosystem Overview</strong></h3>
-<p>The AI inference and serving ecosystem is entering a phase of <em>deep specialization and cross-layer integration</em>. Projects are diverging in focus: vLLM and SGLang lead in high-performance distributed inference, llama.cpp dominates local edge and Apple Silicon optimization, Ollama consolidates developer-friendly access to models, LiteLLM acts as the universal proxy layer, and Unsloth positions itself at the intersection of training, fine-tuning, and secure agent execution. A clear trend toward <strong>multi-architecture support (Intel XPU, AMD ROCm, Apple Metal)</strong> and <strong>structured output reliability</strong> is evident, driven by demand for production-grade agentic systems.</p>
-<hr>
-<h3><strong>2. Activity Comparison</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Issues Open (Today)</th>
-<th>PRs Merged/Active</th>
-<th>Releases (Past 24h)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>vLLM</strong></td>
-<td>15</td>
-<td>8</td>
-<td>None</td>
-</tr>
-<tr>
-<td><strong>SGLang</strong></td>
-<td>13</td>
-<td>7</td>
-<td>None</td>
-</tr>
-<tr>
-<td><strong>llama.cpp</strong></td>
-<td>10</td>
-<td>6</td>
-<td>None</td>
-</tr>
-<tr>
-<td><strong>Ollama</strong></td>
-<td>10</td>
-<td>5</td>
-<td>None</td>
-</tr>
-<tr>
-<td><strong>LiteLLM</strong></td>
-<td>9</td>
-<td>4</td>
-<td>None</td>
-</tr>
-<tr>
-<td><strong>Unsloth</strong></td>
-<td>12</td>
-<td>6</td>
-<td>None</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🔍 <em>Observation</em>: All projects report no new releases in the past day, indicating a focus on stability and feature refinement rather than incremental updates. vLLM leads in active PR volume, reflecting its role as a performance anchor.</p>
-</blockquote>
-<hr>
-<h3><strong>3. Model Support Race</strong></h3>
-<table>
-<thead>
-<tr>
-<th>New Model / Architecture</th>
-<th>Supported By</th>
-<th>Notes</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>DeepSeek-V4-Pro (DSA/MLA)</strong></td>
-<td>✅ vLLM (Intel XPU), ✅ SGLang</td>
-<td>First major Intel XPU enablement across frameworks</td>
-</tr>
-<tr>
-<td><strong>Qwen3.8-Flash-Next</strong></td>
-<td>✅ vLLM, ✅ SGLang, ✅ llama.cpp</td>
-<td>Full MoE + prefix caching in vLLM; QSA+NEXTN decode corruption in SGLang</td>
-</tr>
-<tr>
-<td><strong>GLM-5.3-Flash (GLM-5-Next)</strong></td>
-<td>✅ SGLang, ✅ llama.cpp</td>
-<td>GLM-5.3 vision config now supported via SGLang</td>
-</tr>
-<tr>
-<td><strong>DeepSeek-V4-Flash-Vision-Exp</strong></td>
-<td>✅ llama.cpp</td>
-<td>Only project with full vision model support</td>
-</tr>
-<tr>
-<td><strong>Wan2.2-TI2V-5B</strong></td>
-<td>✅ Unsloth</td>
-<td>High VRAM usage due to SDPA fallback</td>
-</tr>
-<tr>
-<td><strong>Qwen3.8-Flash-Next-GGUF</strong></td>
-<td>❌ Unsloth (blocked), ⚠️ Others (partial)</td>
-<td>Lacking <code>qwen4exp</code> support in <code>llama.cpp</code> backend</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🏆 <strong>Leader</strong>: <strong>vLLM</strong> and <strong>SGLang</strong> are ahead in cutting-edge model support, particularly for MoE and hybrid architectures. <strong>llama.cpp</strong> leads in GGUF and vision-capable model availability, while <strong>Unsloth</strong> lags on newer GGUF variants.</p>
-</blockquote>
-<hr>
-<h3><strong>4. Performance Frontier</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Optimization Focus</th>
-<th>Primary Projects</th>
-<th>Key Developments</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>KV Cache &amp; Speculative Decoding</strong></td>
-<td>vLLM, SGLang</td>
-<td>Overlap between draft sync and prefill (vLLM), HiSparse sparse attention (SGLang), suffix_gpu drafter (vLLM)</td>
-</tr>
-<tr>
-<td><strong>Quantization &amp; Backend Fusion</strong></td>
-<td>vLLM, llama.cpp</td>
-<td>FlashInfer SM90 MXFP4 x FP8 fused MoE (vLLM), XOR swizzle flash attention (cuda), radix TOP_K (ROCm)</td>
-</tr>
-<tr>
-<td><strong>Batching &amp; Kernel Efficiency</strong></td>
-<td>vLLM, llama.cpp</td>
-<td>Split-row Triton pipeline (small batches), AVX2 vectorized IQ decode</td>
-</tr>
-<tr>
-<td><strong>Distributed Serving &amp; Scalability</strong></td>
-<td>SGLang</td>
-<td>PD disaggregation unification, HiCache L3 storage, weight cache daemon (&lt;1s startup)</td>
-</tr>
-<tr>
-<td><strong>Edge &amp; Local Runtime</strong></td>
-<td>llama.cpp, Unsloth</td>
-<td>Metal (M1 Ultra), ROCm (gfx950), MLX context length fix (Unsloth)</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🚀 <strong>Trend</strong>: The frontier is shifting from raw throughput to <strong>efficient state management</strong>—especially long-context, low-latency speculative decoding and memory-aware KV cache strategies.</p>
-</blockquote>
-<hr>
-<h3><strong>5. Layer Positioning</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Layer Position</th>
-<th>Core Differentiator</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>vLLM</strong></td>
-<td><strong>High-Performance Serving Engine</strong></td>
-<td>Optimized kernel scheduling, MTP, structured output</td>
-</tr>
-<tr>
-<td><strong>SGLang</strong></td>
-<td><strong>Distributed Inference Framework</strong></td>
-<td>PD disaggregation, HiCache, multi-model orchestration</td>
-</tr>
-<tr>
-<td><strong>llama.cpp</strong></td>
-<td><strong>Local Runtime / Edge Inference</strong></td>
-<td>Cross-platform backends (Metal, CUDA, ROCm), GGUF-first approach</td>
-</tr>
-<tr>
-<td><strong>Ollama</strong></td>
-<td><strong>Developer Gateway / Model Orchestrator</strong></td>
-<td>Unified CLI/API, MLX/llama.cpp integration, agent-friendly UX</td>
-</tr>
-<tr>
-<td><strong>LiteLLM</strong></td>
-<td><strong>Universal Proxy &amp; Routing Layer</strong></td>
-<td>Multi-provider routing, team-level observability, virtual keys</td>
-</tr>
-<tr>
-<td><strong>Unsloth</strong></td>
-<td><strong>Agent Training &amp; Secure Execution Studio</strong></td>
-<td>Sandboxed tool execution, Ollama integration, fine-tuning workflow</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>💡 <strong>Insight</strong>: The stack is becoming increasingly layered—developers now choose not just <em>what</em> runs, but <em>where</em>, <em>how</em>, and <em>with what security guarantees</em>.</p>
-</blockquote>
-<hr>
-<h3><strong>6. Trend Signals</strong></h3>
-<h4>🔹 <strong>Key Industry Trends Extracted</strong>:</h4>
-<ol>
-<li><strong>Hardware Diversification is Now Mainstream</strong>: Intel XPU, AMD ROCm (gfx1200/gfx1201), Apple M1 Ultra all have dedicated optimizations—indicating no single architecture dominates.</li>
-<li><strong>Structured Output Reliability is a Critical Bottleneck</strong>: Multiple projects report tool call parsing failures (vLLM, SGLang, Ollama), signaling that agentic workflows are hitting API-level fragility.</li>
-<li><strong>Speculative Decoding is Becoming Production-Ready</strong>: Overlapping kernels, GPU/CPU offload, and async scheduling (suffix_gpu) show this is no longer experimental.</li>
-<li><strong>Security Hardening is Mandatory</strong>: Unsloth’s mandatory sandboxing (bubblewrap/Seatbelt) reflects growing concern over unsafe tool execution in agents.</li>
-<li><strong>Observability is Shifting Upward</strong>: Metrics like <code>prompt_eval_cached_count</code>, <code>request_timeout</code> enforcement, and team-level logging are being exposed via APIs—critical for cost control and debugging.</li>
-</ol>
-<h4>📌 <strong>What Application Developers Should Watch</strong>:</h4>
-<ul>
-<li><strong>Avoid v0.33.0 Ollama on Windows/NVIDIA</strong> due to TDR crashes.</li>
-<li><strong>Validate tool call parsers under concurrency</strong>—expect instability in Qwen3/Gemma4 until fixes land.</li>
-<li><strong>Pre-warm engines for deterministic inference</strong> (vLLM’s new sampler warmup increases cold-start latency).</li>
-<li><strong>Monitor memory leaks in MLX-based backends</strong> (Ollama, Unsloth).</li>
-<li><strong>Plan for breaking changes around response format semantics</strong> (e.g., <code>strict=false</code> disables guided decoding in vLLM).</li>
-</ul>
-<blockquote>
-<p>✅ <strong>Final Takeaway</strong>: The infrastructure is maturing rapidly—but <strong>stability, correctness, and observability</strong> are now the primary differentiators. Choose tools not just for speed, but for resilience in real-world agent workloads.</p>
-</blockquote>
-<hr>
-<h2>Per-Project Reports</h2>
-<details>
-<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
-
-<p><strong>vLLM Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The vLLM project continues to strengthen its support for speculative decoding (MTP) and structured output parsing across diverse models, with critical fixes for Qwen3 and Gemma4 tool call reliability. Key progress includes enabling DeepSeek-V4-Pro on Intel XPU and advancing multi-config sampler warmup for seeded inference paths—essential for deterministic agent workflows.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p><em>No new releases in the past 24 hours.</em><br>However, ongoing changes in PRs suggest potential breaking shifts in behavior around:  </p>
-<ul>
-<li><strong>Seeded sampling</strong>: PR <a href="https://github.com/vllm-project/vllm/pull/54630">#54630</a> introduces per-path kernel warmup, which may affect cold-start latency for seeded requests.  </li>
-<li><strong>Structured outputs</strong>: PR <a href="https://github.com/vllm-project/vllm/pull/50544">#50544</a> modifies <code>strict=false</code> handling in <code>response_format</code>, aligning with OpenAI semantics—users relying on relaxed schema validation must now explicitly disable guided decoding.</li>
-</ul>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<ul>
-<li>✅ <strong>Intel XPU Support Expansion</strong>:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54460">#54460</a> enables serving <strong>DeepSeek-V4-Pro (DSA/MLA)</strong> on Intel Arc Pro B70 (XPU), including FP8 block-scaled weights and CPU offload.  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/49303">#49303</a> adds <strong>sequence parallelism (SP)</strong> support for MXFP8 quantized models on XPU.</li>
-</ul>
-</li>
-<li>✅ <strong>New Quantization Backends</strong>:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54032">#54032</a> introduces a new <strong>FlashInfer SM90 MXFP4 x FP8 fused MoE backend</strong>, targeting high-performance inference on Blackwell GPUs.</li>
-</ul>
-</li>
-<li>✅ <strong>Qwen3-Next (GDN) Hybrid Models</strong>:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/50172">#50172</a> enables full <strong>prefix caching with MTP speculative decoding</strong> for <code>mamba_cache_mode=&quot;all&quot;</code> models on V1 engine.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<ul>
-<li>🚀 <strong>Speculative Decoding Overlap</strong>:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54656">#54656</a> enables <strong>overlap between draft continuation DP sync and prefill</strong>, reducing idle time in data-parallel setups.  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/52097">#52097</a> adds <strong>suffix_gpu drafter</strong> support for async scheduling—improving CPU/GPU overlap in repetitive agentic workloads.</li>
-</ul>
-</li>
-<li>🔧 <strong>Kernel-Level Optimizations</strong>:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/49529">#49529</a> adopts PTX 9.4’s <code>ldmatrix.s8.s4</code> for W4A8-INT8 paths, enabling hardware-accelerated INT4→INT8 sign extension—expected to boost throughput on newer architectures.  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54651">#54651</a> introduces a <strong>split-row Triton pipeline</strong> for small-batch top-p masking, improving efficiency for low-throughput scenarios.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<p>⚠️ <strong>Critical Crashes &amp; Correctness Bugs Reported</strong>:  </p>
-<ul>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/54521">Bug #54521</a></strong>: Non-deterministic greedy decoding in <code>Qwen3.8-Flash-Next-FP8</code> due to <code>persistent_topk</code> when prompt nears <code>indexer_budget</code>. <em>Fix pending.</em>  </li>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/54225">Bug #54225</a></strong>: CUDA illegal memory access on sm_120 with NVFP4 + FP8 KV cache; crashes on 16-token requests. TRITON_ATTN unaffected. <em>High severity, no fix yet.</em>  </li>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/42426">Bug #42426</a></strong>: Kimi-K2.6 intermittently outputs only <code>&quot;!!!!!!!!!!&quot;</code> with null content. <em>Widespread impact; fix under investigation.</em></li>
-</ul>
-<p>📌 <strong>Tool Call Parsing Reliability Issues</strong>:  </p>
-<ul>
-<li>Multiple issues highlight instability in parser logic:  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/53365">#53365</a> restores missing <code>tool_call_parser_invocations_total</code> metrics.  </li>
-<li>PRs like <a href="https://github.com/vllm-project/vllm/issues/39056">#39056</a> and <a href="https://github.com/vllm-project/vllm/issues/39392">#39392</a> report XML tool-call parsing failures inside <code>&lt;think&gt;</code> and concurrent request corruption.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Use caution with seeded or deterministic inference</strong>: The new sampler warmup in PR <a href="https://github.com/vllm-project/vllm/pull/54630">#54630</a> may increase cold-start latency—consider pre-warming engines for production agents.  </li>
-<li><strong>Validate tool call parsers under concurrency</strong>: Avoid <code>gemma4</code> and <code>qwen3</code> tool-call parsers in high-concurrency environments until PRs like <a href="https://github.com/vllm-project/vllm/issues/54225">#54225</a> land.  </li>
-<li><strong>Leverage new backends for performance</strong>: Enable <code>--moe-backend flashinfer_cutlass_humming</code> (PR <a href="https://github.com/vllm-project/vllm/pull/54032">#54032</a>) and <code>suffix_gpu</code> drafter (PR <a href="https://github.com/vllm-project/vllm/pull/52097">#52097</a>) for better throughput in agent and batched workloads.  </li>
-<li><strong>Update your response format logic</strong>: With PR <a href="https://github.com/vllm-project/vllm/pull/50544">#50544</a>, <code>strict=false</code> now disables guided decoding—ensure your app handles schema relaxation correctly.</li>
-</ul>
-<blockquote>
-<p>🔗 <em>Follow key issues and PRs at:</em> <a href="https://github.com/vllm-project/vllm">vLLM GitHub</a></p>
-</blockquote>
-</details>
-
-<details>
-<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
-
-<p><strong>SGLang Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The SGLang project continues to accelerate its focus on <strong>distributed inference scalability</strong>, with major progress on <strong>PD disaggregation unification</strong>, <strong>HiCache L3 storage integration</strong>, and <strong>multi-model support for Qwen3.8-Flash-Next and GLM-5.3-Flash</strong>. Critical stability fixes were merged for CUDA coredumps, speculative decoding under PD disaggregation, and silent output corruption in QSA+NEXTN decode graphs—highlighting ongoing efforts to stabilize production-grade agentic workloads.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p><em>None</em> — No new releases were published in the last 24 hours. However, several high-priority PRs targeting runtime stability and compatibility are actively being reviewed (e.g., #37322, #37321).</p>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<ul>
-<li><strong>Qwen3.8-Flash-Next</strong>: Full support now includes <code>nextn</code> draft handling and <code>qsa</code> decoding paths; PRs #37322 and #37316 address quantization and weight loading issues.</li>
-<li><strong>GLM-5.3-Flash</strong>: Added support for optional vision config and NextN weight loading (#37321), resolving initialization failures.</li>
-<li><strong>MiniMax-M3</strong>: Enhanced MXFP8/MXFP4 quantization support via fused norms and MoE all-reduce folding (#36575, #36574).</li>
-<li><strong>AMD ROCm</strong>: Performance optimizations for gfx950 (MiMo-V2.5-Pro) with improved rope_cache kernel grouping (#37315).</li>
-<li><strong>Intel XPU</strong>: Weekly enablement updates included in #37193, expanding cross-architecture support.</li>
-</ul>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<ul>
-<li><strong>Weight Cache Daemon (Phase 1)</strong>: Reduced engine startup time from ~327s to <strong>&lt;1s</strong> on Qwen3-235B FP8 (<a href="https://www.lmsys.org/blog/2026-08-21-sglang-weight-cache-daemon">blog</a>).</li>
-<li><strong>HiSparse</strong>: Enables long-context sparse attention with significantly lower GPU memory usage during decode by retaining only a hot working set in HBM (#28874).</li>
-<li><strong>ROCm Optimization</strong>: Fused rope_cache + cache kernel achieves <strong>2.15–2.5x speedup</strong> on gfx950 at gpt-oss shapes (813 GB/s measured).</li>
-<li><strong>Speculative Decoding</strong>: Windowed draft-decode attention reduces KV read overhead in MTP/EAGLE drafts, improving efficiency under long prefixes (#32673).</li>
-</ul>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<p><strong>Critical Issues Reported Today</strong>:</p>
-<ul>
-<li>🔴 <strong>Qwen3.8-Flash-Next QSA+NEXTN Decode Graph Corruption</strong> (<code>#37111</code>): Silent semantic corruption observed on GB10 TP2; no fix yet.  </li>
-<li>🔴 <strong>DFLASH Speculative Decoding Crash Under PD Disaggregation</strong> (<code>#36140</code>): Crashes due to <code>spec_info</code> being <code>None</code>; workaround required until PR lands.</li>
-<li>🔴 <strong>CUDA Coredump Tracker</strong> (<code>#26340</code>): Auto-collected crashes across CI runs; 269 comments indicate widespread instability in GPU kernels.</li>
-<li>🟡 <strong>HiCache Prefetch Deadlock</strong> (<code>#30760</code>): TP=4, no PP setup triggers deadlock in <code>check_prefetch_progress</code>.</li>
-<li>🟡 <strong>SGLANG_SIMULATE_ACC_LEN Degradation</strong> (<code>#34740</code>): Silent O(n²) detokenization due to fallback token logic.</li>
-</ul>
-<blockquote>
-<p>✅ <em>Fixes in flight</em>: PRs #37322 (#36599), #37321, and #37316 aim to resolve key model and state management bugs.</p>
-</blockquote>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Agentic Workloads</strong>: The distributed KVCache system roadmap (#21846) and session-aware router module (#25760) signal strong momentum toward scalable, low-latency agent serving.</li>
-<li><strong>Model Flexibility</strong>: Expect smoother integration of multimodal models like MiMo-V2.5 and GLM-5.3-Flash, especially with upcoming HiSparse and HiCache L3 support.</li>
-<li><strong>Stability Caution</strong>: Avoid <code>--disaggregation-mode decode</code> with DFLASH speculative decoding until #36140 is resolved. Monitor for silent corruptions in Qwen3.8-Flash-Next outputs.</li>
-<li><strong>CI Reliability</strong>: The growing number of flaky tests (11 reported in #17050) suggests that pre-release validation may require manual verification for critical deployments.</li>
-</ul>
-<blockquote>
-<p>👉 <em>Recommendation</em>: Pin to latest main (<code>sglang:dev-cu13-mimo-v2.5</code>) for known-good behavior, and use <code>--disable-cuda-graph</code> temporarily if encountering garbled outputs or hangs.</p>
-</blockquote>
-<hr>
-<p><em>Source: <a href="https://github.com/sgl-project/sglang">github.com/sgl-project/sglang</a></em></p>
-</details>
-
-<details>
-<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
-
-<p><strong>llama.cpp Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The latest updates focus on performance and stability across multiple backends, with critical kernel optimizations for Metal (M1/M1 Ultra), CUDA (XOR swizzle flash attention), and ROCm (radix TOP_K). New support for DeepSeek-V4-Flash-Vision-Exp and GLM-5.3-Flash expands model compatibility, while ongoing work targets decode efficiency in large-context models like Qwen3.8-Flash-Next.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p>No new tagged releases or breaking API changes were issued in the last 24 hours. However, PRs indicate upcoming changes:  </p>
-<ul>
-<li><code>llama-server</code> will transition from port <code>8080</code> to <code>9931</code> (leetspeak for GGML) — see <a href="https://github.com/ggml-org/llama.cpp/pull/26508">PR #26508</a> for notice.</li>
-</ul>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<ul>
-<li>✅ <strong>New Models</strong>:  <ul>
-<li>Added support for <strong>DeepSeek-V4-Flash-Vision-Exp</strong> (<a href="https://github.com/ggml-org/llama.cpp/pull/28133">PR #28133</a>)  </li>
-<li>Added <strong>GLM-5.3-Flash (GLM-5-Next)</strong> with hybrid linear/sparse MoE and vision tower (<a href="https://github.com/ggml-org/llama.cpp/pull/27754">PR #27754</a>, <a href="https://github.com/ggml-org/llama.cpp/pull/27773">PR #27773</a>)</li>
-</ul>
-</li>
-<li>✅ <strong>Hardware Backends</strong>:  <ul>
-<li>M1 Ultra Metal tuning added (<a href="https://github.com/ggml-org/llama.cpp/pull/28088">PR #28088</a>)  </li>
-<li>M1 Metal tuning updated (<a href="https://github.com/ggml-org/llama.cpp/pull/28078">PR #28078</a>)  </li>
-<li>ROCm now supports <strong>radix TOP_K for long rows</strong> (<a href="https://github.com/ggml-org/llama.cpp/pull/27466">PR #27466</a>)</li>
-</ul>
-</li>
-<li>✅ <strong>Quantization</strong>:  <ul>
-<li>Metal now includes optimized <code>fa-vec</code> paths for quantized types (<a href="https://github.com/ggml-org/llama.cpp/pull/28116">PR #28116</a>)</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<ul>
-<li><strong>Metal (Apple Silicon)</strong>:  <ul>
-<li>M1 Ultra gains dedicated <code>fa-vec</code> tunings; layout moved after M1 Max section for consistency (<a href="https://github.com/ggml-org/llama.cpp/pull/28088">PR #28088</a>)</li>
-</ul>
-</li>
-<li><strong>CUDA</strong>:  <ul>
-<li>XOR swizzle flash attention K/V smem fp16 tiles improve memory coalescing (<a href="https://github.com/ggml-org/llama.cpp/pull/25635">PR #25635</a>)  </li>
-<li>Extended MOE fusion to speculative decoding (previously limited to single token) (<a href="https://github.com/ggml-org/llama.cpp/pull/27621">PR #27621</a>)</li>
-</ul>
-</li>
-<li><strong>ROCm</strong>:  <ul>
-<li>Radix-based TOP_K enables faster top-k selection on long rows, improving context scalability (<a href="https://github.com/ggml-org/llama.cpp/pull/27466">PR #27466</a>)</li>
-</ul>
-</li>
-<li><strong>OpenCL (Intel Xe-LP)</strong>:  <ul>
-<li>Optimized Q4_K/Q5_K kernels with <code>N_DST=8</code> and <code>8x8</code> tile sizes increase activation reuse by 2x (<a href="https://github.com/ggml-org/llama.cpp/pull/26438">PR #26438</a>)</li>
-</ul>
-</li>
-<li><strong>General</strong>:  <ul>
-<li>AVX2: Speedup in large batch prompt processing for IQ quantized models via vectorized IQ panel decode (<a href="https://github.com/ggml-org/llama.cpp/pull/27402">PR #27402</a>)  </li>
-<li>KV cache: Batched scatter reads during non-contiguous state restore reduce overhead (<a href="https://github.com/ggml-org/llama.cpp/pull/27991">PR #27991</a>)</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<p>Critical stability issues reported today include:  </p>
-<ul>
-<li>🔴 <strong>SYCL Crashes on Intel Arc A770/B70</strong>: Multiple reports of crashes with <code>dev2dev_memcpy(DEVICE_LOST)</code> and GPU hangs under load (<a href="https://github.com/ggml-org/llama.cpp/issues/27063">#27063</a>, <a href="https://github.com/ggml-org/llama.cpp/issues/25692">#25692</a>)  </li>
-<li>🔴 <strong>Vulkan Pipeline Hang</strong>: Compilation hang on gfx1103 (RADV 780M) prevents server startup (<a href="https://github.com/ggml-org/llama.cpp/issues/27998">#27998</a>)  </li>
-<li>🔴 <strong>ROCm TOP_K Crash</strong>: <code>invalid configuration argument</code> when <code>ncols &gt; 1024</code> due to bitonic kernel block-size overflow (<a href="https://github.com/ggml-org/llama.cpp/issues/27021">#27021</a>)  </li>
-<li>🔴 <strong>DeepSeek-V4 Garbled Output on ROCm</strong>: Unconfirmed but high-severity bug affecting Strix Halo systems (<a href="https://github.com/ggml-org/llama.cpp/issues/25436">#25436</a>)  </li>
-<li>⚠️ <strong>WebGPU Crash on Non-Multiple-of-4 Offset</strong>: Fixed in <a href="https://github.com/ggml-org/llama.cpp/pull/28045">PR #28045</a> — no fix yet for SYCL multi-GPU hangs or Qwen4exp decode slowdown beyond 1K context (<a href="https://github.com/ggml-org/llama.cpp/issues/27856">#27856</a>)</li>
-</ul>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Use Metal for Apple Silicon</strong>: M1 Ultra and M1 now have dedicated flash attention and quantized path optimizations — prioritize Metal backend for best performance on Macs.  </li>
-<li><strong>Avoid SYCL on Intel Arc A770/B70</strong>: Known GPU hangs and crashes are unresolved — consider fallback to Vulkan or CPU for production deployments.  </li>
-<li><strong>Monitor Context Lengths on ROCm</strong>: Avoid <code>ctx_size &gt; 131072</code> with DeepSeek-V4-Flash until <a href="https://github.com/ggml-org/llama.cpp/issues/27021">#27021</a> is resolved.  </li>
-<li><strong>Leverage New Model Support</strong>: Integrate <strong>GLM-5.3-Flash</strong> and <strong>DeepSeek-V4-Flash-Vision-Exp</strong> via <code>mtmd</code> and conversion tools — both require <code>NVIDIA_TF32_OVERRIDE=0</code> for correct output.  </li>
-<li><strong>Prepare for Port Change</strong>: Update configs and proxies to accommodate <code>llama-server</code> moving from port <code>8080</code> to <code>9931</code> (per <a href="https://github.com/ggml-org/llama.cpp/pull/26508">PR #26508</a>).</li>
-</ul>
-<blockquote>
-<p><em>Recommendation</em>: For high-throughput inference, use CUDA or Metal with <code>--flash-attn</code> enabled. Avoid SYCL and Vulkan on Intel/AMD discrete GPUs until stability patches land.</p>
-</blockquote>
-</details>
-
-<details>
-<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
-
-<p><strong>Ollama Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The Ollama ecosystem continues to expand its support for advanced multimodal and MoE (Mixture-of-Experts) models, with critical stability fixes for MLX-backed inference on Apple Silicon and AMD GPUs. A high-priority regression in the 0.33.0 release—causing GPU driver crashes during multi-turn conversations on Windows/NVIDIA—is now actively being addressed. Meanwhile, developers are pushing for deeper observability via API-accessible cloud usage stats and improved error reporting.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p><em>No new releases in the last 24 hours.</em><br>However, <strong>v0.33.0</strong> introduced a known regression (Issue #18152) causing <code>VIDEO_TDR_TIMEOUT_DETECTED</code> crashes on Windows when transitioning from single-turn to multi-turn requests—affecting NVIDIA users. This has been reported across multiple hardware configurations and is under active investigation. No migration guidance or workaround yet available.</p>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<ul>
-<li>✅ <strong>Granite 4.1 series</strong> added to experimental MLX support (PR #17972). These dense models are now importable via <code>ollama create</code> using safetensors format.</li>
-<li>📌 <strong>Qwen3-VL and video-capable models</strong> remain unusable due to missing input pipeline (Issue #18151); users currently must pre-process video into frames manually.</li>
-<li>⚠️ <strong>AMD ROCm support</strong> for MoE models remains fragile: mixed-gfx architecture splits (e.g., gfx1200 + gfx1201) trigger <code>ROCm error: no kernel image is available</code> (Issue #18162), blocking scalable inference across heterogeneous AMD setups.</li>
-<li>🔧 <strong>MLX-C</strong> and <strong>llama.cpp</strong> backends updated to latest upstream versions (PRs #18160, #18080), enabling future compatibility with newer model formats.</li>
-</ul>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<ul>
-<li>💡 <strong>Memory leak mitigation</strong>: MLX runner shows persistent memory growth (~0.147 GiB per request) at fixed context, plateauing near 28.5 GiB (Issue #17924). Impactful for long-running agent workloads.</li>
-<li>📊 <strong>Cache visibility improvements</strong>: PRs #16916 and #17943 add <code>prompt_eval_cached_count</code> and <code>cache_n</code> metrics to API responses—enabling precise tracking of cache hit rates and effective throughput in both local and cloud environments.</li>
-<li>⏱️ <strong>Streaming optimization</strong>: PR #18156 introduces repeat token detection in streamed MLX completions, preventing runaway generations and improving reliability during long-form output.</li>
-</ul>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Severity</th>
-<th>Issue</th>
-<th>Summary</th>
-<th>Fix Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 Critical</td>
-<td><a href="https://github.com/ollama/ollama/issues/18152">#18152</a></td>
-<td>GPU driver crash (<code>VIDEO_TDR_TIMEOUT_DETECTED</code>) on Windows + NVIDIA during multi-turn transitions after v0.33.0 upgrade</td>
-<td>Open — regression confirmed between 0.32.15 and 0.33.0</td>
-</tr>
-<tr>
-<td>🔴 High</td>
-<td><a href="https://github.com/ollama/ollama/issues/18162">#18162</a></td>
-<td>MoE models crash on mixed AMD GPU architectures (gfx1200 + gfx1201) due to missing ROCm kernel images</td>
-<td>Open — affects scalability on AMD systems</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><a href="https://github.com/ollama/ollama/issues/17778">#17778</a></td>
-<td>Qwen 3.8 fails chat streaming with &quot;no user query found in messages&quot; (500 error)</td>
-<td>Open — tool-calling loop issue</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><a href="https://github.com/ollama/ollama/issues/14493">#14493</a></td>
-<td>Qwen 3.5 27B: tool calling broken, repetition penalties ignored</td>
-<td>Open — impacts agentic workflows</td>
-</tr>
-<tr>
-<td>🟢 Low</td>
-<td><a href="https://github.com/ollama/ollama/issues/18146">#18146</a></td>
-<td><code>ollama create</code> fails on Qwen3.8-Flash-Next GGUF due to validation mismatch</td>
-<td>Open — likely requires patching llama-quantize compatibility</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Avoid v0.33.0 on Windows/NVIDIA</strong> if running multi-turn or long-context applications—use 0.32.15 until the TDR regression is resolved.</li>
-<li><strong>Do not rely on tool calling or repetition control</strong> with Qwen 3.5/3.8 models until issues #14493 and #17778 are patched—these break core agent logic.</li>
-<li><strong>For macOS/M1/M2/M3/M4 users</strong>, use MLX backend with caution: monitor memory usage (Issue #17924) and avoid long-running sessions without restarts.</li>
-<li><strong>Use <code>prompt_eval_cached_count</code></strong> in your monitoring stack (via <code>/api/chat</code>, OpenAI-compatible endpoints) to measure real-time cache efficiency and optimize prompt design.</li>
-<li><strong>Expect limited progress on video inputs</strong>—Qwen3-VL cannot ingest raw video yet (Issue #18151); pre-frame extraction remains mandatory.</li>
-<li><strong>Request cloud usage stats via <code>/api/me</code></strong> (Issue #12532)—this is critical for cost-aware deployment planning; consider voting to prioritize it.</li>
-</ul>
-<blockquote>
-<p>🔗 <em>Track key issues:</em> <a href="https://github.com/ollama/ollama/issues/12532">12532</a>, <a href="https://github.com/ollama/ollama/issues/18152">18152</a>, <a href="https://github.com/ollama/ollama/issues/18162">18162</a>, <a href="https://github.com/ollama/ollama/issues/17778">17778</a></p>
-</blockquote>
-<hr>
-<p><em>Digest generated: 2026-09-01 | Source: github.com/ollama/ollama</em></p>
-</details>
-
-<details>
-<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
-
-<p><strong>LiteLLM Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The LiteLLM project continues its momentum in stabilizing core proxy and routing logic, with key PRs focused on observability, security, and correctness in team-level configurations. Critical fixes address model alias visibility, credential leakage, and silent failures in logging—especially for <code>GET /v2/team/list</code> and virtual key handling. Notably, the UI now surfaces runtime-registered callbacks, improving transparency for monitoring integrations.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p><em>No new releases in the last 24 hours.</em><br>However, several breaking-change-prone updates are under review:  </p>
-<ul>
-<li><strong>PR #39045</strong>: Adds <code>litellm_model_table</code> to <code>/v2/team/list</code>, enabling retrieval of model aliases via API (fixes Issue #26312).  </li>
-<li><strong>PR #38979</strong>: Wire team-level logging callbacks into passthrough endpoints (e.g., <code>/gemini</code>, <code>/anthropic</code>) — critical for observability in multi-tenant deployments.  </li>
-<li><strong>PR #39046</strong>: Reverts a prior change due to unexpected side effects; underscores caution around UI state persistence in credential selection.</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39045">PR #39045</a> | <a href="https://github.com/BerriAI/litellm/pull/38979">PR #38979</a> | <a href="https://github.com/BerriAI/litellm/pull/39046">PR #39046</a></p>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<p><em>No new models or hardware backends added today.</em><br>But ongoing progress includes:  </p>
-<ul>
-<li><strong>PR #39039</strong>: Adds experimental support for <strong>Milvus gRPC search</strong>, enabling secure, high-performance vector storage integration for gRPC-only Milvus deployments.  </li>
-<li><strong>PR #38952</strong>: Extends MCP spec parsing to accept <strong>YAML OpenAPI specs</strong>, improving compatibility with tooling ecosystems using YAML-based contracts.</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39039">PR #39039</a> | <a href="https://github.com/BerriAI/litellm/pull/38952">PR #38952</a></p>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<p><em>No direct performance improvements landed today</em>, but foundational work continues:  </p>
-<ul>
-<li><strong>PR #39021</strong>: Introduces validation of release wheel contracts (symbols, imports, size &lt; 20MB), preventing future regressions in native extension loading.  </li>
-<li><strong>PR #39026</strong>: Refactors Rust-Python interop layer into a domain-neutral crate (<code>litellm-python-interop</code>), reducing coupling and improving maintainability for future optimizations.</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39021">PR #39021</a> | <a href="https://github.com/BerriAI/litellm/pull/39026">PR #39026</a></p>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<p>Top stability issues reported today (ranked by impact):  </p>
-<ol>
-<li><p><strong>Model Access Groups leak into <code>/v1/models</code> response</strong> <em>(Issue #25550)</em>  </p>
-<ul>
-<li><strong>Severity</strong>: High  </li>
-<li><strong>Impact</strong>: Security risk: access group names exposed even when referenced models don’t exist.  </li>
-<li><strong>Fix Status</strong>: Pending merge (no fix PR yet).</li>
-</ul>
-</li>
-<li><p><strong><code>output_parse_pii</code> has no effect with Presidio</strong> <em>(Issue #14516)</em>  </p>
-<ul>
-<li><strong>Severity</strong>: Medium  </li>
-<li><strong>Impact</strong>: PII masking not enforced despite configuration.  </li>
-<li><strong>Fix Status</strong>: Closed; likely requires re-evaluation of middleware pipeline order.</li>
-</ul>
-</li>
-<li><p><strong><code>request_timeout</code> never fires on silent upstreams</strong> <em>(Issue #38358)</em>  </p>
-<ul>
-<li><strong>Severity</strong>: High  </li>
-<li><strong>Impact</strong>: Requests hang indefinitely if upstream accepts TCP but never sends data.  </li>
-<li><strong>Fix Status</strong>: PR pending — see <a href="https://github.com/BerriAI/litellm/issues/38358">PR #38358</a>.</li>
-</ul>
-</li>
-<li><p><strong>Gemini reasoning content leaks into output_text</strong> <em>(Issue #36929)</em>  </p>
-<ul>
-<li><strong>Severity</strong>: Medium  </li>
-<li><strong>Impact</strong>: Breaks strict <code>json_schema</code> enforcement when <code>reasoning.effort=medium|high</code>.  </li>
-<li><strong>Fix Status</strong>: No fix PR yet.</li>
-</ul>
-</li>
-</ol>
-<p>👉 <a href="https://github.com/BerriAI/litellm/issues/25550">Issue #25550</a> | <a href="https://github.com/BerriAI/litellm/issues/14516">Issue #14516</a> | <a href="https://github.com/BerriAI/litellm/issues/38358">Issue #38358</a> | <a href="https://github.com/BerriAI/litellm/issues/36929">Issue #36929</a></p>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Use <code>GET /v2/team/list</code> only after updating to latest stable</strong>: Until PR #39045 merges, model aliases won’t be visible in team responses — this impacts agent routing and audit tools relying on metadata.  </li>
-<li><strong>Avoid setting <code>output_parse_pii=True</code> with Presidio until confirmed</strong>: The current behavior is inconsistent, risking compliance gaps.  </li>
-<li><strong>Monitor timeouts carefully</strong>: If your app uses slow or unreliable providers (e.g., custom endpoints), ensure <code>request_timeout</code> is properly configured — it may not trigger as expected.  </li>
-<li><strong>Leverage new logging enhancements</strong>: With PRs like #38979 and #38974, you can now enforce per-team observability across all provider routes, enabling better cost and usage tracking.  </li>
-<li><strong>Prepare for stricter credential management</strong>: Future versions will enforce credential scope at the team level (PR #38932), so validate your deployment configurations early.</li>
-</ul>
-<p>➡️ <strong>Actionable Tip</strong>: Audit your virtual key usage and <code>model_aliases</code> setup now — missing alias visibility could break production routing logic.</p>
-</details>
-
-<details>
-<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
-
-<h1><strong>Unsloth Digest – 2026-09-01</strong></h1>
-<hr>
-<h3><strong>1. Today&#39;s Highlights</strong></h3>
-<p>The Unsloth ecosystem continues to mature with a strong focus on <strong>security hardening</strong>, <strong>multi-model compatibility</strong>, and <strong>UX polish</strong> in Studio. Key developments include the introduction of OS-level sandboxes for tool execution (via bubblewrap/Seatbelt), fixes for AMD ROCm BF16 detection and training crashes, and critical improvements to MLX context length handling. The team is actively addressing model loading issues across GGUF variants—particularly Qwen3.8-Flash-Next-GGUF—and improving Ollama integration reliability.</p>
-<hr>
-<h3><strong>2. Releases &amp; Breaking Changes</strong></h3>
-<p><em>No new releases in the last 24 hours.</em><br>However, several PRs indicate upcoming breaking changes:</p>
-<ul>
-<li><strong>PR #7101</strong> introduces mandatory sandboxing for <code>python</code> and <code>terminal</code> tools in Studio (Linux: <code>bubblewrap</code>, macOS: <code>Seatbelt</code>). This will affect workflows relying on direct filesystem access or environment variables.</li>
-<li><strong>PR #9858</strong> changes GPU visibility reporting to reflect actual OS-detected devices—not just PyTorch-opened ones—potentially altering UI behavior on multi-GPU systems.</li>
-<li><strong>PR #10104</strong> adjusts shutdown logic by informing the browser about the bootstrap deadline, preventing silent failures during initial setup.</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/pull/7101">PR #7101</a> | <a href="https://github.com/unslothai/unsloth/pull/9858">PR #9858</a> | <a href="https://github.com/unslothai/unsloth/pull/10104">PR #10104</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. New Model &amp; Hardware Support</strong></h3>
-<h4>✅ <strong>Newly Supported Models</strong></h4>
-<ul>
-<li><strong>Qwen3.8-Flash-Next-GGUF</strong>: Currently blocked due to unsupported architecture (<code>qwen4exp</code>) in <code>llama.cpp</code>. Issue <a href="https://github.com/unslothai/unsloth/issues/10015">#10015</a> tracks progress.</li>
-<li><strong>Wan2.2-TI2V-5B</strong>: Identified as requiring ~66.5 GB VRAM on 16 GB cards due to SDPA fallback; not a model issue but a backend memory inefficiency.</li>
-<li><strong>Deepseek models</strong>: Issue <a href="https://github.com/unslothai/unsloth/issues/10047">#10047</a> reports unexpected re-downloads during runtime.</li>
-</ul>
-<h4>🧠 <strong>Backend &amp; Hardware Advances</strong></h4>
-<ul>
-<li><strong>AMD ROCm (gfx1032/gfx1200/gfx1201)</strong>: Multiple PRs address hardware-specific issues:<ul>
-<li>Fix BF16 support detection (<a href="https://github.com/unslothai/unsloth/pull/7682">#7682</a>)</li>
-<li>Prevent <code>torch.compile</code> on Windows when Triton can’t JIT (<a href="https://github.com/unslothai/unsloth/pull/7704">#7704</a>)</li>
-<li>Gate GPU selection based on torch build arch coverage (<a href="https://github.com/unslothai/unsloth/pull/8791">#8791</a>)</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/issues/10015">Issue #10015</a> | <a href="https://github.com/unslothai/unsloth/pull/7682">PR #7682</a> | <a href="https://github.com/unslothai/unsloth/pull/8791">PR #8791</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. Performance &amp; Optimization</strong></h3>
-<h4>⚡ <strong>Latency &amp; Memory Improvements</strong></h4>
-<ul>
-<li><strong>MLX Context Length Fix</strong>: PR <a href="https://github.com/unslothai/unsloth/pull/8125">#8125</a> resolves a critical bug where MLX-served models ran at a hardcoded 4096-token limit regardless of actual model config. Now uses real context length from model metadata.</li>
-<li><strong>Prompt Cache Reuse</strong>: Issue <a href="https://github.com/unslothai/unsloth/issues/10031">#10031</a> highlights that MLX prompt cache isn&#39;t reused for Qwen3.8-27B due to <code>ArraysCache</code> layout mismatch—impacting inference speed for long sequences.</li>
-</ul>
-<h4>📈 <strong>Inference Efficiency</strong></h4>
-<ul>
-<li><strong>Ollama Integration</strong>: PRs like <a href="https://github.com/unslothai/unsloth/pull/10110">#10110</a> and <a href="https://github.com/unslothai/unsloth/issues/10051">#10051</a> aim to unify and stabilize Ollama inventory scanning, reducing redundant model indexing and improving load times.</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/pull/8125">PR #8125</a> | <a href="https://github.com/unslothai/unsloth/issues/10031">Issue #10031</a> | <a href="https://github.com/unslothai/unsloth/pull/10110">PR #10110</a></p>
-</blockquote>
-<hr>
-<h3><strong>5. Stability &amp; Regressions</strong></h3>
-<table>
-<thead>
-<tr>
-<th>Severity</th>
-<th>Issue</th>
-<th>Impact</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 High</td>
-<td><strong>Studio: SQLite deadlock under concurrent DB access</strong> (<a href="https://github.com/unslothai/unsloth/issues/10022">#10022</a>)</td>
-<td>Backend becomes unresponsive; affects multi-user/local workflows</td>
-<td>Open</td>
-</tr>
-<tr>
-<td>🔴 High</td>
-<td><strong>Qwen3.5 bnb-4bit crash on forward pass</strong> (<a href="https://github.com/unslothai/unsloth/issues/9867">#9867</a>)</td>
-<td>Training fails immediately due to undequantized packed weights</td>
-<td>Open</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><strong>Studio corrupts parallel tool-call arguments into malformed JSON</strong> (<a href="https://github.com/unslothai/unsloth/issues/9807">#9807</a>)</td>
-<td>Causes HTTP 400 errors in subsequent turns</td>
-<td>Closed</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><strong>Ollama models show wrong source, crash schema</strong> (<a href="https://github.com/unslothai/unsloth/issues/9986">#9986</a>)</td>
-<td>Inventory fails to populate; breaks UI state</td>
-<td>Open</td>
-</tr>
-<tr>
-<td>🟡 Medium</td>
-<td><strong>Deepresearch hardcoded to 127.0.0.1</strong> (<a href="https://github.com/unslothai/unsloth/issues/10109">#10109</a>)</td>
-<td>Prevents remote deployment via LAN</td>
-<td>Open</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/issues/10022">Issue #10022</a> | <a href="https://github.com/unslothai/unsloth/issues/9867">Issue #9867</a> | <a href="https://github.com/unslothai/unsloth/issues/9807">Issue #9807</a></p>
-</blockquote>
-<hr>
-<h3><strong>6. What This Means for Application Developers</strong></h3>
-<ul>
-<li><strong>Security-first deployments</strong>: Expect stricter sandboxing in Studio (via <code>bubblewrap</code>/<code>Seatbelt</code>). If your agent relies on file system or env var access, test now—this may break existing tool scripts.</li>
-<li><strong>Model portability</strong>: Be cautious with newer GGUF models (especially Qwen variants). Always verify <code>llama.cpp</code> compatibility before deployment.</li>
-<li><strong>Cross-platform stability</strong>: AMD users should avoid <code>BF16</code> on gfx10 GPUs until PR <a href="https://github.com/unslothai/unsloth/pull/7682">#7682</a> lands. Use <code>--disable-bf16</code> if needed.</li>
-<li><strong>API resilience</strong>: Tool call argument formatting bugs (e.g., <a href="https://github.com/unslothai/unsloth/issues/9807">#9807</a>) suggest robust error handling is essential—don’t assume valid JSON input.</li>
-<li><strong>Future-proofing</strong>: Monitor the unified Ollama inventory effort (<a href="https://github.com/unslothai/unsloth/issues/10051">#10051</a>) to avoid double-scanning or missing models.</li>
-</ul>
-<blockquote>
-<p>✅ Pro Tip: Use <code>--fit-target</code> (from PR #4882) to optimize GGUF loading for specific hardware—critical for edge deployments.</p>
-</blockquote>
-<hr>
-<p><em>Digest generated: 2026-09-01 | Source: <a href="https://github.com/unslothai/unsloth">unslothai/unsloth GitHub</a></em></p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
 ]]></content:encoded>
     </item>
   </channel>
