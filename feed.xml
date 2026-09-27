@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 22:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:45:24 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-09-28</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-28/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-28/ai-picks</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-09-28 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. There are no &amp;quot;rogue&amp;quot; AI agents 推荐分：85/100 · HN 313 points · 235 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. Ember-1 推荐分：85/100 · HN 277 points · 156 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Show HN: TinyAIArena watch AI agents battle it out 推荐分：78/100 · HN 90 points · 40 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-28</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">There are no &quot;rogue&quot; AI agents</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 313 points · 235 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49868083">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://fireworks.ai/blog/ember-1">Ember-1</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 277 points · 156 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49868830">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://tinyaiarena.com/">Show HN: TinyAIArena watch AI agents battle it out</a></h3>
+<p><strong>推荐分：78/100</strong> · HN 90 points · 40 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 19/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49867775">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 592 points · 569 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49863864">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://arxiv.org/abs/2609.25021">&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</a></h3>
+<p><strong>推荐分：75/100</strong> · HN 97 points · 100 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 30/35、讨论 20/20、时效 15/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=49865343">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">85</td>
+<td><a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">There are no &quot;rogue&quot; AI agents</a></td>
+<td align="right">313</td>
+<td align="right">235</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">85</td>
+<td><a href="https://fireworks.ai/blog/ember-1">Ember-1</a></td>
+<td align="right">277</td>
+<td align="right">156</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">78</td>
+<td><a href="https://tinyaiarena.com/">Show HN: TinyAIArena watch AI agents battle it out</a></td>
+<td align="right">90</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">75</td>
+<td><a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</a></td>
+<td align="right">592</td>
+<td align="right">569</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">75</td>
+<td><a href="https://arxiv.org/abs/2609.25021">&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</a></td>
+<td align="right">97</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">71</td>
+<td><a href="https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/">An agent used DNS to reach an external chatbot</a></td>
+<td align="right">162</td>
+<td align="right">157</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">68</td>
+<td><a href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705">How to keep enjoying programming in a world of LLMs</a></td>
+<td align="right">322</td>
+<td align="right">330</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></td>
+<td align="right">1802</td>
+<td align="right">1129</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">67</td>
+<td><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></td>
+<td align="right">780</td>
+<td align="right">801</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">67</td>
+<td><a href="https://swarmtraces.org/">Revealing the details of how OpenAI agents hacked Hugging Face</a></td>
+<td align="right">737</td>
+<td align="right">463</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">67</td>
+<td><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></td>
+<td align="right">495</td>
+<td align="right">881</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">67</td>
+<td><a href="https://transluce.org/agent-activity">Early rogue AI agent activity and attempts to hack found on urlquery.net</a></td>
+<td align="right">265</td>
+<td align="right">309</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">65</td>
+<td><a href="https://tangled.org/yanndegat.tngl.sh/drawgent">Drawgent: Coding agent on a live Excalidraw canvas</a></td>
+<td align="right">173</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">65</td>
+<td><a href="https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot">Microsoft abandons personal AI chatbot race with Copilot reboot</a></td>
+<td align="right">154</td>
+<td align="right">147</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">65</td>
+<td><a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">A single function Jev-like wrapper for LLMs, including vision models</a></td>
+<td align="right">150</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">64</td>
+<td><a href="https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical">Using LLMs to trace alchemical knowledge and decode 17th century letters</a></td>
+<td align="right">172</td>
+<td align="right">43</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">64</td>
+<td><a href="https://www.bbc.com/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US Government agency sites</a></td>
+<td align="right">126</td>
+<td align="right">190</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">64</td>
+<td><a href="https://www.privatemode.ai/blog/system-one-from-glm-flash">Turning GLM-5.3-Flash into a Jev-like decision model</a></td>
+<td align="right">125</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">62</td>
+<td><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></td>
+<td align="right">1774</td>
+<td align="right">855</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">62</td>
+<td><a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">Linux support is coming to Snapdragon X2 series</a></td>
+<td align="right">624</td>
+<td align="right">271</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">62</td>
+<td><a href="https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed">How I changed teaching after AI managed to do all my homework assignments</a></td>
+<td align="right">280</td>
+<td align="right">269</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">62</td>
+<td><a href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us">&#39;That&#39;s so AI &#39; What gen Alpha&#39;s biggest insult tells us</a></td>
+<td align="right">213</td>
+<td align="right">317</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">61</td>
+<td><a href="https://contrastive-lm.notion.site/">Contrastive Language Models</a></td>
+<td align="right">175</td>
+<td align="right">58</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">60</td>
+<td><a href="https://earnanhonestdollar.com/bench">Calling the AI bluff: Adding &quot;Do not guess&quot; cut made-up claims from 71% to 20%</a></td>
+<td align="right">23</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">59</td>
+<td><a href="https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r">Tutoring company tells parents to save their money and &#39;use AI instead&#39;</a></td>
+<td align="right">142</td>
+<td align="right">231</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">59</td>
+<td><a href="https://dashbit.co/blog/evolving-ai-era">Evolving programming languages in the AI era</a></td>
+<td align="right">135</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">58</td>
+<td><a href="https://ampdot.mesh.host/token-space-fonts.html">Generate fonts where every LLM token is the same width</a></td>
+<td align="right">87</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">50</td>
+<td><a href="https://twitter.com/__tinygrad__/status/2044354852663558370">George Hotz’s opinion on AI coding</a></td>
+<td align="right">5</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">45</td>
+<td><a href="https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/">An OpenAI agent escaped its sandbox by hiding questions in DNS lookups</a></td>
+<td align="right">11</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">40</td>
+<td><a href="https://news.ycombinator.com/item?id=49867620">Ask HN: Allow agents access to cloud files with least privilege?</a></td>
+<td align="right">3</td>
+<td align="right">2</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-09-27</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-09-27/ai-picks</link>
@@ -11836,721 +12101,6 @@
 
 <hr>
 <p><em>This digest is auto-generated by <a href="https://github.com/duanyytop/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 基础设施日报 2026-09-01</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-infra</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-01/ai-infra</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI 基础设施日报 2026-09-01 生成时间: 2026-09-01 01:23 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 跨项目 AI 基础设施生态报告 – 2026-09-01 1. 生态概览 AI 推理与服务生态正进入 深度专业化与跨层融合 的阶段。各项目在定位上日益分化：vLLM 和 SGLang 在高性能分布式推理领域引领潮流，llama.cpp 在本地边缘计算及 Apple Silicon 优化方面占据主导，Ollama 提供开发者友好的模型访问入口，LiteLLM 作为通用代理层实现统一调度，Unsloth 则聚焦于训练、微调与安全代理执行的交汇点。一个清晰的趋势是向 多架构支持（Intel XPU、AMD ROCm、Apple Metal） 和 结构化输出可靠性 持续演进，背后驱动的是对生产级智能体系统的需求。 2. 活跃度对比 项目 当前开放议题数 合并/活跃的 PR 数 过去 24 小时发布数 vLLM 15 8 无 SGLang 13 7 无 llama.cpp 10 ...</description>
-      <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-09-01</h1>
-<blockquote>
-<p>生成时间: 2026-09-01 01:23 UTC | 覆盖项目: 6 个</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
-<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
-<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
-<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
-<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
-<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
-</ul>
-<hr>
-<h2>横向对比</h2>
-<h1><strong>跨项目 AI 基础设施生态报告 – 2026-09-01</strong></h1>
-<hr>
-<h3><strong>1. 生态概览</strong></h3>
-<p>AI 推理与服务生态正进入 <em>深度专业化与跨层融合</em> 的阶段。各项目在定位上日益分化：vLLM 和 SGLang 在高性能分布式推理领域引领潮流，llama.cpp 在本地边缘计算及 Apple Silicon 优化方面占据主导，Ollama 提供开发者友好的模型访问入口，LiteLLM 作为通用代理层实现统一调度，Unsloth 则聚焦于训练、微调与安全代理执行的交汇点。一个清晰的趋势是向 <strong>多架构支持（Intel XPU、AMD ROCm、Apple Metal）</strong> 和 <strong>结构化输出可靠性</strong> 持续演进，背后驱动的是对生产级智能体系统的需求。</p>
-<hr>
-<h3><strong>2. 活跃度对比</strong></h3>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>当前开放议题数</th>
-<th>合并/活跃的 PR 数</th>
-<th>过去 24 小时发布数</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>vLLM</strong></td>
-<td>15</td>
-<td>8</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>SGLang</strong></td>
-<td>13</td>
-<td>7</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>llama.cpp</strong></td>
-<td>10</td>
-<td>6</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>Ollama</strong></td>
-<td>10</td>
-<td>5</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>LiteLLM</strong></td>
-<td>9</td>
-<td>4</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>Unsloth</strong></td>
-<td>12</td>
-<td>6</td>
-<td>无</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🔍 <em>观察</em>：所有项目均未在昨日发布新版本，表明当前重心在于稳定性保障与功能打磨，而非增量更新。vLLM 在活跃 PR 数量上领先，反映出其作为性能基准的核心地位。</p>
-</blockquote>
-<hr>
-<h3><strong>3. 模型支持竞赛</strong></h3>
-<table>
-<thead>
-<tr>
-<th>新模型 / 架构</th>
-<th>支持情况</th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>DeepSeek-V4-Pro (DSA/MLA)</strong></td>
-<td>✅ vLLM（Intel XPU）、✅ SGLang</td>
-<td>首个在多个框架中实现 Intel XPU 全面支持的大型模型</td>
-</tr>
-<tr>
-<td><strong>Qwen3.8-Flash-Next</strong></td>
-<td>✅ vLLM、✅ SGLang、✅ llama.cpp</td>
-<td>vLLM 实现完整 MoE + 前缀缓存；SGLang 存在 QSA+NEXTN 解码损坏问题</td>
-</tr>
-<tr>
-<td><strong>GLM-5.3-Flash (GLM-5-Next)</strong></td>
-<td>✅ SGLang、✅ llama.cpp</td>
-<td>SGLang 现已支持 GLM-5.3 视觉配置</td>
-</tr>
-<tr>
-<td><strong>DeepSeek-V4-Flash-Vision-Exp</strong></td>
-<td>✅ llama.cpp</td>
-<td>唯一支持完整视觉模型的项目</td>
-</tr>
-<tr>
-<td><strong>Wan2.2-TI2V-5B</strong></td>
-<td>✅ Unsloth</td>
-<td>因 SDPA 回退导致高显存占用</td>
-</tr>
-<tr>
-<td><strong>Qwen3.8-Flash-Next-GGUF</strong></td>
-<td>❌ Unsloth（受阻）、⚠️ 其他项目（部分支持）</td>
-<td>llama.cpp 后端缺少 <code>qwen4exp</code> 支持</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🏆 <strong>领先者</strong>：<strong>vLLM</strong> 与 <strong>SGLang</strong> 在前沿模型支持方面领先，尤其在 MoE 与混合架构场景表现突出。<strong>llama.cpp</strong> 在 GGUF 及具备视觉能力的模型可用性上占优，而 <strong>Unsloth</strong> 在较新的 GGUF 变体支持上相对滞后。</p>
-</blockquote>
-<hr>
-<h3><strong>4. 性能前沿</strong></h3>
-<table>
-<thead>
-<tr>
-<th>优化方向</th>
-<th>主要项目</th>
-<th>关键进展</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>KV 缓存与推测解码</strong></td>
-<td>vLLM、SGLang</td>
-<td>vLLM 中草稿同步与预填充重叠；SGLang 实现 HiSparse 稀疏注意力；vLLM 引入 suffix_gpu 草稿器</td>
-</tr>
-<tr>
-<td><strong>量化与后端融合</strong></td>
-<td>vLLM、llama.cpp</td>
-<td>vLLM 实现 FlashInfer SM90 MXFP4 x FP8 融合 MoE；XOR swizzle flash attention（CUDA）；radix TOP_K（ROCm）</td>
-</tr>
-<tr>
-<td><strong>批处理与内核效率</strong></td>
-<td>vLLM、llama.cpp</td>
-<td>Split-row Triton 流水线（小批量）；AVX2 向量化 IQ 解码</td>
-</tr>
-<tr>
-<td><strong>分布式服务与可扩展性</strong></td>
-<td>SGLang</td>
-<td>PD 分离统一化、HiCache L3 存储、权重缓存守护进程（启动时间 &lt;1 秒）</td>
-</tr>
-<tr>
-<td><strong>边缘与本地运行时</strong></td>
-<td>llama.cpp、Unsloth</td>
-<td>Metal（M1 Ultra）、ROCm（gfx950）、MLX 上下文长度修复（Unsloth）</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🚀 <strong>趋势</strong>：前沿焦点正从原始吞吐量转向 <strong>高效状态管理</strong>——尤其是长上下文、低延迟的推测解码以及内存感知的 KV 缓存策略。</p>
-</blockquote>
-<hr>
-<h3><strong>5. 层级定位</strong></h3>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>层级定位</th>
-<th>核心差异化</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>vLLM</strong></td>
-<td><strong>高性能服务引擎</strong></td>
-<td>优化的内核调度、MTP、结构化输出</td>
-</tr>
-<tr>
-<td><strong>SGLang</strong></td>
-<td><strong>分布式推理框架</strong></td>
-<td>PD 分离、HiCache、多模型编排</td>
-</tr>
-<tr>
-<td><strong>llama.cpp</strong></td>
-<td><strong>本地运行时 / 边缘推理</strong></td>
-<td>跨平台后端（Metal、CUDA、ROCm）、GGUF 优先策略</td>
-</tr>
-<tr>
-<td><strong>Ollama</strong></td>
-<td><strong>开发者网关 / 模型编排器</strong></td>
-<td>统一 CLI/API、MLX/llama.cpp 集成、面向代理的友好体验</td>
-</tr>
-<tr>
-<td><strong>LiteLLM</strong></td>
-<td><strong>通用代理与路由层</strong></td>
-<td>多提供方路由、团队级可观测性、虚拟密钥</td>
-</tr>
-<tr>
-<td><strong>Unsloth</strong></td>
-<td><strong>代理训练与安全执行工作室</strong></td>
-<td>沙箱化工具执行、Ollama 集成、微调工作流</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>💡 <strong>洞察</strong>：整个技术栈正变得越来越分层——开发者不再仅关心 <em>运行什么</em>，更需决策 <em>在哪里运行</em>、<em>如何运行</em> 以及 <em>具备何种安全保证</em>。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 趋势信号</strong></h3>
-<h4>🔹 <strong>提取的关键行业趋势</strong>：</h4>
-<ol>
-<li><strong>硬件多样化已成为主流</strong>：Intel XPU、AMD ROCm（gfx1200/gfx1201）、Apple M1 Ultra 均拥有专属优化，表明不存在单一主导架构。</li>
-<li><strong>结构化输出可靠性已成为关键瓶颈</strong>：多个项目报告工具调用解析失败（vLLM、SGLang、Ollama），表明智能体工作流正遭遇接口层级的脆弱性。</li>
-<li><strong>推测解码正迈向生产就绪</strong>：内核重叠、GPU/CPU 卸载、异步调度（suffix_gpu）等特性表明该技术已非实验性质。</li>
-<li><strong>安全加固成为必需项</strong>：Unsloth 强制启用沙箱（bubblewrap/Seatbelt）反映了对代理中不安全工具执行的日益关注。</li>
-<li><strong>可观测性正在向上迁移</strong>：<code>prompt_eval_cached_count</code>、<code>request_timeout</code> 强制执行、团队级日志等指标正通过 API 暴露——这对成本控制与调试至关重要。</li>
-</ol>
-<h4>📌 <strong>应用开发者应重点关注事项</strong>：</h4>
-<ul>
-<li><strong>避免在 Windows/NVIDIA 平台使用 v0.33.0 Ollama</strong>，存在 TDR 崩溃风险。</li>
-<li><strong>在并发环境下验证工具调用解析器</strong>——预计 Qwen3/Gemma4 直到修复上线前仍不稳定。</li>
-<li><strong>预热引擎以实现确定性推理</strong>（vLLM 新采样器预热机制会增加冷启动延迟）。</li>
-<li><strong>监控基于 MLX 的后端内存泄漏问题</strong>（Ollama、Unsloth）。</li>
-<li><strong>为响应格式语义的潜在变更做好准备</strong>（例如 <code>strict=false</code> 在 vLLM 中禁用引导式解码）。</li>
-</ul>
-<blockquote>
-<p>✅ <strong>最终观点</strong>：基础设施正在快速成熟——但 <strong>稳定性、正确性与可观测性</strong> 已成为核心差异化因素。选择工具不应只看速度，更要考量其在真实代理负载下的韧性表现。</p>
-</blockquote>
-<hr>
-<h2>各项目详细报告</h2>
-<details>
-<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
-
-<p><strong>vLLM Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. 今日亮点</strong></h3>
-<p>vLLM 项目持续强化对多种模型的推测解码（MTP）和结构化输出解析的支持，修复了 Qwen3 与 Gemma4 工具调用的可靠性问题。关键进展包括在 Intel XPU 上启用 DeepSeek-V4-Pro，并推进带种子推理路径的多配置采样器预热机制——这对确定性代理工作流至关重要。</p>
-<hr>
-<h3><strong>2. 发布与破坏性变更</strong></h3>
-<p><em>过去 24 小时内无新版本发布。</em><br>然而，当前合并请求（PR）中的变动表明，以下行为可能产生破坏性变化：  </p>
-<ul>
-<li><strong>带种子采样</strong>：PR <a href="https://github.com/vllm-project/vllm/pull/54630">#54630</a> 引入了按路径的内核预热机制，可能影响带种子请求的冷启动延迟。  </li>
-<li><strong>结构化输出</strong>：PR <a href="https://github.com/vllm-project/vllm/pull/50544">#50544</a> 修改了 <code>response_format</code> 中 <code>strict=false</code> 的处理逻辑，与 OpenAI 语义对齐——依赖宽松模式校验的用户现在必须显式禁用引导式解码。</li>
-</ul>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<ul>
-<li>✅ <strong>Intel XPU 支持扩展</strong>：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54460">#54460</a> 实现了在 Intel Arc Pro B70（XPU）上部署 <strong>DeepSeek-V4-Pro (DSA/MLA)</strong>，支持 FP8 块缩放权重及 CPU 卸载。  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/49303">#49303</a> 为 XPU 上的 MXFP8 量化模型新增 <strong>序列并行（SP）</strong> 支持。</li>
-</ul>
-</li>
-<li>✅ <strong>新量化后端</strong>：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54032">#54032</a> 引入全新 <strong>FlashInfer SM90 MXFP4 x FP8 融合 MoE 后端</strong>，专为 Blackwell GPU 高性能推理优化。</li>
-</ul>
-</li>
-<li>✅ <strong>Qwen3-Next (GDN) 混合模型</strong>：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/50172">#50172</a> 在 V1 引擎上实现 <code>mamba_cache_mode=&quot;all&quot;</code> 模型的完整 <strong>前缀缓存 + MTP 推测解码</strong> 支持。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<ul>
-<li>🚀 <strong>推测解码重叠优化</strong>：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54656">#54656</a> 实现 <strong>草稿续写 DP 同步与预填充阶段的重叠</strong>，减少数据并行环境下的空闲时间。  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/52097">#52097</a> 新增 <strong>suffix_gpu 草稿生成器</strong> 支持异步调度——显著提升重复性代理任务中 CPU/GPU 的重叠效率。</li>
-</ul>
-</li>
-<li>🔧 <strong>内核级优化</strong>：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/49529">#49529</a> 采用 PTX 9.4 的 <code>ldmatrix.s8.s4</code> 指令用于 W4A8-INT8 路径，实现硬件加速的 INT4→INT8 符号扩展——预计在新型架构上提升吞吐量。  </li>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/54651">#54651</a> 引入 <strong>分行 Triton 流水线</strong> 用于小批量 top-p 掩码，优化低吞吐场景下的执行效率。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<p>⚠️ <strong>严重崩溃与正确性缺陷报告</strong>：  </p>
-<ul>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/54521">Bug #54521</a></strong>：<code>Qwen3.8-Flash-Next-FP8</code> 在提示词接近 <code>indexer_budget</code> 时，因 <code>persistent_topk</code> 导致非确定性贪婪解码。<em>修复待定。</em>  </li>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/54225">Bug #54225</a></strong>：在 sm_120 上使用 NVFP4 + FP8 KV 缓存时发生 CUDA 非法内存访问；16 token 请求会崩溃。TRITON_ATTN 未受影响。<em>高危，暂无修复。</em>  </li>
-<li><strong><a href="https://github.com/vllm-project/vllm/issues/42426">Bug #42426</a></strong>：Kimi-K2.6 间歇性仅输出 <code>&quot;!!!!!!!!!!&quot;</code>，内容为空。<em>影响广泛；正在排查修复。</em></li>
-</ul>
-<p>📌 <strong>工具调用解析稳定性问题</strong>：  </p>
-<ul>
-<li>多个问题暴露了解析逻辑不稳：  <ul>
-<li>PR <a href="https://github.com/vllm-project/vllm/pull/53365">#53365</a> 恢复缺失的 <code>tool_call_parser_invocations_total</code> 指标。  </li>
-<li>PRs 如 <a href="https://github.com/vllm-project/vllm/issues/39056">#39056</a> 与 <a href="https://github.com/vllm-project/vllm/issues/39392">#39392</a> 报告在 <code>&lt;think&gt;</code> 内部解析 XML 工具调用失败，以及并发请求导致的数据污染。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>6. 对应用开发者的启示</strong></h3>
-<ul>
-<li><strong>谨慎使用带种子或确定性推理</strong>：PR <a href="https://github.com/vllm-project/vllm/pull/54630">#54630</a> 中引入的新采样器预热机制可能增加冷启动延迟——生产环境中部署代理前建议预先预热引擎。  </li>
-<li><strong>在高并发下验证工具调用解析器</strong>：在诸如 <a href="https://github.com/vllm-project/vllm/issues/54225">#54225</a> 等问题修复前，避免在高并发环境下使用 <code>gemma4</code> 与 <code>qwen3</code> 的工具调用解析器。  </li>
-<li><strong>利用新后端提升性能</strong>：启用 <code>--moe-backend flashinfer_cutlass_humming</code>（PR <a href="https://github.com/vllm-project/vllm/pull/54032">#54032</a>）和 <code>suffix_gpu</code> 草稿生成器（PR <a href="https://github.com/vllm-project/vllm/pull/52097">#52097</a>），以在代理与批处理任务中获得更优吞吐。  </li>
-<li><strong>更新响应格式逻辑</strong>：随着 PR <a href="https://github.com/vllm-project/vllm/pull/50544">#50544</a>，<code>strict=false</code> 现在将禁用引导式解码——请确保应用能正确处理模式松弛。</li>
-</ul>
-<blockquote>
-<p>🔗 <em>关注关键问题与合并请求：</em> <a href="https://github.com/vllm-project/vllm">vLLM GitHub</a></p>
-</blockquote>
-</details>
-
-<details>
-<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
-
-<p><strong>SGLang 消息简报 – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. 今日重点</strong></h3>
-<p>SGLang 项目持续加速推进<strong>分布式推理可扩展性</strong>，在<strong>PD 分离统一化</strong>、<strong>HiCache L3 存储集成</strong>以及<strong>Qwen3.8-Flash-Next 和 GLM-5.3-Flash 的多模型支持</strong>方面取得重大进展。针对 CUDA 核心转储、PD 分离下的推测解码以及 QSA+NEXTN 解码图中的静默输出损坏问题，已合并关键稳定性修复——凸显了对生产级智能体工作负载稳定性的持续投入。</p>
-<hr>
-<h3><strong>2. 发布与破坏性变更</strong></h3>
-<p><em>无</em> — 过去 24 小时内未发布新版本。然而，多个高优先级的 PR 正在积极评审中，聚焦于运行时稳定性和兼容性（如 #37322、#37321）。</p>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<ul>
-<li><strong>Qwen3.8-Flash-Next</strong>：现已完整支持 <code>nextn</code> 草稿处理和 <code>qsa</code> 解码路径；PR #37322 与 #37316 解决了量化和权重加载相关问题。  </li>
-<li><strong>GLM-5.3-Flash</strong>：新增对可选视觉配置及 NextN 权重加载的支持（#37321），解决了初始化失败问题。  </li>
-<li><strong>MiniMax-M3</strong>：通过融合归一化与 MoE all-reduce 折叠，增强 MXFP8/MXFP4 量化支持（#36575、#36574）。  </li>
-<li><strong>AMD ROCm</strong>：针对 gfx950（MiMo-V2.5-Pro）进行性能优化，改进 rope_cache 内核分组策略（#37315）。  </li>
-<li><strong>Intel XPU</strong>：#37193 包含每周启用更新，进一步扩展跨架构支持。</li>
-</ul>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<ul>
-<li><strong>权重缓存守护进程（第一阶段）</strong>：在 Qwen3-235B FP8 上，引擎启动时间从约 327 秒降至 <strong>&lt;1 秒</strong>（<a href="https://www.lmsys.org/blog/2026-08-21-sglang-weight-cache-daemon">博客</a>）。  </li>
-<li><strong>HiSparse</strong>：通过仅在 HBM 中保留热工作集，实现长上下文稀疏注意力，显著降低解码期间的 GPU 内存占用（#28874）。  </li>
-<li><strong>ROCm 优化</strong>：融合 rope_cache + 缓存内核在 gfx950 上实现 <strong>2.15–2.5 倍加速</strong>，gpt-oss 形状下测得高达 813 GB/s。  </li>
-<li><strong>推测解码</strong>：窗口化草稿解码注意力减少 MTP/EAGLE 草稿中的 KV 读取开销，在长前缀场景下提升效率（#32673）。</li>
-</ul>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<p><strong>今日报告的关键问题</strong>：  </p>
-<ul>
-<li>🔴 <strong>Qwen3.8-Flash-Next QSA+NEXTN 解码图损坏</strong>（<code>#37111</code>）：在 GB10 TP2 上观察到静默语义损坏；暂无修复方案。  </li>
-<li>🔴 <strong>在 PD 分离模式下 DFLASH 推测解码崩溃</strong>（<code>#36140</code>）：因 <code>spec_info</code> 为 <code>None</code> 导致崩溃；需临时绕行，直至相关 PR 合并。  </li>
-<li>🔴 <strong>CUDA 核心转储追踪</strong>（<code>#26340</code>）：CI 运行中自动收集到的崩溃事件；269 条评论表明 GPU 内核存在广泛不稳定性。  </li>
-<li>🟡 <strong>HiCache 预取死锁</strong>（<code>#30760</code>）：当 TP=4 且未设置 PP 时，<code>check_prefetch_progress</code> 中触发死锁。  </li>
-<li>🟡 <strong>SGLANG_SIMULATE_ACC_LEN 性能退化</strong>（<code>#34740</code>）：因回退标记逻辑导致静默的 O(n²) 解码。</li>
-</ul>
-<blockquote>
-<p>✅ <em>正在修复中</em>：PR #37322（#36599）、#37321 及 #37316 旨在解决关键模型与状态管理缺陷。</p>
-</blockquote>
-<hr>
-<h3><strong>6. 对应用开发者的意义</strong></h3>
-<ul>
-<li><strong>智能体工作负载</strong>：分布式 KVCache 系统路线图（#21846）与会话感知路由模块（#25760）表明，向可扩展、低延迟智能体服务迈进势头强劲。  </li>
-<li><strong>模型灵活性</strong>：预计未来将更顺畅地集成多模态模型（如 MiMo-V2.5、GLM-5.3-Flash），尤其在即将推出的 HiSparse 与 HiCache L3 支持下。  </li>
-<li><strong>稳定性提醒</strong>：在 #36140 修复前，请避免在 DFLASH 推测解码中使用 <code>--disaggregation-mode decode</code>。注意监控 Qwen3.8-Flash-Next 输出中的静默损坏。  </li>
-<li><strong>CI 可靠性</strong>：报告的不稳定测试数量增多（#17050 中共 11 项），提示关键部署前的预发布验证可能需人工介入。</li>
-</ul>
-<blockquote>
-<p>👉 <em>建议</em>：使用最新 main 版本（<code>sglang:dev-cu13-mimo-v2.5</code>）以获得已知稳定行为；若遇到乱码输出或卡顿，可临时启用 <code>--disable-cuda-graph</code>。</p>
-</blockquote>
-<hr>
-<p><em>来源: <a href="https://github.com/sgl-project/sglang">github.com/sgl-project/sglang</a></em></p>
-</details>
-
-<details>
-<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
-
-<p><strong>llama.cpp 摘要 – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. 今日亮点</strong></h3>
-<p>最新更新聚焦于多个后端的性能与稳定性，重点优化了 Metal（M1/M1 Ultra）、CUDA（XOR swizzle flash attention）和 ROCm（radix TOP_K）的关键内核。新增对 DeepSeek-V4-Flash-Vision-Exp 与 GLM-5.3-Flash 的支持，扩展了模型兼容性，同时针对 Qwen3.8-Flash-Next 等大上下文模型的解码效率开展持续优化。</p>
-<hr>
-<h3><strong>2. 发布与破坏性变更</strong></h3>
-<p>过去 24 小时内未发布新版本标签或破坏性 API 变更。但合并请求（PR）显示即将发生变动：  </p>
-<ul>
-<li><code>llama-server</code> 将从端口 <code>8080</code> 迁移至 <code>9931</code>（GGML 的俚语写法）——详见 <a href="https://github.com/ggml-org/llama.cpp/pull/26508">PR #26508</a>。</li>
-</ul>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<ul>
-<li>✅ <strong>新增模型</strong>：  <ul>
-<li>支持 <strong>DeepSeek-V4-Flash-Vision-Exp</strong> (<a href="https://github.com/ggml-org/llama.cpp/pull/28133">PR #28133</a>)  </li>
-<li>支持 <strong>GLM-5.3-Flash (GLM-5-Next)</strong>，具备混合线性/稀疏 MoE 与视觉塔结构 (<a href="https://github.com/ggml-org/llama.cpp/pull/27754">PR #27754</a>, <a href="https://github.com/ggml-org/llama.cpp/pull/27773">PR #27773</a>)</li>
-</ul>
-</li>
-<li>✅ <strong>硬件后端</strong>：  <ul>
-<li>新增 M1 Ultra Metal 调优 (<a href="https://github.com/ggml-org/llama.cpp/pull/28088">PR #28088</a>)  </li>
-<li>M1 Metal 调优更新 (<a href="https://github.com/ggml-org/llama.cpp/pull/28078">PR #28078</a>)  </li>
-<li>ROCm 现已支持 <strong>长行上的 radix TOP_K</strong> (<a href="https://github.com/ggml-org/llama.cpp/pull/27466">PR #27466</a>)</li>
-</ul>
-</li>
-<li>✅ <strong>量化</strong>：  <ul>
-<li>Metal 现在包含针对量化类型优化的 <code>fa-vec</code> 路径 (<a href="https://github.com/ggml-org/llama.cpp/pull/28116">PR #28116</a>)</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<ul>
-<li><strong>Metal（Apple Silicon）</strong>：  <ul>
-<li>M1 Ultra 增加专用 <code>fa-vec</code> 调优；布局已移至 M1 Max 部分之后以保持一致性 (<a href="https://github.com/ggml-org/llama.cpp/pull/28088">PR #28088</a>)</li>
-</ul>
-</li>
-<li><strong>CUDA</strong>：  <ul>
-<li>XOR swizzle flash attention 的 K/V smem fp16 tile 优化提升了内存聚合度 (<a href="https://github.com/ggml-org/llama.cpp/pull/25635">PR #25635</a>)  </li>
-<li>MOE 融合扩展至推测解码（此前仅限单 token）(<a href="https://github.com/ggml-org/llama.cpp/pull/27621">PR #27621</a>)</li>
-</ul>
-</li>
-<li><strong>ROCm</strong>：  <ul>
-<li>基于 radix 的 TOP_K 实现了长行上更快的 top-k 选择，提升上下文可扩展性 (<a href="https://github.com/ggml-org/llama.cpp/pull/27466">PR #27466</a>)</li>
-</ul>
-</li>
-<li><strong>OpenCL（Intel Xe-LP）</strong>：  <ul>
-<li>优化了 Q4_K/Q5_K 内核，使用 <code>N_DST=8</code> 与 <code>8x8</code> tile 大小，激活重用提升 2 倍 (<a href="https://github.com/ggml-org/llama.cpp/pull/26438">PR #26438</a>)</li>
-</ul>
-</li>
-<li><strong>通用优化</strong>：  <ul>
-<li>AVX2：通过向量化 IQ 面板解码，显著提升 IQ 量化模型的大批量提示处理速度 (<a href="https://github.com/ggml-org/llama.cpp/pull/27402">PR #27402</a>)  </li>
-<li>KV 缓存：在非连续状态恢复期间采用批处理散列读取，降低开销 (<a href="https://github.com/ggml-org/llama.cpp/pull/27991">PR #27991</a>)</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<p>今日报告的关键稳定性问题包括：  </p>
-<ul>
-<li>🔴 <strong>Intel Arc A770/B70 上 SYCL 崩溃</strong>：多次报告出现 <code>dev2dev_memcpy(DEVICE_LOST)</code> 崩溃及负载下 GPU 死锁 (<a href="https://github.com/ggml-org/llama.cpp/issues/27063">#27063</a>, <a href="https://github.com/ggml-org/llama.cpp/issues/25692">#25692</a>)  </li>
-<li>🔴 <strong>Vulkan 管道死锁</strong>：gfx1103（RADV 780M）编译卡死，导致服务器无法启动 (<a href="https://github.com/ggml-org/llama.cpp/issues/27998">#27998</a>)  </li>
-<li>🔴 <strong>ROCm TOP_K 崩溃</strong>：当 <code>ncols &gt; 1024</code> 时因 bitonic 内核块大小溢出导致 <code>invalid configuration argument</code> (<a href="https://github.com/ggml-org/llama.cpp/issues/27021">#27021</a>)  </li>
-<li>🔴 <strong>ROCm 上 DeepSeek-V4 输出混乱</strong>：尚未确认但严重程度高，影响 Strix Halo 系统 (<a href="https://github.com/ggml-org/llama.cpp/issues/25436">#25436</a>)  </li>
-<li>⚠️ <strong>WebGPU 在非 4 倍数偏移时崩溃</strong>：已在 <a href="https://github.com/ggml-org/llama.cpp/pull/28045">PR #28045</a> 中修复——但目前仍无解决方案应对 SYCL 多 GPU 死锁或超过 1K 上下文时 Qwen4exp 解码变慢的问题 (<a href="https://github.com/ggml-org/llama.cpp/issues/27856">#27856</a>)</li>
-</ul>
-<hr>
-<h3><strong>6. 对应用开发者的启示</strong></h3>
-<ul>
-<li><strong>在 Apple Silicon 上优先使用 Metal</strong>：M1 Ultra 与 M1 已获得专用 flash attention 及量化路径优化，建议在 Mac 平台上优先选用 Metal 后端以获得最佳性能。  </li>
-<li><strong>避免在 Intel Arc A770/B70 上使用 SYCL</strong>：已知的 GPU 死锁与崩溃问题尚未解决——生产部署时请考虑降级至 Vulkan 或 CPU。  </li>
-<li><strong>监控 ROCm 上的上下文长度</strong>：在 <a href="https://github.com/ggml-org/llama.cpp/issues/27021">#27021</a> 修复前，请避免使用 <code>ctx_size &gt; 131072</code> 的 DeepSeek-V4-Flash。  </li>
-<li><strong>利用新模型支持</strong>：通过 <code>mtmd</code> 和转换工具集成 <strong>GLM-5.3-Flash</strong> 与 <strong>DeepSeek-V4-Flash-Vision-Exp</strong>——两者均需设置 <code>NVIDIA_TF32_OVERRIDE=0</code> 才能正确输出。  </li>
-<li><strong>准备端口变更</strong>：更新配置与代理以适应 <code>llama-server</code> 从端口 <code>8080</code> 迁移至 <code>9931</code>（参见 <a href="https://github.com/ggml-org/llama.cpp/pull/26508">PR #26508</a>）。</li>
-</ul>
-<blockquote>
-<p><em>建议</em>：对于高吞吐推理，推荐使用 CUDA 或 Metal 并启用 <code>--flash-attn</code>。在稳定补丁发布前，避免在 Intel/AMD 离散显卡上使用 SYCL 与 Vulkan。</p>
-</blockquote>
-</details>
-
-<details>
-<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
-
-<p><strong>Ollama Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. 今日亮点</strong></h3>
-<p>Ollama 生态系统持续扩展对高级多模态及 MoE（专家混合）模型的支持，针对基于 MLX 的 Apple Silicon 和 AMD GPU 推理实现了关键稳定性修复。此前在 v0.33.0 版本中出现的高优先级回归问题——在 Windows/NVIDIA 平台进行多轮对话时导致 GPU 驱动崩溃——现已进入积极修复阶段。与此同时，开发者正推动通过可由 API 访问的云端使用统计数据和改进的错误报告机制，实现更深入的可观测性。</p>
-<hr>
-<h3><strong>2. 发布与重大变更</strong></h3>
-<p><em>过去 24 小时内无新版本发布。</em><br>然而，<strong>v0.33.0</strong> 引入了一个已知回归问题（问题 #18152），在从单轮请求切换到多轮请求时，会导致 Windows 系统上出现 <code>VIDEO_TDR_TIMEOUT_DETECTED</code> 崩溃——影响 NVIDIA 用户。该问题已在多个硬件配置上被报告，目前正处于积极调查中。暂无迁移指引或临时解决方案。</p>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<ul>
-<li>✅ <strong>Granite 4.1 系列</strong> 已加入实验性 MLX 支持（PR #17972）。这些密集型模型现可通过 <code>ollama create</code> 使用 safetensors 格式导入。</li>
-<li>📌 <strong>Qwen3-VL 与具备视频能力的模型</strong> 仍无法使用，因缺少输入处理管道（问题 #18151）；用户当前必须手动将视频预处理为帧序列。</li>
-<li>⚠️ <strong>AMD ROCm 对 MoE 模型的支持仍不稳定</strong>：混合图形架构（如 gfx1200 + gfx1201）会触发 <code>ROCm error: no kernel image is available</code>（问题 #18162），阻碍在异构 AMD 环境下的可扩展推理。</li>
-<li>🔧 <strong>MLX-C</strong> 与 <strong>llama.cpp</strong> 后端已更新至最新上游版本（PRs #18160, #18080），为未来兼容新模型格式奠定基础。</li>
-</ul>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<ul>
-<li>💡 <strong>内存泄漏缓解</strong>：MLX 运行器在固定上下文下表现出持续的内存增长（约每请求 0.147 GiB），最终趋于稳定在 28.5 GiB 左右（问题 #17924）。这对长时间运行的代理工作负载影响显著。</li>
-<li>📊 <strong>缓存可见性提升</strong>：PRs #16916 与 #17943 在 API 响应中新增 <code>prompt_eval_cached_count</code> 与 <code>cache_n</code> 指标——支持在本地与云端环境中精确追踪缓存命中率与有效吞吐量。</li>
-<li>⏱️ <strong>流式输出优化</strong>：PR #18156 在流式 MLX 补全中引入重复标记检测，防止生成失控，提升长文本输出过程中的可靠性。</li>
-</ul>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<table>
-<thead>
-<tr>
-<th>严重程度</th>
-<th>问题</th>
-<th>摘要</th>
-<th>修复状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 严重</td>
-<td><a href="https://github.com/ollama/ollama/issues/18152">#18152</a></td>
-<td>Windows + NVIDIA 系统在升级至 v0.33.0 后，多轮对话切换期间发生 GPU 驱动崩溃（<code>VIDEO_TDR_TIMEOUT_DETECTED</code>）</td>
-<td>未解决 —— 已确认在 0.32.15 与 0.33.0 之间存在回归</td>
-</tr>
-<tr>
-<td>🔴 高</td>
-<td><a href="https://github.com/ollama/ollama/issues/18162">#18162</a></td>
-<td>混合 AMD GPU 架构（gfx1200 + gfx1201）上 MoE 模型崩溃，因缺失 ROCm 内核镜像</td>
-<td>未解决 —— 影响 AMD 系统的可扩展性</td>
-</tr>
-<tr>
-<td>🟡 中等</td>
-<td><a href="https://github.com/ollama/ollama/issues/17778">#17778</a></td>
-<td>Qwen 3.8 在聊天流式输出中失败，提示“消息中未找到用户查询”（500 错误）</td>
-<td>未解决 —— 工具调用循环问题</td>
-</tr>
-<tr>
-<td>🟡 中等</td>
-<td><a href="https://github.com/ollama/ollama/issues/14493">#14493</a></td>
-<td>Qwen 3.5 27B：工具调用功能失效，重复惩罚机制被忽略</td>
-<td>未解决 —— 影响智能体工作流</td>
-</tr>
-<tr>
-<td>🟢 低</td>
-<td><a href="https://github.com/ollama/ollama/issues/18146">#18146</a></td>
-<td><code>ollama create</code> 在 Qwen3.8-Flash-Next GGUF 上因验证不匹配失败</td>
-<td>未解决 —— 可能需修补 llama-quantize 兼容性</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><strong>6. 对应用开发者的启示</strong></h3>
-<ul>
-<li><strong>若在 Windows/NVIDIA 环境下运行多轮或长上下文应用，请避免使用 v0.33.0</strong>，建议回退至 0.32.15，直至 TDR 回归问题修复。</li>
-<li><strong>在问题 #14493 与 #17778 修复前，请勿依赖 Qwen 3.5/3.8 模型的工具调用或重复抑制功能</strong>——这些缺陷会破坏核心代理逻辑。</li>
-<li><strong>对于 macOS/M1/M2/M3/M4 用户</strong>，使用 MLX 后端时请谨慎：密切监控内存使用情况（问题 #17924），避免长时间运行而无重启。</li>
-<li><strong>在监控系统中使用 <code>prompt_eval_cached_count</code></strong>（通过 <code>/api/chat</code>、OpenAI 兼容接口）以实时衡量缓存效率，并优化提示词设计。</li>
-<li><strong>预计视频输入进展有限</strong>——目前 Qwen3-VL 尚不支持原始视频输入（问题 #18151）；手动帧提取仍是必要步骤。</li>
-<li><strong>通过 <code>/api/me</code> 请求云端使用统计数据</strong>（问题 #12532）——这对成本敏感部署规划至关重要；建议投票以提升其优先级。</li>
-</ul>
-<blockquote>
-<p>🔗 <em>跟踪关键问题：</em> <a href="https://github.com/ollama/ollama/issues/12532">12532</a>, <a href="https://github.com/ollama/ollama/issues/18152">18152</a>, <a href="https://github.com/ollama/ollama/issues/18162">18162</a>, <a href="https://github.com/ollama/ollama/issues/17778">17778</a></p>
-</blockquote>
-<hr>
-<p><em>摘要生成时间：2026-09-01 | 来源：github.com/ollama/ollama</em></p>
-</details>
-
-<details>
-<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
-
-<p><strong>LiteLLM Digest – 2026-09-01</strong></p>
-<hr>
-<h3><strong>1. 今日亮点</strong></h3>
-<p>LiteLLM 项目在稳定核心代理与路由逻辑方面持续推进，重点 PR 集中于团队级配置的可观测性、安全性和正确性。关键修复解决了模型别名可见性、凭证泄露以及日志中的静默失败问题——尤其针对 <code>GET /v2/team/list</code> 和虚拟密钥处理。值得注意的是，UI 现已展示运行时注册的回调函数，显著提升了监控集成的透明度。</p>
-<hr>
-<h3><strong>2. 发布与破坏性变更</strong></h3>
-<p><em>过去 24 小时内无新发布。</em><br>但有若干可能引入破坏性变更的更新正在审查中：  </p>
-<ul>
-<li><strong>PR #39045</strong>：在 <code>/v2/team/list</code> 中添加 <code>litellm_model_table</code>，支持通过 API 获取模型别名（修复 Issue #26312）。  </li>
-<li><strong>PR #38979</strong>：将团队级日志回调接入透传端点（如 <code>/gemini</code>、<code>/anthropic</code>）——对多租户部署的可观测性至关重要。  </li>
-<li><strong>PR #39046</strong>：回滚此前更改，因引发意外副作用；凸显在凭证选择中需谨慎对待 UI 状态持久化问题。</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39045">PR #39045</a> | <a href="https://github.com/BerriAI/litellm/pull/38979">PR #38979</a> | <a href="https://github.com/BerriAI/litellm/pull/39046">PR #39046</a></p>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<p><em>今日未新增模型或硬件后端。</em><br>但持续进展包括：  </p>
-<ul>
-<li><strong>PR #39039</strong>：新增对 <strong>Milvus gRPC 搜索</strong> 的实验性支持，为仅支持 gRPC 的 Milvus 部署提供安全、高性能的向量存储集成。  </li>
-<li><strong>PR #38952</strong>：扩展 MCP 规范解析以接受 <strong>YAML OpenAPI 规范</strong>，提升与基于 YAML 协议的工具生态系统的兼容性。</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39039">PR #39039</a> | <a href="https://github.com/BerriAI/litellm/pull/38952">PR #38952</a></p>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<p><em>今日未落地直接性能改进</em>，但基础工作持续推进：  </p>
-<ul>
-<li><strong>PR #39021</strong>：引入发布轮子合约验证（符号、导入项、大小 &lt; 20MB），防止未来原生扩展加载出现回归问题。  </li>
-<li><strong>PR #39026</strong>：将 Rust-Python 互操作层重构为领域无关的 crate（<code>litellm-python-interop</code>），降低耦合度，提升未来优化的可维护性。</li>
-</ul>
-<p>👉 <a href="https://github.com/BerriAI/litellm/pull/39021">PR #39021</a> | <a href="https://github.com/BerriAI/litellm/pull/39026">PR #39026</a></p>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<p>今日报告的最高优先级稳定性问题（按影响排序）：</p>
-<ol>
-<li><p><strong>模型访问组信息泄露至 <code>/v1/models</code> 响应中</strong> <em>(Issue #25550)</em>  </p>
-<ul>
-<li><strong>严重程度</strong>：高  </li>
-<li><strong>影响</strong>：安全风险：即使引用的模型不存在，访问组名称仍会被暴露。  </li>
-<li><strong>修复状态</strong>：待合并（尚未提交修复 PR）。</li>
-</ul>
-</li>
-<li><p><strong><code>output_parse_pii</code> 在 Presidio 下无效</strong> <em>(Issue #14516)</em>  </p>
-<ul>
-<li><strong>严重程度</strong>：中  </li>
-<li><strong>影响</strong>：尽管已配置，仍无法强制执行 PII 掩码。  </li>
-<li><strong>修复状态</strong>：已关闭；可能需重新评估中间件处理顺序。</li>
-</ul>
-</li>
-<li><p><strong><code>request_timeout</code> 在静默上游环境下永不触发</strong> <em>(Issue #38358)</em>  </p>
-<ul>
-<li><strong>严重程度</strong>：高  </li>
-<li><strong>影响</strong>：若上游接受 TCP 连接但始终不发送数据，请求将无限挂起。  </li>
-<li><strong>修复状态</strong>：等待 PR —— 参见 <a href="https://github.com/BerriAI/litellm/issues/38358">PR #38358</a>。</li>
-</ul>
-</li>
-<li><p><strong>Gemini 推理内容泄露至 output_text</strong> <em>(Issue #36929)</em>  </p>
-<ul>
-<li><strong>严重程度</strong>：中  </li>
-<li><strong>影响</strong>：当 <code>reasoning.effort=medium|high</code> 时，破坏严格的 <code>json_schema</code> 强制校验。  </li>
-<li><strong>修复状态</strong>：尚未提交修复 PR。</li>
-</ul>
-</li>
-</ol>
-<p>👉 <a href="https://github.com/BerriAI/litellm/issues/25550">Issue #25550</a> | <a href="https://github.com/BerriAI/litellm/issues/14516">Issue #14516</a> | <a href="https://github.com/BerriAI/litellm/issues/38358">Issue #38358</a> | <a href="https://github.com/BerriAI/litellm/issues/36929">Issue #36929</a></p>
-<hr>
-<h3><strong>6. 对应用开发者的启示</strong></h3>
-<ul>
-<li><strong>仅在升级至最新稳定版后使用 <code>GET /v2/team/list</code></strong>：在 PR #39045 合并前，模型别名不会在团队响应中显示——这会影响依赖元数据的智能体路由和审计工具。  </li>
-<li><strong>在确认前避免设置 <code>output_parse_pii=True</code> 与 Presidio 配合使用</strong>：当前行为不一致，可能导致合规性缺口。  </li>
-<li><strong>谨慎监控超时设置</strong>：若应用使用慢速或不可靠的提供商（如自定义端点），请确保 <code>request_timeout</code> 正确配置——它可能无法按预期触发。  </li>
-<li><strong>充分利用新的日志增强功能</strong>：借助如 PR #38979 和 #38974 等更新，现在可在所有提供商路由上强制实施团队级可观测性，实现更优的成本与用量追踪。  </li>
-<li><strong>为更严格的凭证管理做好准备</strong>：未来版本将强化团队级别的凭证作用域控制（PR #38932），请尽早验证部署配置。</li>
-</ul>
-<p>➡️ <strong>可操作建议</strong>：立即审计您的虚拟密钥使用情况及 <code>model_aliases</code> 设置——缺失的别名可见性可能破坏生产环境的路由逻辑。</p>
-</details>
-
-<details>
-<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
-
-<h1><strong>Unsloth Digest – 2026-09-01</strong></h1>
-<hr>
-<h3><strong>1. 今日亮点</strong></h3>
-<p>Unsloth 生态系统持续成熟，重点聚焦于<strong>安全强化</strong>、<strong>多模型兼容性</strong>以及 Studio 的<strong>用户体验优化</strong>。关键进展包括引入操作系统级沙箱以执行工具（通过 bubblewrap/Seatbelt）、修复 AMD ROCm BF16 检测与训练崩溃问题，以及对 MLX 上下文长度处理的关键改进。团队正在积极解决各类 GGUF 变体中的模型加载问题——特别是 Qwen3.8-Flash-Next-GGUF——并提升 Ollama 集成的可靠性。</p>
-<hr>
-<h3><strong>2. 发布与破坏性变更</strong></h3>
-<p><em>过去 24 小时内无新发布。</em><br>然而，多个 PR 表明即将推出破坏性变更：</p>
-<ul>
-<li><strong>PR #7101</strong> 为 Studio 中的 <code>python</code> 和 <code>terminal</code> 工具引入强制沙箱机制（Linux：<code>bubblewrap</code>，macOS：<code>Seatbelt</code>）。这将影响依赖直接文件系统访问或环境变量的工作流。</li>
-<li><strong>PR #9858</strong> 修改了 GPU 可见性报告逻辑，使其反映实际由操作系统检测到的设备，而非仅限于 PyTorch 打开的设备，可能改变多 GPU 系统上的 UI 行为。</li>
-<li><strong>PR #10104</strong> 调整关机逻辑，向浏览器告知引导阶段截止时间，防止初始设置期间出现静默失败。</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/pull/7101">PR #7101</a> | <a href="https://github.com/unslothai/unsloth/pull/9858">PR #9858</a> | <a href="https://github.com/unslothai/unsloth/pull/10104">PR #10104</a></p>
-</blockquote>
-<hr>
-<h3><strong>3. 新模型与硬件支持</strong></h3>
-<h4>✅ <strong>新增支持模型</strong></h4>
-<ul>
-<li><strong>Qwen3.8-Flash-Next-GGUF</strong>：目前因 <code>llama.cpp</code> 不支持架构 (<code>qwen4exp</code>) 而受阻；问题 <a href="https://github.com/unslothai/unsloth/issues/10015">#10015</a> 跟踪进度。</li>
-<li><strong>Wan2.2-TI2V-5B</strong>：被识别出在 16 GB 显卡上需约 66.5 GB VRAM，原因在于 SDPA 回退；非模型本身问题，而是后端内存效率低下。</li>
-<li><strong>Deepseek 模型</strong>：问题 <a href="https://github.com/unslothai/unsloth/issues/10047">#10047</a> 报告运行时出现意外重下载。</li>
-</ul>
-<h4>🧠 <strong>后端与硬件进展</strong></h4>
-<ul>
-<li><strong>AMD ROCm (gfx1032/gfx1200/gfx1201)</strong>：多个 PR 解决硬件相关问题：<ul>
-<li>修复 BF16 支持检测 (<a href="https://github.com/unslothai/unsloth/pull/7682">#7682</a>)</li>
-<li>在 Triton 无法 JIT 时禁止 Windows 上的 <code>torch.compile</code> (<a href="https://github.com/unslothai/unsloth/pull/7704">#7704</a>)</li>
-<li>根据 torch 构建架构覆盖情况控制 GPU 选择 (<a href="https://github.com/unslothai/unsloth/pull/8791">#8791</a>)</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/issues/10015">Issue #10015</a> | <a href="https://github.com/unslothai/unsloth/pull/7682">PR #7682</a> | <a href="https://github.com/unslothai/unsloth/pull/8791">PR #8791</a></p>
-</blockquote>
-<hr>
-<h3><strong>4. 性能与优化</strong></h3>
-<h4>⚡ <strong>延迟与内存改进</strong></h4>
-<ul>
-<li><strong>MLX 上下文长度修复</strong>：PR <a href="https://github.com/unslothai/unsloth/pull/8125">#8125</a> 修复了一个关键错误，即 MLX 服务的模型始终受限于硬编码的 4096 令牌长度，无视实际模型配置。现在将使用模型元数据中真实的上下文长度。</li>
-<li><strong>提示缓存复用</strong>：问题 <a href="https://github.com/unslothai/unsloth/issues/10031">#10031</a> 指出，由于 <code>ArraysCache</code> 布局不匹配，MLX 的提示缓存未被用于 Qwen3.8-27B，影响长序列推理速度。</li>
-</ul>
-<h4>📈 <strong>推理效率</strong></h4>
-<ul>
-<li><strong>Ollama 集成</strong>：如 <a href="https://github.com/unslothai/unsloth/pull/10110">#10110</a> 与 <a href="https://github.com/unslothai/unsloth/issues/10051">#10051</a> 等 PR 力求统一并稳定 Ollama 库存扫描机制，减少冗余模型索引，改善加载时间。</li>
-</ul>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/pull/8125">PR #8125</a> | <a href="https://github.com/unslothai/unsloth/issues/10031">Issue #10031</a> | <a href="https://github.com/unslothai/unsloth/pull/10110">PR #10110</a></p>
-</blockquote>
-<hr>
-<h3><strong>5. 稳定性与回归问题</strong></h3>
-<table>
-<thead>
-<tr>
-<th>严重程度</th>
-<th>问题</th>
-<th>影响</th>
-<th>状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🔴 高</td>
-<td><strong>Studio：并发数据库访问下的 SQLite 死锁</strong> (<a href="https://github.com/unslothai/unsloth/issues/10022">#10022</a>)</td>
-<td>后端无响应；影响多用户/本地工作流</td>
-<td>开放</td>
-</tr>
-<tr>
-<td>🔴 高</td>
-<td><strong>Qwen3.5 bnb-4bit 在前向传播中崩溃</strong> (<a href="https://github.com/unslothai/unsloth/issues/9867">#9867</a>)</td>
-<td>因未量化打包权重导致训练立即失败</td>
-<td>开放</td>
-</tr>
-<tr>
-<td>🟡 中</td>
-<td><strong>Studio 将并行工具调用参数损坏为格式错误的 JSON</strong> (<a href="https://github.com/unslothai/unsloth/issues/9807">#9807</a>)</td>
-<td>导致后续轮次出现 HTTP 400 错误</td>
-<td>已关闭</td>
-</tr>
-<tr>
-<td>🟡 中</td>
-<td><strong>Ollama 模型显示错误来源，触发崩溃模式</strong> (<a href="https://github.com/unslothai/unsloth/issues/9986">#9986</a>)</td>
-<td>库存无法填充；破坏 UI 状态</td>
-<td>开放</td>
-</tr>
-<tr>
-<td>🟡 中</td>
-<td><strong>Deepresearch 硬编码为 127.0.0.1</strong> (<a href="https://github.com/unslothai/unsloth/issues/10109">#10109</a>)</td>
-<td>阻碍通过局域网进行远程部署</td>
-<td>开放</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>🔗 <a href="https://github.com/unslothai/unsloth/issues/10022">Issue #10022</a> | <a href="https://github.com/unslothai/unsloth/issues/9867">Issue #9867</a> | <a href="https://github.com/unslothai/unsloth/issues/9807">Issue #9807</a></p>
-</blockquote>
-<hr>
-<h3><strong>6. 对应用开发者的启示</strong></h3>
-<ul>
-<li><strong>安全优先部署</strong>：预计 Studio 将采用更严格的沙箱机制（通过 <code>bubblewrap</code>/<code>Seatbelt</code>）。若你的代理依赖文件系统或环境变量访问，请立即测试——这可能会破坏现有工具脚本。</li>
-<li><strong>模型可移植性</strong>：使用较新的 GGUF 模型（尤其是 Qwen 系列）时务必谨慎。部署前请始终验证其与 <code>llama.cpp</code> 的兼容性。</li>
-<li><strong>跨平台稳定性</strong>：AMD 用户应避免在 gfx10 GPU 上使用 <code>BF16</code>，直至 PR <a href="https://github.com/unslothai/unsloth/pull/7682">#7682</a> 上线。如需临时规避，可使用 <code>--disable-bf16</code>。</li>
-<li><strong>API 弹性</strong>：工具调用参数格式化缺陷（如 <a href="https://github.com/unslothai/unsloth/issues/9807">#9807</a>）表明必须具备健壮的错误处理能力——切勿假设输入为有效 JSON。</li>
-<li><strong>未来兼容性</strong>：关注统一 Ollama 库存计划 (<a href="https://github.com/unslothai/unsloth/issues/10051">#10051</a>)，以避免重复扫描或遗漏模型。</li>
-</ul>
-<blockquote>
-<p>✅ 小贴士：使用 <code>--fit-target</code>（来自 PR #4882）可针对特定硬件优化 GGUF 加载——对边缘部署至关重要。</p>
-</blockquote>
-<hr>
-<p><em>摘要生成时间：2026-09-01 | 来源：<a href="https://github.com/unslothai/unsloth">unslothai/unsloth GitHub</a></em></p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/duanyytop/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
     </item>
   </channel>
