@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 01:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:50:22 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-10-21</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-10-21/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-10-21/ai-picks</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-10-21 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Publish fake stats, get cited in LLMs 推荐分：85/100 · HN 317 points · 181 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. Voxtral 3 推荐分：80/100 · HN 511 points · 138 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Anthropic logged net loss of over $80B in first half of 2026 推荐分：80/100 · HN 98 points · 51 条评论 推荐理由：社区热度高、讨论充分、发布时间新。...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-10-21</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web">Publish fake stats, get cited in LLMs</a></h3>
+<p><strong>推荐分：85/100</strong> · HN 317 points · 181 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50165801">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://mistral.ai/news/voxtral-3/">Voxtral 3</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 511 points · 138 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50168396">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/">Anthropic logged net loss of over $80B in first half of 2026</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 98 points · 51 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 30/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50171966">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">Claude designed protein binders against scorpion neurotoxins</a></h3>
+<p><strong>推荐分：79/100</strong> · HN 88 points · 61 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 29/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50170021">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://www.bolkunov.com/p/on-ai-writing">On AI writing</a></h3>
+<p><strong>推荐分：78/100</strong> · HN 78 points · 53 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 28/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50171771">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">85</td>
+<td><a href="https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web">Publish fake stats, get cited in LLMs</a></td>
+<td align="right">317</td>
+<td align="right">181</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">80</td>
+<td><a href="https://mistral.ai/news/voxtral-3/">Voxtral 3</a></td>
+<td align="right">511</td>
+<td align="right">138</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">80</td>
+<td><a href="https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/">Anthropic logged net loss of over $80B in first half of 2026</a></td>
+<td align="right">98</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">79</td>
+<td><a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">Claude designed protein binders against scorpion neurotoxins</a></td>
+<td align="right">88</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">78</td>
+<td><a href="https://www.bolkunov.com/p/on-ai-writing">On AI writing</a></td>
+<td align="right">78</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">76</td>
+<td><a href="https://crystl.dev/guides/tmux-for-ai-agents/">Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</a></td>
+<td align="right">168</td>
+<td align="right">126</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">75</td>
+<td><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></td>
+<td align="right">2115</td>
+<td align="right">827</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">73</td>
+<td><a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions">WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator</a></td>
+<td align="right">714</td>
+<td align="right">208</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">70</td>
+<td><a href="https://openai.com/index/low-resource-programming-languages/">Advanced coding in low-resource programming languages</a></td>
+<td align="right">44</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">68</td>
+<td><a href="https://mistral.ai/news/timestral/">Timestral: Mistral&#39;s time-series foundation models</a></td>
+<td align="right">614</td>
+<td align="right">119</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">68</td>
+<td><a href="https://news.ycombinator.com/item?id=50151036">Ask HN: How to deal with shipping AI-written code you don&#39;t understand?</a></td>
+<td align="right">586</td>
+<td align="right">690</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">68</td>
+<td><a href="https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/">DeepSeek banned from U.S. federal civilian agencies under new DHS order</a></td>
+<td align="right">552</td>
+<td align="right">501</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">68</td>
+<td><a href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/">CERN and Mistral sign a statement of intent to establish a strategic partnership</a></td>
+<td align="right">356</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">68</td>
+<td><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3">Mercury 3: Diffusion at scale</a></td>
+<td align="right">255</td>
+<td align="right">91</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">67</td>
+<td><a href="https://alexwang.ai/posts/associative-memory/">You could have invented transformers from memory</a></td>
+<td align="right">659</td>
+<td align="right">149</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">67</td>
+<td><a href="https://arxiv.org/abs/2610.18861">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></td>
+<td align="right">515</td>
+<td align="right">238</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">65</td>
+<td><a href="https://heymaxwell.ai/">Maxwell: A new kind of model that sits between code and hardware</a></td>
+<td align="right">128</td>
+<td align="right">64</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">64</td>
+<td><a href="https://news.ycombinator.com/item?id=50167583">Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins</a></td>
+<td align="right">43</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">62</td>
+<td><a href="https://blog.picheta.me/post/killswitch-lang/">I built a programming language that LLMs can&#39;t use</a></td>
+<td align="right">279</td>
+<td align="right">217</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">62</td>
+<td><a href="https://www.youtube.com/watch?v=cNm4zyUtWj0">RuneScape Bench: MMOs for Agents [video]</a></td>
+<td align="right">240</td>
+<td align="right">80</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">62</td>
+<td><a href="https://twitter.com/Polymarket/status/2112634886070919426">Anthropic recorded a staggering $80B net loss in the first half of 2026</a></td>
+<td align="right">21</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">61</td>
+<td><a href="https://github.com/AbdullahAlhariri/penmentor">Show HN: Penmentor – Claude marks up your handwritten math like a teacher</a></td>
+<td align="right">53</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">60</td>
+<td><a href="https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md">SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful</a></td>
+<td align="right">153</td>
+<td align="right">69</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">60</td>
+<td><a href="https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/">Meta tries to scapegoat staff who downloaded torrents to spare execs</a></td>
+<td align="right">17</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">57</td>
+<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/">Gemini 4 Argon is now available for everyone</a></td>
+<td align="right">17</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">56</td>
+<td><a href="https://news.ycombinator.com/item?id=50154029">Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces</a></td>
+<td align="right">58</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">50</td>
+<td><a href="https://research.poh.org/bot-benchmarking-2026/">Benchmarking Bot Detection Systems Against Modern AI Agents in 2026</a></td>
+<td align="right">21</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">49</td>
+<td><a href="https://gradium.ai/phonon">Gradium open-sourced its on-device TTS</a></td>
+<td align="right">14</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">46</td>
+<td><a href="https://thezvi.substack.com/p/anthropic-does-not-understand-why">Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling</a></td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">40</td>
+<td><a href="https://www.microagi.ai/">Microagi: Accelerating Embodied AGI</a></td>
+<td align="right">4</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-10-20</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-10-20/ai-picks</link>
@@ -7671,264 +7936,6 @@
 <td><a href="https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395">B.C. government to sue OpenAI after Tumbler Ridge mass shooting</a></td>
 <td align="right">10</td>
 <td align="right">0</td>
-</tr>
-</tbody></table>
-<h2>评分说明</h2>
-<ul>
-<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
-<li>讨论：最高 20 分，根据评论数计算。</li>
-<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
-<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
-<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
-</ul>
-<hr>
-<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>每日 5 条精选推荐 2026-09-21</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-21/ai-picks</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-21/ai-picks</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>📡 信息雷达 · 2026-09-21 免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. ChatGPT now knows what you do on other websites via ad collector 推荐分：80/100 · HN 494 points · 287 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. Qwen Image 2.1 推荐分：80/100 · HN 432 points · 145 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Pirate Face Rescues LLM Models from Deletion 推荐分：80/100 · HN 385 points · 121 条评论 推荐理由：...</description>
-      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-21</h1>
-<blockquote>
-<p>免费规则版：抓取 30 条，去重后保留 29 条候选，生成 5 条推荐。无需 API Key。</p>
-</blockquote>
-<h2>今日 5 条推荐</h2>
-<h3>1. <a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">ChatGPT now knows what you do on other websites via ad collector</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 494 points · 287 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49776729">查看 Hacker News 讨论</a></p>
-<h3>2. <a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 432 points · 145 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49775499">查看 Hacker News 讨论</a></p>
-<h3>3. <a href="https://pirateface.co/">Pirate Face Rescues LLM Models from Deletion</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 385 points · 121 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49776699">查看 Hacker News 讨论</a></p>
-<h3>4. <a href="https://softwarecrisis.dev/letters/llmentalist/">Chat-based Large Language Models replicate the mechanisms of a psychic&#39;s con</a></h3>
-<p><strong>推荐分：78/100</strong> · HN 152 points · 242 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 33/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49775104">查看 Hacker News 讨论</a></p>
-<h3>5. <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Microsoft director: AI scraping &#39;the largest theft of labor in human history&#39;</a></h3>
-<p><strong>推荐分：77/100</strong> · HN 179 points · 49 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 34/35、讨论 20/20、时效 8/25、AI 相关性 15/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49768921">查看 Hacker News 讨论</a></p>
-<h2>全部候选（最多 30 条）</h2>
-<table>
-<thead>
-<tr>
-<th align="right">排名</th>
-<th align="right">推荐分</th>
-<th>标题</th>
-<th align="right">HN 热度</th>
-<th align="right">评论</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="right">1</td>
-<td align="right">80</td>
-<td><a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">ChatGPT now knows what you do on other websites via ad collector</a></td>
-<td align="right">494</td>
-<td align="right">287</td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td align="right">80</td>
-<td><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></td>
-<td align="right">432</td>
-<td align="right">145</td>
-</tr>
-<tr>
-<td align="right">3</td>
-<td align="right">80</td>
-<td><a href="https://pirateface.co/">Pirate Face Rescues LLM Models from Deletion</a></td>
-<td align="right">385</td>
-<td align="right">121</td>
-</tr>
-<tr>
-<td align="right">4</td>
-<td align="right">78</td>
-<td><a href="https://softwarecrisis.dev/letters/llmentalist/">Chat-based Large Language Models replicate the mechanisms of a psychic&#39;s con</a></td>
-<td align="right">152</td>
-<td align="right">242</td>
-</tr>
-<tr>
-<td align="right">5</td>
-<td align="right">77</td>
-<td><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Microsoft director: AI scraping &#39;the largest theft of labor in human history&#39;</a></td>
-<td align="right">179</td>
-<td align="right">49</td>
-</tr>
-<tr>
-<td align="right">6</td>
-<td align="right">73</td>
-<td><a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">OpenAI&#39;s Sam Altman to Brief UN Security Council Next Week</a></td>
-<td align="right">39</td>
-<td align="right">45</td>
-</tr>
-<tr>
-<td align="right">7</td>
-<td align="right">70</td>
-<td><a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/">Can you tell which images are AI-generated?</a></td>
-<td align="right">103</td>
-<td align="right">78</td>
-</tr>
-<tr>
-<td align="right">8</td>
-<td align="right">68</td>
-<td><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></td>
-<td align="right">1764</td>
-<td align="right">907</td>
-</tr>
-<tr>
-<td align="right">9</td>
-<td align="right">68</td>
-<td><a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai">I think you should almost never use AI to write</a></td>
-<td align="right">339</td>
-<td align="right">165</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td align="right">67</td>
-<td><a href="https://code.claude.com/docs/en/changelog">Claude Code now reads AGENTS.md if there is no Claude.md</a></td>
-<td align="right">727</td>
-<td align="right">275</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td align="right">67</td>
-<td><a href="https://www.hacktron.ai/blog/hacking-openai">A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</a></td>
-<td align="right">486</td>
-<td align="right">208</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td align="right">65</td>
-<td><a href="https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/">I stopped drinking the AI Kool-Aid</a></td>
-<td align="right">26</td>
-<td align="right">16</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td align="right">63</td>
-<td><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html">Two parallel neural ectoderm progenitors contribute to the developing brain</a></td>
-<td align="right">640</td>
-<td align="right">255</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td align="right">62</td>
-<td><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></td>
-<td align="right">1927</td>
-<td align="right">506</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td align="right">62</td>
-<td><a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">How to Write with an LLM</a></td>
-<td align="right">712</td>
-<td align="right">401</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td align="right">62</td>
-<td><a href="https://openai.com/index/astra-for-law/">Astra for Law</a></td>
-<td align="right">582</td>
-<td align="right">680</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td align="right">62</td>
-<td><a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">Qwen 3.8 Omni Flash</a></td>
-<td align="right">341</td>
-<td align="right">137</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td align="right">62</td>
-<td><a href="https://mysetup.ai/">Show HN: Share your AI Setup, Learn from others</a></td>
-<td align="right">245</td>
-<td align="right">138</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td align="right">61</td>
-<td><a href="https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms">Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets</a></td>
-<td align="right">21</td>
-<td align="right">7</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td align="right">59</td>
-<td><a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">AI chatbots are becoming experts at changing people&#39;s minds</a></td>
-<td align="right">133</td>
-<td align="right">101</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td align="right">55</td>
-<td><a href="https://www.youtube.com/watch?v=M0cWcAIeOyU">Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]</a></td>
-<td align="right">10</td>
-<td align="right">5</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td align="right">54</td>
-<td><a href="https://www.youtube.com/watch?v=KnckQp-c388">Andrew Ng: AI Extinction Fears Are &#39;Science Fiction&#39;</a></td>
-<td align="right">14</td>
-<td align="right">2</td>
-</tr>
-<tr>
-<td align="right">23</td>
-<td align="right">52</td>
-<td><a href="https://arxiv.org/abs/2510.03215">Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)</a></td>
-<td align="right">106</td>
-<td align="right">20</td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td align="right">52</td>
-<td><a href="https://arxiv.org/abs/2609.02852">The Implications of Linguistic Illegibility for LLM Security</a></td>
-<td align="right">78</td>
-<td align="right">29</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td align="right">49</td>
-<td><a href="https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/">NASA-IBM Lunar Foundation open-Source Geospatial AI Model</a></td>
-<td align="right">53</td>
-<td align="right">6</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td align="right">48</td>
-<td><a href="https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai">Why China Isn&#39;t Getting Existential About A.I</a></td>
-<td align="right">8</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td align="right">47</td>
-<td><a href="https://codeberg.org/basebrowserproject">Base Browser: A hard fork of Firefox with no AI slop</a></td>
-<td align="right">6</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td align="right">47</td>
-<td><a href="https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203">AI is a powerful but problematic new collaborator in mathematics</a></td>
-<td align="right">4</td>
-<td align="right">3</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td align="right">45</td>
-<td><a href="https://tinybrains.dev">Show HN: A competition for small neural networks that play strategy games</a></td>
-<td align="right">15</td>
-<td align="right">3</td>
 </tr>
 </tbody></table>
 <h2>评分说明</h2>
