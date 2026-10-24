@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 00:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:00:10 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-10-24</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-10-24/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-10-24/ai-picks</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-10-24 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Kimi K3.1 Pro and K3.1 Pro Highspeed 推荐分：80/100 · HN 700 points · 440 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. Securing our frontier model training environment 推荐分：78/100 · HN 70 points · 80 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 28/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. OpenShell – A safe, private runtime for fleets of autonomous AI agents 推荐分：73/100 ·...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-10-24</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://www.kimi.ai/blog/kimi-k3-1-pro">Kimi K3.1 Pro and K3.1 Pro Highspeed</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 700 points · 440 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50212065">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://openai.com/index/securing-our-frontier-model-training-environment/">Securing our frontier model training environment</a></h3>
+<p><strong>推荐分：78/100</strong> · HN 70 points · 80 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 28/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50214416">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://github.com/NVIDIA/OpenShell">OpenShell – A safe, private runtime for fleets of autonomous AI agents</a></h3>
+<p><strong>推荐分：73/100</strong> · HN 489 points · 213 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50198675">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://www.anthropic.com/research/formal-verification">LLMs are making formal software verification feasible at a much larger scale</a></h3>
+<p><strong>推荐分：73/100</strong> · HN 440 points · 284 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、与 AI 主题高度相关。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 10/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50202217">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562">New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors</a></h3>
+<p><strong>推荐分：71/100</strong> · HN 36 points · 31 条评论</p>
+<p>推荐理由：讨论充分、发布时间新。评分由热度 23/35、讨论 18/20、时效 25/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50214185">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://www.kimi.ai/blog/kimi-k3-1-pro">Kimi K3.1 Pro and K3.1 Pro Highspeed</a></td>
+<td align="right">700</td>
+<td align="right">440</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">78</td>
+<td><a href="https://openai.com/index/securing-our-frontier-model-training-environment/">Securing our frontier model training environment</a></td>
+<td align="right">70</td>
+<td align="right">80</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">73</td>
+<td><a href="https://github.com/NVIDIA/OpenShell">OpenShell – A safe, private runtime for fleets of autonomous AI agents</a></td>
+<td align="right">489</td>
+<td align="right">213</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">73</td>
+<td><a href="https://www.anthropic.com/research/formal-verification">LLMs are making formal software verification feasible at a much larger scale</a></td>
+<td align="right">440</td>
+<td align="right">284</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">71</td>
+<td><a href="https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562">New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors</a></td>
+<td align="right">36</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">70</td>
+<td><a href="https://openai.com/index/scaling-ai-research-for-complex-biological-data/">Using thousands of AI agents to uncover new leads in biological data</a></td>
+<td align="right">158</td>
+<td align="right">105</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">69</td>
+<td><a href="https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm">The rise and fall of Jev hype</a></td>
+<td align="right">88</td>
+<td align="right">65</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">68</td>
+<td><a href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans">Every AI model has the same &quot;controversial&quot; take on humans</a></td>
+<td align="right">616</td>
+<td align="right">593</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">68</td>
+<td><a href="https://news.ycombinator.com/item?id=50200997">Ask HN: If the models are so good, why doesn&#39;t OpenAI just start 100 companies?</a></td>
+<td align="right">592</td>
+<td align="right">659</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">68</td>
+<td><a href="https://github.com/openai/openai-cli">OpenAI CLI</a></td>
+<td align="right">242</td>
+<td align="right">111</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">68</td>
+<td><a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">Hedra is a 3D open world game I wrote from scratch while in highschool</a></td>
+<td align="right">230</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">66</td>
+<td><a href="https://github.com/omnara-ai/omnara">Show HN: Omnara – Open-source alternative to Claude Managed Agents</a></td>
+<td align="right">111</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">66</td>
+<td><a href="https://www.thisandthat.chat/enron/">Show HN: We had AI write a wiki from 45k Enron emails, every fact cited</a></td>
+<td align="right">55</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">65</td>
+<td><a href="https://arxiv.org/abs/2610.27251">AI and the Enclosure of the Scientific Commons</a></td>
+<td align="right">137</td>
+<td align="right">80</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">62</td>
+<td><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></td>
+<td align="right">2341</td>
+<td align="right">891</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">62</td>
+<td><a href="https://mistral.ai/news/voxtral-3/">Voxtral 3</a></td>
+<td align="right">768</td>
+<td align="right">201</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">62</td>
+<td><a href="https://claude.com/product/claude-duet">Claude Duet</a></td>
+<td align="right">561</td>
+<td align="right">528</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">62</td>
+<td><a href="https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html">Using LLM for confidence scoring is a bad idea</a></td>
+<td align="right">223</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">61</td>
+<td><a href="https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients">AI analysis of CT scans finds 42.9% of patients have coronary inflammation</a></td>
+<td align="right">88</td>
+<td align="right">46</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">59</td>
+<td><a href="https://corgi.computer/">Show HN: Corgi, a helpful {agent, terminal} multiplexer</a></td>
+<td align="right">27</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">56</td>
+<td><a href="https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides">Claude Now Works with Google Docs, Sheets, and Slides</a></td>
+<td align="right">89</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">54</td>
+<td><a href="https://alterauth.com/">Launch HN: Alter (YC S25) – Access control for multi-user agents</a></td>
+<td align="right">68</td>
+<td align="right">49</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">52</td>
+<td><a href="https://github.com/rbartoli/agent-usage-guard">Show HN: agent-usage-guard – a Claude Code mod to protect your usage window</a></td>
+<td align="right">26</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">51</td>
+<td><a href="https://www.anthropic.com/research/alignment-assessment-ukaisi">An alignment assessment of the UK AISI cybertesting incident</a></td>
+<td align="right">17</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">51</td>
+<td><a href="https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123">AI models think humans are a bunch of amoral sheep</a></td>
+<td align="right">8</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">50</td>
+<td><a href="https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html">AI devours a fifth of companies&#39; IT budgets</a></td>
+<td align="right">11</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">49</td>
+<td><a href="https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud">Wolves enter Finnish villages after Google clears 1300 acres for AI data centers</a></td>
+<td align="right">15</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">48</td>
+<td><a href="https://blog.greenflagged.dev/posts/agents-fail-like-engineers/">Agents fail like engineers, so I review them like engineers</a></td>
+<td align="right">11</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">46</td>
+<td><a href="https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988">AI is devastating higher education, but the system was broken</a></td>
+<td align="right">10</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">40</td>
+<td><a href="https://chenglou.me/handwired/">Show HN: Turn regular JavaScript into a neural net</a></td>
+<td align="right">44</td>
+<td align="right">12</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-10-23</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-10-23/ai-picks</link>
@@ -7657,271 +7922,6 @@
 <td><a href="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/">Security auditing in the age of (good enough) AI</a></td>
 <td align="right">44</td>
 <td align="right">2</td>
-</tr>
-</tbody></table>
-<h2>评分说明</h2>
-<ul>
-<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
-<li>讨论：最高 20 分，根据评论数计算。</li>
-<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
-<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
-<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
-</ul>
-<hr>
-<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>每日 5 条精选推荐 2026-09-24</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-09-24/ai-picks</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-09-24/ai-picks</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>📡 信息雷达 · 2026-09-24 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Claude discovers a novel enzyme system with CRISPR-like repeats 推荐分：90/100 · HN 381 points · 390 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. Once Claude can measure something, it can make it faster 推荐分：87/100 · HN 128 points · 80 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 3. Claude Code reads AGENTS.md only when telemet...</description>
-      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-09-24</h1>
-<blockquote>
-<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
-</blockquote>
-<h2>今日 5 条推荐</h2>
-<h3>1. <a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></h3>
-<p><strong>推荐分：90/100</strong> · HN 381 points · 390 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49820134">查看 Hacker News 讨论</a></p>
-<h3>2. <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">Once Claude can measure something, it can make it faster</a></h3>
-<p><strong>推荐分：87/100</strong> · HN 128 points · 80 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 32/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49821196">查看 Hacker News 讨论</a></p>
-<h3>3. <a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/">Claude Code reads AGENTS.md only when telemetry is on [fixed]</a></h3>
-<p><strong>推荐分：85/100</strong> · HN 434 points · 241 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49814947">查看 Hacker News 讨论</a></p>
-<h3>4. <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">Gemini 3.8 text-to-speech</a></h3>
-<p><strong>推荐分：85/100</strong> · HN 222 points · 113 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49817615">查看 Hacker News 讨论</a></p>
-<h3>5. <a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html">OpenAI breaches Medicare, Albanese reveals</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 98 points · 48 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 30/35、讨论 20/20、时效 25/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=49822556">查看 Hacker News 讨论</a></p>
-<h2>全部候选（最多 30 条）</h2>
-<table>
-<thead>
-<tr>
-<th align="right">排名</th>
-<th align="right">推荐分</th>
-<th>标题</th>
-<th align="right">HN 热度</th>
-<th align="right">评论</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="right">1</td>
-<td align="right">90</td>
-<td><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></td>
-<td align="right">381</td>
-<td align="right">390</td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td align="right">87</td>
-<td><a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">Once Claude can measure something, it can make it faster</a></td>
-<td align="right">128</td>
-<td align="right">80</td>
-</tr>
-<tr>
-<td align="right">3</td>
-<td align="right">85</td>
-<td><a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/">Claude Code reads AGENTS.md only when telemetry is on [fixed]</a></td>
-<td align="right">434</td>
-<td align="right">241</td>
-</tr>
-<tr>
-<td align="right">4</td>
-<td align="right">85</td>
-<td><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">Gemini 3.8 text-to-speech</a></td>
-<td align="right">222</td>
-<td align="right">113</td>
-</tr>
-<tr>
-<td align="right">5</td>
-<td align="right">80</td>
-<td><a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html">OpenAI breaches Medicare, Albanese reveals</a></td>
-<td align="right">98</td>
-<td align="right">48</td>
-</tr>
-<tr>
-<td align="right">6</td>
-<td align="right">78</td>
-<td><a href="https://stripe.dev/blog/meet-stripes-knowledge-ai-platform">Stripe&#39;s Knowledge AI Platform</a></td>
-<td align="right">165</td>
-<td align="right">101</td>
-</tr>
-<tr>
-<td align="right">7</td>
-<td align="right">75</td>
-<td><a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">Jev in 25 Lines of Python</a></td>
-<td align="right">604</td>
-<td align="right">190</td>
-</tr>
-<tr>
-<td align="right">8</td>
-<td align="right">75</td>
-<td><a href="https://madradavid.com/claudes-load-bearing-seams/">Claude&#39;s Load-Bearing Seams</a></td>
-<td align="right">79</td>
-<td align="right">30</td>
-</tr>
-<tr>
-<td align="right">9</td>
-<td align="right">75</td>
-<td><a href="https://fly.io/blog/vscode-ssh-wtf/">VSCode&#39;s SSH Agent Is Bananas</a></td>
-<td align="right">58</td>
-<td align="right">42</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td align="right">73</td>
-<td><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></td>
-<td align="right">1766</td>
-<td align="right">1074</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td align="right">73</td>
-<td><a href="https://artificialanalysis.ai/models/claude-opus-5-5">Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</a></td>
-<td align="right">329</td>
-<td align="right">103</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td align="right">73</td>
-<td><a href="https://unreallabs.ai/blog/unreal-agent/">Unreal Agent</a></td>
-<td align="right">234</td>
-<td align="right">121</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td align="right">72</td>
-<td><a href="https://strandsagents.com/blog/introducing-strands-harness/">Strands Harness</a></td>
-<td align="right">130</td>
-<td align="right">90</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td align="right">68</td>
-<td><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></td>
-<td align="right">1728</td>
-<td align="right">821</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td align="right">68</td>
-<td><a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/">Pentagon says overreliance on AI contributed to missile strike on Iran school</a></td>
-<td align="right">885</td>
-<td align="right">479</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td align="right">68</td>
-<td><a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td>
-<td align="right">720</td>
-<td align="right">436</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td align="right">68</td>
-<td><a href="https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/">OpenAI is well positioned to fast-follow Jev</a></td>
-<td align="right">314</td>
-<td align="right">221</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td align="right">65</td>
-<td><a href="https://www.bbc.co.uk/news/articles/cmlyq09jp49eo">Community condemn Bedminster AI mural as &#39;insult&#39; to artists</a></td>
-<td align="right">35</td>
-<td align="right">26</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td align="right">65</td>
-<td><a href="https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078">OpenAI hacked Australian Medicare portal</a></td>
-<td align="right">12</td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td align="right">64</td>
-<td><a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">The current balance of power in open models</a></td>
-<td align="right">120</td>
-<td align="right">54</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td align="right">64</td>
-<td><a href="https://minimaxir.com/2026/09/agentic-iteration/">Writing Rust code that&#39;s fast by asking agents to make the code faster</a></td>
-<td align="right">109</td>
-<td align="right">59</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td align="right">57</td>
-<td><a href="https://thenewstack.io/huang-ai-agents-engineers/">Jensen Huang says the junior developer problem ends in two years</a></td>
-<td align="right">8</td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td align="right">23</td>
-<td align="right">57</td>
-<td><a href="https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic">An &#39;AI freeze&#39; could make big AI companies bigger and hurt smaller firms</a></td>
-<td align="right">6</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td align="right">56</td>
-<td><a href="https://arxiv.org/abs/2609.15369">Show HN: Training a model to identify AI web content from structure alone</a></td>
-<td align="right">64</td>
-<td align="right">21</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td align="right">56</td>
-<td><a href="https://www.coveragecat.com/">Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent</a></td>
-<td align="right">52</td>
-<td align="right">30</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td align="right">54</td>
-<td><a href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507">OpenAI &#39;agent&#39; hacked Australia&#39;s health service</a></td>
-<td align="right">9</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td align="right">49</td>
-<td><a href="https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/">OpenAI agents hacked Australian Medicare system</a></td>
-<td align="right">8</td>
-<td align="right">0</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td align="right">47</td>
-<td><a href="https://www.calcalistech.com/ctechnews/article/13p5khsib">After AI models escaped testing environments,Irregular seeks $1.5B valuation</a></td>
-<td align="right">6</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td align="right">44</td>
-<td><a href="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/">Security auditing in the age of (good enough) AI</a></td>
-<td align="right">7</td>
-<td align="right">0</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td align="right">39</td>
-<td><a href="https://www.avclub.com/meta-muse-ai-human-labor">Surprise, Meta&#39;s latest AI gimmick is just underpaid humans</a></td>
-<td align="right">3</td>
-<td align="right">0</td>
 </tr>
 </tbody></table>
 <h2>评分说明</h2>
