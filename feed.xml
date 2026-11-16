@@ -6,7 +6,272 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://TaotaOO1.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 02:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:21:47 +0000</lastBuildDate>
+    <item>
+      <title>每日 5 条精选推荐 2026-11-16</title>
+      <link>https://TaotaOO1.github.io/agents-radar/#2026-11-16/ai-picks</link>
+      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-11-16/ai-picks</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>📡 信息雷达 · 2026-11-16 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. All AI-generated code should be Open Source 推荐分：80/100 · HN 1096 points · 596 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 2. Understanding Positional Embeddings in Modern LLMs 推荐分：72/100 · HN 206 points · 27 条评论 推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 17/20、时效 15/25、AI 相关性 5/20 组成。 查看 Hacker News 讨论 3. Parents pay $75k for Alpha&amp;#39;s AI school. Half of its students missed math t...</description>
+      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-11-16</h1>
+<blockquote>
+<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
+</blockquote>
+<h2>今日 5 条推荐</h2>
+<h3>1. <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">All AI-generated code should be Open Source</a></h3>
+<p><strong>推荐分：80/100</strong> · HN 1096 points · 596 条评论</p>
+<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50507303">查看 Hacker News 讨论</a></p>
+<h3>2. <a href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings">Understanding Positional Embeddings in Modern LLMs</a></h3>
+<p><strong>推荐分：72/100</strong> · HN 206 points · 27 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 17/20、时效 15/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50506376">查看 Hacker News 讨论</a></p>
+<h3>3. <a href="https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/">Parents pay $75k for Alpha&#39;s AI school. Half of its students missed math target</a></h3>
+<p><strong>推荐分：72/100</strong> · HN 63 points · 61 条评论</p>
+<p>推荐理由：讨论充分、发布时间新。评分由热度 27/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50509953">查看 Hacker News 讨论</a></p>
+<h3>4. <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</a></h3>
+<p><strong>推荐分：68/100</strong> · HN 1099 points · 648 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50493251">查看 Hacker News 讨论</a></p>
+<h3>5. <a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">Court denies motion to dismiss DRAM price fixing case</a></h3>
+<p><strong>推荐分：68/100</strong> · HN 492 points · 219 条评论</p>
+<p>推荐理由：社区热度高、讨论充分。评分由热度 35/35、讨论 20/20、时效 8/25、AI 相关性 5/20 组成。</p>
+<p><a href="https://news.ycombinator.com/item?id=50502988">查看 Hacker News 讨论</a></p>
+<h2>全部候选（最多 30 条）</h2>
+<table>
+<thead>
+<tr>
+<th align="right">排名</th>
+<th align="right">推荐分</th>
+<th>标题</th>
+<th align="right">HN 热度</th>
+<th align="right">评论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">80</td>
+<td><a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">All AI-generated code should be Open Source</a></td>
+<td align="right">1096</td>
+<td align="right">596</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">72</td>
+<td><a href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings">Understanding Positional Embeddings in Modern LLMs</a></td>
+<td align="right">206</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">72</td>
+<td><a href="https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/">Parents pay $75k for Alpha&#39;s AI school. Half of its students missed math target</a></td>
+<td align="right">63</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">68</td>
+<td><a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</a></td>
+<td align="right">1099</td>
+<td align="right">648</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">68</td>
+<td><a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal">Court denies motion to dismiss DRAM price fixing case</a></td>
+<td align="right">492</td>
+<td align="right">219</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">67</td>
+<td><a href="https://status.claude.com/incidents/nn11wk485zfn">Elevated errors on claude.ai, Claude Code, and platform.claude.com</a></td>
+<td align="right">493</td>
+<td align="right">390</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">65</td>
+<td><a href="https://www.hntrends.com/2026/november.html">&quot;Who is Hiring?&quot; postings stuck near 12-year lows as AI reaches half of all jobs</a></td>
+<td align="right">40</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">62</td>
+<td><a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">Apple has new Mac app coming to make running local AI models easy</a></td>
+<td align="right">574</td>
+<td align="right">564</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">62</td>
+<td><a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">Gemini 4 Hydrogen and Orchestrator</a></td>
+<td align="right">504</td>
+<td align="right">165</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">62</td>
+<td><a href="https://www.youtube.com/watch?v=IRK8h67ol7Q">Jonathan Blow – If AI solved coding, why is my software still the same? [video]</a></td>
+<td align="right">482</td>
+<td align="right">725</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td align="right">62</td>
+<td><a href="https://unemploymentlabs.com/checkpoint-forensics">Chinese frontier AI models carry the fingerprint of export-controlled GPUs</a></td>
+<td align="right">438</td>
+<td align="right">185</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td align="right">62</td>
+<td><a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">AI unlocks Gödel&#39;s notebooks, said to contain hundreds of proved theorems</a></td>
+<td align="right">438</td>
+<td align="right">110</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td align="right">62</td>
+<td><a href="https://www.youtube.com/watch?v=WPj3aQ-xxpI">Claude Code and Codex reverse engineered my 1994 Jeep&#39;s ECU over a $3 Arduino [video]</a></td>
+<td align="right">344</td>
+<td align="right">173</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td align="right">62</td>
+<td><a href="https://unsloth.ai/docs/models/qwen3.8">Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update</a></td>
+<td align="right">258</td>
+<td align="right">84</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="right">62</td>
+<td><a href="https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/">Generative AI uses more energy on non-English text</a></td>
+<td align="right">231</td>
+<td align="right">125</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="right">61</td>
+<td><a href="https://github.com/paul-nameless/agweb">Show HN: Agweb – a browser for agents that stays out of your way</a></td>
+<td align="right">107</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td align="right">60</td>
+<td><a href="https://github.com/db-branch/db-branch">Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</a></td>
+<td align="right">33</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td align="right">57</td>
+<td><a href="https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html">A Human Reads the Anthropic IPO Filing</a></td>
+<td align="right">21</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="right">55</td>
+<td><a href="https://operator0x.com/field-notes/qwen-conversation-state-space/">What thousands of conversations look like inside a language model</a></td>
+<td align="right">116</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td align="right">50</td>
+<td><a href="https://claude.dev/blog/what-a-task-costs-on-opus-5-5/">What a task costs on Opus 5.5</a></td>
+<td align="right">24</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td align="right">47</td>
+<td><a href="https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china">Congress wants to tighten export rules on AI chips after Nvidia spy scandal</a></td>
+<td align="right">6</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td align="right">46</td>
+<td><a href="https://www.interconnects.ai/p/open-source-ai-without-jensen">Open-source AI without Jensen</a></td>
+<td align="right">27</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="right">46</td>
+<td><a href="https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world">&#39;It&#39;s like the Wild West&#39;: how AI has rocked the literary world</a></td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="right">43</td>
+<td><a href="https://github.com/jjyr/canban">Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents</a></td>
+<td align="right">7</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td align="right">43</td>
+<td><a href="https://attest-framework.github.io/">Show HN: Attest – Test what AI agents do, not just what they say</a></td>
+<td align="right">6</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td align="right">43</td>
+<td><a href="https://finance.biggo.com/news/71888475bad974d6">GLM Models Cut AI Coding Costs 90% for 2k Engineers</a></td>
+<td align="right">6</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td align="right">40</td>
+<td><a href="https://github.com/itsmeyaw/skillset">Show HN: Skillset: Easily curate and install agent skills collection</a></td>
+<td align="right">4</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td align="right">39</td>
+<td><a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization">The efficient frontier of LLM inference</a></td>
+<td align="right">3</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td align="right">37</td>
+<td><a href="https://news.ycombinator.com/item?id=50508089">Ask HN: What does building hardware with AI look like?</a></td>
+<td align="right">5</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td align="right">34</td>
+<td><a href="https://caelaralabs.com">OpsJarvis: A self-hosted AI ops desk where humans approve every write</a></td>
+<td align="right">3</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+<h2>评分说明</h2>
+<ul>
+<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
+<li>讨论：最高 20 分，根据评论数计算。</li>
+<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
+<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
+<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
+</ul>
+<hr>
+<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>每日 5 条精选推荐 2026-11-15</title>
       <link>https://TaotaOO1.github.io/agents-radar/#2026-11-15/ai-picks</link>
@@ -7657,271 +7922,6 @@
 <td><a href="https://mymirrormd.com/">Show HN: MirrorMD – An AI second opinion from a facial cosmetic surgeon</a></td>
 <td align="right">8</td>
 <td align="right">9</td>
-</tr>
-</tbody></table>
-<h2>评分说明</h2>
-<ul>
-<li>热度：最高 35 分，使用 HN points 的对数刻度，避免头部文章完全碾压其他内容。</li>
-<li>讨论：最高 20 分，根据评论数计算。</li>
-<li>时效：最高 25 分，6 小时内得分最高，随后逐级衰减。</li>
-<li>AI 相关性：最高 20 分，根据标题和链接中的 AI、LLM、Agent 等关键词计算。</li>
-<li>去重：规范化 URL，移除常见追踪参数；重复项保留互动量更高的一条。</li>
-</ul>
-<hr>
-<p><em>由 agents-radar 免费规则模式自动生成；评分透明、可复现，不调用任何付费模型。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>每日 5 条精选推荐 2026-10-17</title>
-      <link>https://TaotaOO1.github.io/agents-radar/#2026-10-17/ai-picks</link>
-      <guid isPermaLink="true">https://TaotaOO1.github.io/agents-radar/#2026-10-17/ai-picks</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <description>📡 信息雷达 · 2026-10-17 免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。 今日 5 条推荐 1. Claude reveals ECDSA curve origins 推荐分：90/100 · HN 636 points · 260 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 2. How the Claude Code team does code review 推荐分：90/100 · HN 217 points · 203 条评论 推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。 查看 Hacker News 讨论 3. You could have invented transformers from memory 推荐分：84/100 · HN 117 points · 35 条评论 推荐理...</description>
-      <content:encoded><![CDATA[<h1>📡 信息雷达 · 2026-10-17</h1>
-<blockquote>
-<p>免费规则版：抓取 30 条，去重后保留 30 条候选，生成 5 条推荐。无需 API Key。</p>
-</blockquote>
-<h2>今日 5 条推荐</h2>
-<h3>1. <a href="https://www.anthropic.com/research/ecdsa-curve-origins">Claude reveals ECDSA curve origins</a></h3>
-<p><strong>推荐分：90/100</strong> · HN 636 points · 260 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=50122800">查看 Hacker News 讨论</a></p>
-<h3>2. <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">How the Claude Code team does code review</a></h3>
-<p><strong>推荐分：90/100</strong> · HN 217 points · 203 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 25/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=50122951">查看 Hacker News 讨论</a></p>
-<h3>3. <a href="https://alexwang.ai/posts/associative-memory/">You could have invented transformers from memory</a></h3>
-<p><strong>推荐分：84/100</strong> · HN 117 points · 35 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 31/35、讨论 18/20、时效 25/25、AI 相关性 10/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=50122878">查看 Hacker News 讨论</a></p>
-<h3>4. <a href="https://www.mercor.com/research/labor-index/benchmark-map/">90% of US working hours are spent on tasks not covered well by AI benchmarks</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 383 points · 324 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=50121179">查看 Hacker News 讨论</a></p>
-<h3>5. <a href="https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d">Anthropic assigned highest junk credit rating in June</a></h3>
-<p><strong>推荐分：80/100</strong> · HN 203 points · 62 条评论</p>
-<p>推荐理由：社区热度高、讨论充分、发布时间新。评分由热度 35/35、讨论 20/20、时效 20/25、AI 相关性 5/20 组成。</p>
-<p><a href="https://news.ycombinator.com/item?id=50122112">查看 Hacker News 讨论</a></p>
-<h2>全部候选（最多 30 条）</h2>
-<table>
-<thead>
-<tr>
-<th align="right">排名</th>
-<th align="right">推荐分</th>
-<th>标题</th>
-<th align="right">HN 热度</th>
-<th align="right">评论</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="right">1</td>
-<td align="right">90</td>
-<td><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Claude reveals ECDSA curve origins</a></td>
-<td align="right">636</td>
-<td align="right">260</td>
-</tr>
-<tr>
-<td align="right">2</td>
-<td align="right">90</td>
-<td><a href="https://claude.dev/blog/solving-code-review-at-anthropic/">How the Claude Code team does code review</a></td>
-<td align="right">217</td>
-<td align="right">203</td>
-</tr>
-<tr>
-<td align="right">3</td>
-<td align="right">84</td>
-<td><a href="https://alexwang.ai/posts/associative-memory/">You could have invented transformers from memory</a></td>
-<td align="right">117</td>
-<td align="right">35</td>
-</tr>
-<tr>
-<td align="right">4</td>
-<td align="right">80</td>
-<td><a href="https://www.mercor.com/research/labor-index/benchmark-map/">90% of US working hours are spent on tasks not covered well by AI benchmarks</a></td>
-<td align="right">383</td>
-<td align="right">324</td>
-</tr>
-<tr>
-<td align="right">5</td>
-<td align="right">80</td>
-<td><a href="https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d">Anthropic assigned highest junk credit rating in June</a></td>
-<td align="right">203</td>
-<td align="right">62</td>
-</tr>
-<tr>
-<td align="right">6</td>
-<td align="right">79</td>
-<td><a href="https://starskirmish.com/bench/v0-2/">Show HN: Gemini 4 Argon plays StarCraft</a></td>
-<td align="right">182</td>
-<td align="right">87</td>
-</tr>
-<tr>
-<td align="right">7</td>
-<td align="right">79</td>
-<td><a href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471">Postgres 19 delayed after AI reviewers find more bugs than humans can fix</a></td>
-<td align="right">176</td>
-<td align="right">65</td>
-</tr>
-<tr>
-<td align="right">8</td>
-<td align="right">76</td>
-<td><a href="https://bfl.ai/blog/flux-3-image-klein">FLUX 3 Image Klein</a></td>
-<td align="right">101</td>
-<td align="right">24</td>
-</tr>
-<tr>
-<td align="right">9</td>
-<td align="right">75</td>
-<td><a href="https://machinelearning.apple.com/research/mlx-distributed-inference">Apple ML Research: Muse Spark Open with MLX on Mac Studio</a></td>
-<td align="right">259</td>
-<td align="right">118</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td align="right">74</td>
-<td><a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits">Designing more efficient quantum circuits with Claude</a></td>
-<td align="right">90</td>
-<td align="right">18</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td align="right">71</td>
-<td><a href="https://rstation.ai/">Show HN: rStation – A shared research lab for your AI agents</a></td>
-<td align="right">50</td>
-<td align="right">19</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td align="right">68</td>
-<td><a href="https://research.meta.ai/blog/muse-spark-open">Muse Spark Open</a></td>
-<td align="right">901</td>
-<td align="right">466</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td align="right">68</td>
-<td><a href="https://www.krea.ai/krea-3">Krea 3 – An image model built for editing at scale</a></td>
-<td align="right">341</td>
-<td align="right">107</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td align="right">68</td>
-<td><a href="https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/">Simons Foundation launches $15M effort to help mathematicians navigate AI era</a></td>
-<td align="right">247</td>
-<td align="right">198</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td align="right">68</td>
-<td><a href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/">Using AI to reverse engineer hardware</a></td>
-<td align="right">243</td>
-<td align="right">235</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td align="right">67</td>
-<td><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">Containment and monitoring failures are to blame for AI hacking reports: experts</a></td>
-<td align="right">946</td>
-<td align="right">619</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td align="right">66</td>
-<td><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113">How to make System 1 LLMs show System 2 competencies?</a></td>
-<td align="right">48</td>
-<td align="right">24</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td align="right">63</td>
-<td><a href="https://already-clean.goodfire.com/">Neural networks are clean</a></td>
-<td align="right">797</td>
-<td align="right">324</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td align="right">62</td>
-<td><a href="https://deepmind.google/models/gemini/">Gemini 4 Argon</a></td>
-<td align="right">1461</td>
-<td align="right">1040</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td align="right">62</td>
-<td><a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">AI is a tool and using it well takes skill</a></td>
-<td align="right">799</td>
-<td align="right">605</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td align="right">61</td>
-<td><a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">Why harnesses matter for energy (and token) efficiency</a></td>
-<td align="right">35</td>
-<td align="right">11</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td align="right">59</td>
-<td><a href="https://github.com/mixelpixx/Konnect">AI-assisted PCB design for KiCad 10</a></td>
-<td align="right">127</td>
-<td align="right">47</td>
-</tr>
-<tr>
-<td align="right">23</td>
-<td align="right">59</td>
-<td><a href="https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/">Taco Bell drive-thru AI bot increased employee retention by making jobs easier</a></td>
-<td align="right">14</td>
-<td align="right">7</td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td align="right">56</td>
-<td><a href="https://github.com/awslabs/aidlc-workflows">Aidlc: Adaptive workflow steering rules for AI coding agents</a></td>
-<td align="right">27</td>
-<td align="right">22</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td align="right">55</td>
-<td><a href="https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html">$137M in A.I.-Generated Ads Flood the Midterms</a></td>
-<td align="right">34</td>
-<td align="right">3</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td align="right">51</td>
-<td><a href="https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/">Post About Recreating Adobe Tools Using AI Banned per Adobe Request</a></td>
-<td align="right">16</td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td align="right">49</td>
-<td><a href="https://github.com/Moshik21/weatherdeck">Show HN: Weatherdeck – a read-only status board for AI coding agent lanes</a></td>
-<td align="right">8</td>
-<td align="right">0</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td align="right">45</td>
-<td><a href="https://github.com/sshoecraft/meshxfs">MeshXFS: A clustered filesystem built on XFS, written by AI</a></td>
-<td align="right">10</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td align="right">44</td>
-<td><a href="https://vercel.com/blog/ai-gateway-production-index-october-2026">Open weight takes 71.5% of tokens and 23% of spend</a></td>
-<td align="right">7</td>
-<td align="right">0</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td align="right">39</td>
-<td><a href="https://www.kapwing.com/ai/prompt-generator/camera">Show HN: Camera Controls and Motion for AI Video Prompts</a></td>
-<td align="right">4</td>
-<td align="right">1</td>
 </tr>
 </tbody></table>
 <h2>评分说明</h2>
